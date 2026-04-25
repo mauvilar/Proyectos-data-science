@@ -6,7 +6,7 @@ Recopilación de proyectos del bootcamp de Data Science de TripleTen. Cada carpe
 
 | Sprint | Proyecto | Tipo de análisis |
 |--------|----------|------------------|
-| [Sp_1](Sp_1/) | Store 1 — Primera fase | Fundamentos de Python: limpieza de strings y manipulación de listas/diccionarios para preparar datos de clientes. |
+| [Sp_1](Sp_1/) | Store 1 — Primera fase | Limpieza de strings y manipulación de listas/diccionarios para preparar datos de clientes. |
 | [Sp_2](Sp_2/) | Store 1 — Segunda fase | Procesamiento avanzado en Python puro: listas anidadas, funciones y agregaciones para perfilar clientes y categorías de compra. |
 | [Sp_3](Sp_3/) | Déjame escuchar música | Análisis exploratorio con pandas: hábitos musicales de usuarios en dos ciudades, prueba de hipótesis sobre días de la semana y géneros. |
 | [Sp_4](Sp_4/) | Instacart — Llena ese carrito | EDA completo de pedidos de comestibles: limpieza, valores ausentes y duplicados, y análisis de comportamiento de compra. |
