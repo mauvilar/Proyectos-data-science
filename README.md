@@ -17,6 +17,7 @@ Recopilación de proyectos del bootcamp de Data Science de TripleTen. Cada carpe
 | [Sp_11](Sp_11/) | Test A/B | Análisis estadístico de un test A/B: priorización de hipótesis (ICE/RICE) y evaluación de significancia entre grupos. |
 | [Sp_12](Sp_12/) | Embudo de eventos y test A/A/B | Análisis de logs de eventos: construcción de embudo de conversión y evaluación de un test A/A/B. |
 | [Sp_14](Sp_14/) | Model Fitness — Churn y segmentación | Machine learning: predicción de cancelación de clientes (clasificación) y segmentación mediante clustering jerárquico/K-Means. |
+| [Telecomunicaciones — Operadores Ineficaces](Telecomunicaciones-Operadores-Ineficaces/) | Identificación de operadores ineficaces en un call center | Proyecto integral con tres casos: análisis principal con clasificación de operadores ineficaces (EDA + ML), prueba A/B sobre un sistema de recomendaciones, y resolución de tareas con SQL. Incluye también el plan de descomposición de tareas. |
 
 ## Stack utilizado
 
