@@ -1,0 +1,65 @@
+{
+  "fecha_consulta": "2026-09-21",
+  "dataset": "inversion_extranjera_directa",
+  "metadata_modified": "2026-08-28T23:55:36.484757",
+  "licencia": "Creative Commons Attribution 4.0",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
+  "tablas": {
+    "act_ti_tipodeinv": {
+      "resource_id": "965c77a9-1807-4dd4-a6bf-4d32c12ad447",
+      "filas": 320,
+      "confidenciales": 0,
+      "anio_min": 2006,
+      "anio_max": 2025
+    },
+    "act_ti_destino": {
+      "resource_id": "444d2c5f-84dc-4717-ae29-683f395dbf99",
+      "filas": 2640,
+      "confidenciales": 0,
+      "anio_min": 2006,
+      "anio_max": 2025
+    },
+    "act_ti_origen": {
+      "resource_id": "3fffc598-92a0-458e-b618-d20153401ed4",
+      "filas": 12240,
+      "confidenciales": 1856,
+      "anio_min": 2006,
+      "anio_max": 2025
+    },
+    "act_ti_sector": {
+      "resource_id": "9a377082-27d9-4636-99ca-2cf6e28d72d6",
+      "filas": 31680,
+      "confidenciales": 4715,
+      "anio_min": 2006,
+      "anio_max": 2025
+    },
+    "act_ef_tipodeinv": {
+      "resource_id": "15753256-540a-404a-a5db-6f1401cda44b",
+      "filas": 10320,
+      "confidenciales": 0,
+      "anio_min": 2006,
+      "anio_max": 2025
+    },
+    "orig_ti_tipodeinv": {
+      "resource_id": "204b50c1-bc51-4a04-988c-b45e4deca161",
+      "filas": 132,
+      "confidenciales": 0,
+      "anio_min": 2018,
+      "anio_max": 2026
+    },
+    "orig_ti_destino": {
+      "resource_id": "cf30cdeb-f5a4-4b6a-bd09-776ca1c71ccc",
+      "filas": 1089,
+      "confidenciales": 0,
+      "anio_min": 2018,
+      "anio_max": 2026
+    },
+    "orig_ti_origen": {
+      "resource_id": "9b53e7a7-12f3-4fde-9521-6586d7d436d2",
+      "filas": 5049,
+      "confidenciales": 818,
+      "anio_min": 2018,
+      "anio_max": 2026
+    }
+  }
+}

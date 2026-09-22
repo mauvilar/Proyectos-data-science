@@ -1,0 +1,5050 @@
+pais_origen,anio,trimestre,confidencial,ied_acumulado_mdd,flujo_mdd
+Afganistán,2018,1,False,0.0,0.0
+Afganistán,2018,2,False,0.0,0.0
+Afganistán,2018,3,False,0.0,0.0
+Afganistán,2018,4,False,0.0,0.0
+Afganistán,2019,1,False,0.0,0.0
+Afganistán,2019,2,False,0.0,0.0
+Afganistán,2019,3,False,0.0,0.0
+Afganistán,2019,4,False,0.0,0.0
+Afganistán,2020,1,False,0.0,0.0
+Afganistán,2020,2,False,0.0,0.0
+Afganistán,2020,3,False,0.0,0.0
+Afganistán,2020,4,False,0.0,0.0
+Afganistán,2021,1,False,0.0,0.0
+Afganistán,2021,2,False,0.0,0.0
+Afganistán,2021,3,False,0.0,0.0
+Afganistán,2021,4,False,0.0,0.0
+Afganistán,2022,1,False,0.0,0.0
+Afganistán,2022,2,False,0.0,0.0
+Afganistán,2022,3,False,0.0,0.0
+Afganistán,2022,4,False,0.0,0.0
+Afganistán,2023,1,False,0.0,0.0
+Afganistán,2023,2,False,0.0,0.0
+Afganistán,2023,3,False,0.0,0.0
+Afganistán,2023,4,False,0.0,0.0
+Afganistán,2024,1,False,0.0,0.0
+Afganistán,2024,2,False,0.0,0.0
+Afganistán,2024,3,False,0.0,0.0
+Afganistán,2024,4,False,0.0,0.0
+Afganistán,2025,1,False,0.0,0.0
+Afganistán,2025,2,False,0.0,0.0
+Afganistán,2025,3,False,0.0,0.0
+Afganistán,2025,4,False,0.0,0.0
+Afganistán,2026,1,False,0.0,0.0
+Albania,2018,1,False,0.0,0.0
+Albania,2018,2,False,0.0,0.0
+Albania,2018,3,False,0.0,0.0
+Albania,2018,4,False,0.0,0.0
+Albania,2019,1,False,0.0,0.0
+Albania,2019,2,False,0.0,0.0
+Albania,2019,3,False,0.0,0.0
+Albania,2019,4,False,0.0,0.0
+Albania,2020,1,False,0.0,0.0
+Albania,2020,2,False,0.0,0.0
+Albania,2020,3,False,0.0,0.0
+Albania,2020,4,False,0.0,0.0
+Albania,2021,1,False,0.0,0.0
+Albania,2021,2,False,0.0,0.0
+Albania,2021,3,False,0.0,0.0
+Albania,2021,4,False,0.0,0.0
+Albania,2022,1,False,0.0,0.0
+Albania,2022,2,False,0.0,0.0
+Albania,2022,3,False,0.0,0.0
+Albania,2022,4,False,0.0,0.0
+Albania,2023,1,True,,
+Albania,2023,2,False,0.0,
+Albania,2023,3,False,0.0,0.0
+Albania,2023,4,False,0.0,0.0
+Albania,2024,1,False,0.0,0.0
+Albania,2024,2,False,0.0,0.0
+Albania,2024,3,True,,
+Albania,2024,4,True,,
+Albania,2025,1,False,0.0,0.0
+Albania,2025,2,False,5.35318023,5.35318023
+Albania,2025,3,False,0.0,-5.35318023
+Albania,2025,4,False,0.0,0.0
+Albania,2026,1,False,0.0,0.0
+Alemania,2018,1,False,3.3217482,3.3217482
+Alemania,2018,2,False,1565.771153,1562.4494048
+Alemania,2018,3,False,2219.865974,654.0948209999999
+Alemania,2018,4,False,2604.376363,384.51038900000003
+Alemania,2019,1,False,160.7376201,160.7376201
+Alemania,2019,2,False,1180.385049,1019.6474289
+Alemania,2019,3,False,2637.468095,1457.0830460000002
+Alemania,2019,4,False,3022.077661,384.60956599999963
+Alemania,2020,1,False,973.3541068,973.3541068
+Alemania,2020,2,False,1217.524386,244.1702792000001
+Alemania,2020,3,False,686.3933908,-531.1309952
+Alemania,2020,4,False,1024.126592,337.73320120000005
+Alemania,2021,1,False,268.1640917,268.1640917
+Alemania,2021,2,False,1081.013743,812.8496513
+Alemania,2021,3,False,1322.550076,241.536333
+Alemania,2021,4,False,1645.664763,323.114687
+Alemania,2022,1,False,334.3324631,334.3324631
+Alemania,2022,2,False,718.5122081,384.17974499999997
+Alemania,2022,3,False,921.5038316,202.99162350000006
+Alemania,2022,4,False,215.2236797,-706.2801519
+Alemania,2023,1,False,1258.939968,1258.939968
+Alemania,2023,2,False,2547.279328,1288.3393600000002
+Alemania,2023,3,False,2806.654814,259.3754859999999
+Alemania,2023,4,False,2398.871458,-407.7833559999999
+Alemania,2024,1,False,1740.134625,1740.134625
+Alemania,2024,2,False,4167.185806,2427.0511810000007
+Alemania,2024,3,False,3888.922456,-278.2633500000006
+Alemania,2024,4,False,3788.463196,-100.45925999999963
+Alemania,2025,1,False,800.5718559,800.5718559
+Alemania,2025,2,False,1284.377604,483.8057481000001
+Alemania,2025,3,False,1634.372665,349.9950610000001
+Alemania,2025,4,False,799.9820453,-834.3906197000001
+Alemania,2026,1,False,608.7620895,608.7620895
+Andorra,2018,1,False,0.0,0.0
+Andorra,2018,2,False,0.0,0.0
+Andorra,2018,3,False,0.0,0.0
+Andorra,2018,4,False,0.0,0.0
+Andorra,2019,1,False,0.0,0.0
+Andorra,2019,2,True,,
+Andorra,2019,3,True,,
+Andorra,2019,4,True,,
+Andorra,2020,1,False,0.0,0.0
+Andorra,2020,2,False,0.0,0.0
+Andorra,2020,3,False,0.0,0.0
+Andorra,2020,4,False,0.0,0.0
+Andorra,2021,1,False,0.0,0.0
+Andorra,2021,2,False,0.0,0.0
+Andorra,2021,3,False,0.0,0.0
+Andorra,2021,4,False,0.0,0.0
+Andorra,2022,1,False,0.0,0.0
+Andorra,2022,2,False,0.0,0.0
+Andorra,2022,3,False,0.0,0.0
+Andorra,2022,4,False,0.0,0.0
+Andorra,2023,1,False,0.0,0.0
+Andorra,2023,2,False,0.0,0.0
+Andorra,2023,3,False,0.0,0.0
+Andorra,2023,4,True,,
+Andorra,2024,1,False,0.0,0.0
+Andorra,2024,2,False,0.0,0.0
+Andorra,2024,3,False,0.0,0.0
+Andorra,2024,4,False,0.0,0.0
+Andorra,2025,1,False,0.0,0.0
+Andorra,2025,2,False,0.0,0.0
+Andorra,2025,3,True,,
+Andorra,2025,4,True,,
+Andorra,2026,1,False,0.0,0.0
+Antigua y Barbuda,2018,1,False,0.0,0.0
+Antigua y Barbuda,2018,2,False,0.0,0.0
+Antigua y Barbuda,2018,3,False,0.0,0.0
+Antigua y Barbuda,2018,4,False,0.0,0.0
+Antigua y Barbuda,2019,1,False,0.0,0.0
+Antigua y Barbuda,2019,2,False,0.0,0.0
+Antigua y Barbuda,2019,3,False,0.0,0.0
+Antigua y Barbuda,2019,4,False,0.0,0.0
+Antigua y Barbuda,2020,1,False,0.0,0.0
+Antigua y Barbuda,2020,2,False,0.0,0.0
+Antigua y Barbuda,2020,3,False,0.0,0.0
+Antigua y Barbuda,2020,4,False,0.0,0.0
+Antigua y Barbuda,2021,1,False,0.0,0.0
+Antigua y Barbuda,2021,2,False,0.0,0.0
+Antigua y Barbuda,2021,3,False,0.0,0.0
+Antigua y Barbuda,2021,4,False,0.0,0.0
+Antigua y Barbuda,2022,1,False,0.0,0.0
+Antigua y Barbuda,2022,2,False,0.0,0.0
+Antigua y Barbuda,2022,3,False,0.0,0.0
+Antigua y Barbuda,2022,4,True,,
+Antigua y Barbuda,2023,1,False,0.0,0.0
+Antigua y Barbuda,2023,2,False,0.0,0.0
+Antigua y Barbuda,2023,3,False,0.0,0.0
+Antigua y Barbuda,2023,4,False,0.0,0.0
+Antigua y Barbuda,2024,1,False,0.0,0.0
+Antigua y Barbuda,2024,2,False,0.0,0.0
+Antigua y Barbuda,2024,3,False,0.0,0.0
+Antigua y Barbuda,2024,4,False,0.0,0.0
+Antigua y Barbuda,2025,1,False,0.0,0.0
+Antigua y Barbuda,2025,2,False,0.0,0.0
+Antigua y Barbuda,2025,3,False,0.0,0.0
+Antigua y Barbuda,2025,4,False,0.0,0.0
+Antigua y Barbuda,2026,1,False,0.0,0.0
+Arabia Saudita,2018,1,False,0.0,0.0
+Arabia Saudita,2018,2,False,0.0,0.0
+Arabia Saudita,2018,3,True,,
+Arabia Saudita,2018,4,True,,
+Arabia Saudita,2019,1,False,0.0,0.0
+Arabia Saudita,2019,2,False,0.0,0.0
+Arabia Saudita,2019,3,True,,
+Arabia Saudita,2019,4,True,,
+Arabia Saudita,2020,1,False,0.0,0.0
+Arabia Saudita,2020,2,False,0.0,0.0
+Arabia Saudita,2020,3,False,0.0,0.0
+Arabia Saudita,2020,4,True,,
+Arabia Saudita,2021,1,True,,
+Arabia Saudita,2021,2,True,,
+Arabia Saudita,2021,3,True,,
+Arabia Saudita,2021,4,True,,
+Arabia Saudita,2022,1,True,,
+Arabia Saudita,2022,2,True,,
+Arabia Saudita,2022,3,True,,
+Arabia Saudita,2022,4,True,,
+Arabia Saudita,2023,1,False,0.0,0.0
+Arabia Saudita,2023,2,False,0.0,0.0
+Arabia Saudita,2023,3,False,0.0,0.0
+Arabia Saudita,2023,4,False,0.0,0.0
+Arabia Saudita,2024,1,False,0.0,0.0
+Arabia Saudita,2024,2,True,,
+Arabia Saudita,2024,3,True,,
+Arabia Saudita,2024,4,True,,
+Arabia Saudita,2025,1,False,0.0,0.0
+Arabia Saudita,2025,2,False,0.0,0.0
+Arabia Saudita,2025,3,False,0.0,0.0
+Arabia Saudita,2025,4,True,,
+Arabia Saudita,2026,1,False,0.0,0.0
+Argelia,2018,1,False,0.0,0.0
+Argelia,2018,2,False,0.0,0.0
+Argelia,2018,3,False,0.0,0.0
+Argelia,2018,4,False,0.0,0.0
+Argelia,2019,1,False,0.0,0.0
+Argelia,2019,2,False,0.0,0.0
+Argelia,2019,3,True,,
+Argelia,2019,4,True,,
+Argelia,2020,1,False,0.0,0.0
+Argelia,2020,2,False,0.0,0.0
+Argelia,2020,3,False,0.0,0.0
+Argelia,2020,4,False,0.0,0.0
+Argelia,2021,1,False,0.0,0.0
+Argelia,2021,2,False,0.0,0.0
+Argelia,2021,3,False,0.0,0.0
+Argelia,2021,4,False,0.0,0.0
+Argelia,2022,1,True,,
+Argelia,2022,2,True,,
+Argelia,2022,3,True,,
+Argelia,2022,4,True,,
+Argelia,2023,1,False,0.0,0.0
+Argelia,2023,2,False,0.0,0.0
+Argelia,2023,3,False,0.0,0.0
+Argelia,2023,4,False,0.0,0.0
+Argelia,2024,1,False,0.0,0.0
+Argelia,2024,2,False,0.0,0.0
+Argelia,2024,3,False,0.0,0.0
+Argelia,2024,4,False,0.0,0.0
+Argelia,2025,1,False,0.0,0.0
+Argelia,2025,2,False,0.0,0.0
+Argelia,2025,3,False,0.0,0.0
+Argelia,2025,4,False,0.0,0.0
+Argelia,2026,1,True,,
+Argentina,2018,1,False,112.7567598,112.7567598
+Argentina,2018,2,False,377.1430684,264.3863086
+Argentina,2018,3,False,560.8114257,183.66835729999997
+Argentina,2018,4,False,1045.00401,484.19258430000014
+Argentina,2019,1,False,112.0890069,112.0890069
+Argentina,2019,2,False,-190.3977062,-302.4867131
+Argentina,2019,3,False,306.0113532,496.40905939999993
+Argentina,2019,4,False,441.129815,135.11846180000003
+Argentina,2020,1,False,-284.936091,-284.936091
+Argentina,2020,2,False,-103.88662,181.04947099999998
+Argentina,2020,3,False,125.3298074,229.2164274
+Argentina,2020,4,False,610.3797665,485.04995909999997
+Argentina,2021,1,False,178.2915889,178.2915889
+Argentina,2021,2,False,271.9187965,93.62720759999999
+Argentina,2021,3,False,278.1887181,6.269921600000032
+Argentina,2021,4,False,309.4460327,31.257314599999972
+Argentina,2022,1,False,617.921356,617.921356
+Argentina,2022,2,False,1612.559488,994.6381320000002
+Argentina,2022,3,False,1579.524776,-33.03471200000013
+Argentina,2022,4,False,2315.936752,736.4119760000001
+Argentina,2023,1,False,1739.583594,1739.583594
+Argentina,2023,2,False,2231.850661,492.267067
+Argentina,2023,3,False,2454.407174,222.556513
+Argentina,2023,4,False,2248.388868,-206.01830599999994
+Argentina,2024,1,False,840.4716865,840.4716865
+Argentina,2024,2,False,909.4629585,68.99127199999998
+Argentina,2024,3,False,1009.87945,100.4164915
+Argentina,2024,4,False,1064.048559,54.16910900000005
+Argentina,2025,1,False,202.9308804,202.9308804
+Argentina,2025,2,False,626.6323415,423.7014611000001
+Argentina,2025,3,False,646.4160245,19.783682999999996
+Argentina,2025,4,False,787.4654197,141.04939519999994
+Argentina,2026,1,False,211.1498809,211.1498809
+Armenia,2018,1,False,0.0,0.0
+Armenia,2018,2,False,0.0,0.0
+Armenia,2018,3,False,0.0,0.0
+Armenia,2018,4,False,0.0,0.0
+Armenia,2019,1,False,0.0,0.0
+Armenia,2019,2,False,0.0,0.0
+Armenia,2019,3,False,0.0,0.0
+Armenia,2019,4,False,0.0,0.0
+Armenia,2020,1,False,0.0,0.0
+Armenia,2020,2,False,0.0,0.0
+Armenia,2020,3,False,0.0,0.0
+Armenia,2020,4,False,0.0,0.0
+Armenia,2021,1,False,0.0,0.0
+Armenia,2021,2,False,0.0,0.0
+Armenia,2021,3,False,0.0,0.0
+Armenia,2021,4,False,0.0,0.0
+Armenia,2022,1,False,0.0,0.0
+Armenia,2022,2,False,0.0,0.0
+Armenia,2022,3,False,0.0,0.0
+Armenia,2022,4,False,0.0,0.0
+Armenia,2023,1,False,0.0,0.0
+Armenia,2023,2,False,0.0,0.0
+Armenia,2023,3,False,0.0,0.0
+Armenia,2023,4,False,0.0,0.0
+Armenia,2024,1,False,0.0,0.0
+Armenia,2024,2,False,0.0,0.0
+Armenia,2024,3,False,0.0,0.0
+Armenia,2024,4,False,0.0,0.0
+Armenia,2025,1,False,0.0,0.0
+Armenia,2025,2,False,0.0,0.0
+Armenia,2025,3,False,0.0,0.0
+Armenia,2025,4,True,,
+Armenia,2026,1,False,0.0,0.0
+Australia,2018,1,False,562.4514215,562.4514215
+Australia,2018,2,False,550.3240411,-12.127380399999993
+Australia,2018,3,False,637.3731288,87.04908769999997
+Australia,2018,4,False,574.2703141,-63.10281470000007
+Australia,2019,1,False,502.0579704,502.0579704
+Australia,2019,2,False,455.1934815,-46.86448889999997
+Australia,2019,3,False,559.076707,103.88322550000004
+Australia,2019,4,False,770.3752966,211.2985895999999
+Australia,2020,1,False,430.9501644,430.9501644
+Australia,2020,2,False,425.2837243,-5.666440099999988
+Australia,2020,3,False,441.3108718,16.027147499999955
+Australia,2020,4,False,335.1160497,-106.19482209999995
+Australia,2021,1,False,66.36872192,66.36872192
+Australia,2021,2,False,38.09125724,-28.27746468
+Australia,2021,3,False,50.77724418,12.68598694
+Australia,2021,4,False,49.98910822,-0.7881359599999982
+Australia,2022,1,False,24.23417235,24.23417235
+Australia,2022,2,False,47.52128479,23.28711244
+Australia,2022,3,False,145.6880939,98.16680911
+Australia,2022,4,False,129.8433717,-15.844722200000007
+Australia,2023,1,False,15.21980763,15.21980763
+Australia,2023,2,False,14.48197582,-0.7378318099999994
+Australia,2023,3,False,-16.13301762,-30.61499344
+Australia,2023,4,False,82.00323993,98.13625755000001
+Australia,2024,1,False,41.52471233,41.52471233
+Australia,2024,2,False,276.3688571,234.84414477
+Australia,2024,3,False,584.3960002,308.0271431
+Australia,2024,4,False,606.5765579,22.18055770000001
+Australia,2025,1,False,1208.977362,1208.977362
+Australia,2025,2,False,1221.506902,12.529539999999997
+Australia,2025,3,False,1633.726941,412.2200389999998
+Australia,2025,4,False,1682.931027,49.20408600000019
+Australia,2026,1,False,1445.911124,1445.911124
+Austria,2018,1,True,,
+Austria,2018,2,False,40.17683515,
+Austria,2018,3,False,53.88241018,13.705575029999999
+Austria,2018,4,False,109.6226793,55.74026912
+Austria,2019,1,False,78.76005045,78.76005045
+Austria,2019,2,False,129.2672435,50.50719305000001
+Austria,2019,3,False,157.0707114,27.803467899999987
+Austria,2019,4,False,163.2854991,6.2147877000000165
+Austria,2020,1,False,22.09495612,22.09495612
+Austria,2020,2,False,25.59942686,3.504470740000002
+Austria,2020,3,False,25.07387121,-0.5255556500000012
+Austria,2020,4,False,36.82296332,11.74909211
+Austria,2021,1,False,17.31087349,17.31087349
+Austria,2021,2,False,50.15659114,32.845717650000005
+Austria,2021,3,False,54.62544166,4.468850519999997
+Austria,2021,4,False,69.20676812,14.581326460000007
+Austria,2022,1,False,0.69270385,0.69270385
+Austria,2022,2,False,47.20912409,46.51642024
+Austria,2022,3,False,47.83188609,0.6227619999999945
+Austria,2022,4,False,29.10260441,-18.729281679999996
+Austria,2023,1,True,,
+Austria,2023,2,False,13.26513104,
+Austria,2023,3,False,12.74089445,-0.5242365899999992
+Austria,2023,4,False,15.84703076,3.10613631
+Austria,2024,1,False,0.0,0.0
+Austria,2024,2,False,17.97262022,17.97262022
+Austria,2024,3,False,47.01224741,29.03962719
+Austria,2024,4,False,30.86057856,-16.15166885
+Austria,2025,1,False,3.46140872,3.46140872
+Austria,2025,2,False,16.01180953,12.550400810000001
+Austria,2025,3,False,5.24462504,-10.767184490000002
+Austria,2025,4,False,8.60656878,3.36194374
+Austria,2026,1,False,17.2950455,17.2950455
+Azerbaiyán,2018,1,False,0.0,0.0
+Azerbaiyán,2018,2,False,0.0,0.0
+Azerbaiyán,2018,3,False,0.0,0.0
+Azerbaiyán,2018,4,False,0.0,0.0
+Azerbaiyán,2019,1,False,0.0,0.0
+Azerbaiyán,2019,2,False,0.0,0.0
+Azerbaiyán,2019,3,False,0.0,0.0
+Azerbaiyán,2019,4,False,0.0,0.0
+Azerbaiyán,2020,1,False,0.0,0.0
+Azerbaiyán,2020,2,False,0.0,0.0
+Azerbaiyán,2020,3,False,0.0,0.0
+Azerbaiyán,2020,4,False,0.0,0.0
+Azerbaiyán,2021,1,False,0.0,0.0
+Azerbaiyán,2021,2,False,0.0,0.0
+Azerbaiyán,2021,3,False,0.0,0.0
+Azerbaiyán,2021,4,False,0.0,0.0
+Azerbaiyán,2022,1,False,0.0,0.0
+Azerbaiyán,2022,2,False,0.0,0.0
+Azerbaiyán,2022,3,False,0.0,0.0
+Azerbaiyán,2022,4,True,,
+Azerbaiyán,2023,1,False,0.0,0.0
+Azerbaiyán,2023,2,False,0.0,0.0
+Azerbaiyán,2023,3,False,0.0,0.0
+Azerbaiyán,2023,4,False,0.0,0.0
+Azerbaiyán,2024,1,False,0.0,0.0
+Azerbaiyán,2024,2,False,0.0,0.0
+Azerbaiyán,2024,3,True,,
+Azerbaiyán,2024,4,True,,
+Azerbaiyán,2025,1,True,,
+Azerbaiyán,2025,2,True,,
+Azerbaiyán,2025,3,True,,
+Azerbaiyán,2025,4,True,,
+Azerbaiyán,2026,1,False,0.0,0.0
+"Bahamas, Las",2018,1,False,0.0,0.0
+"Bahamas, Las",2018,2,False,0.0,0.0
+"Bahamas, Las",2018,3,False,0.0,0.0
+"Bahamas, Las",2018,4,False,0.0,0.0
+"Bahamas, Las",2019,1,False,0.0,0.0
+"Bahamas, Las",2019,2,False,0.0,0.0
+"Bahamas, Las",2019,3,False,0.0,0.0
+"Bahamas, Las",2019,4,False,0.0,0.0
+"Bahamas, Las",2020,1,False,0.0,0.0
+"Bahamas, Las",2020,2,False,0.0,0.0
+"Bahamas, Las",2020,3,False,0.0,0.0
+"Bahamas, Las",2020,4,False,0.0,0.0
+"Bahamas, Las",2021,1,False,0.0,0.0
+"Bahamas, Las",2021,2,False,0.0,0.0
+"Bahamas, Las",2021,3,False,0.0,0.0
+"Bahamas, Las",2021,4,False,0.0,0.0
+"Bahamas, Las",2022,1,False,0.0,0.0
+"Bahamas, Las",2022,2,False,0.0,0.0
+"Bahamas, Las",2022,3,False,0.0,0.0
+"Bahamas, Las",2022,4,False,0.0,0.0
+"Bahamas, Las",2023,1,False,0.0,0.0
+"Bahamas, Las",2023,2,False,0.0,0.0
+"Bahamas, Las",2023,3,False,0.0,0.0
+"Bahamas, Las",2023,4,False,0.0,0.0
+"Bahamas, Las",2024,1,False,0.0,0.0
+"Bahamas, Las",2024,2,False,0.0,0.0
+"Bahamas, Las",2024,3,False,0.0,0.0
+"Bahamas, Las",2024,4,False,9.00632088,9.00632088
+"Bahamas, Las",2025,1,False,0.0,0.0
+"Bahamas, Las",2025,2,True,,
+"Bahamas, Las",2025,3,True,,
+"Bahamas, Las",2025,4,False,9.2310067,
+"Bahamas, Las",2026,1,False,0.0,0.0
+Bahréin,2018,1,False,0.0,0.0
+Bahréin,2018,2,False,0.0,0.0
+Bahréin,2018,3,False,0.0,0.0
+Bahréin,2018,4,False,0.0,0.0
+Bahréin,2019,1,False,0.0,0.0
+Bahréin,2019,2,False,0.0,0.0
+Bahréin,2019,3,False,0.0,0.0
+Bahréin,2019,4,False,0.0,0.0
+Bahréin,2020,1,False,0.0,0.0
+Bahréin,2020,2,False,0.0,0.0
+Bahréin,2020,3,False,0.0,0.0
+Bahréin,2020,4,False,0.0,0.0
+Bahréin,2021,1,False,0.0,0.0
+Bahréin,2021,2,False,0.0,0.0
+Bahréin,2021,3,False,0.0,0.0
+Bahréin,2021,4,False,0.0,0.0
+Bahréin,2022,1,False,0.0,0.0
+Bahréin,2022,2,False,0.0,0.0
+Bahréin,2022,3,False,0.0,0.0
+Bahréin,2022,4,True,,
+Bahréin,2023,1,False,0.0,0.0
+Bahréin,2023,2,False,0.0,0.0
+Bahréin,2023,3,False,0.0,0.0
+Bahréin,2023,4,False,0.0,0.0
+Bahréin,2024,1,False,0.0,0.0
+Bahréin,2024,2,False,0.0,0.0
+Bahréin,2024,3,False,0.0,0.0
+Bahréin,2024,4,False,0.0,0.0
+Bahréin,2025,1,False,0.0,0.0
+Bahréin,2025,2,False,0.0,0.0
+Bahréin,2025,3,False,0.0,0.0
+Bahréin,2025,4,False,0.0,0.0
+Bahréin,2026,1,False,0.0,0.0
+Bangladesh,2018,1,False,0.0,0.0
+Bangladesh,2018,2,False,0.0,0.0
+Bangladesh,2018,3,False,0.0,0.0
+Bangladesh,2018,4,False,0.0,0.0
+Bangladesh,2019,1,False,0.0,0.0
+Bangladesh,2019,2,False,0.0,0.0
+Bangladesh,2019,3,False,0.0,0.0
+Bangladesh,2019,4,False,0.0,0.0
+Bangladesh,2020,1,False,0.0,0.0
+Bangladesh,2020,2,False,0.0,0.0
+Bangladesh,2020,3,False,0.0,0.0
+Bangladesh,2020,4,False,0.0,0.0
+Bangladesh,2021,1,False,0.0,0.0
+Bangladesh,2021,2,False,0.0,0.0
+Bangladesh,2021,3,False,0.0,0.0
+Bangladesh,2021,4,False,0.0,0.0
+Bangladesh,2022,1,False,0.0,0.0
+Bangladesh,2022,2,False,0.0,0.0
+Bangladesh,2022,3,False,0.0,0.0
+Bangladesh,2022,4,False,0.0,0.0
+Bangladesh,2023,1,False,0.0,0.0
+Bangladesh,2023,2,False,0.0,0.0
+Bangladesh,2023,3,False,0.0,0.0
+Bangladesh,2023,4,False,0.0,0.0
+Bangladesh,2024,1,False,0.0,0.0
+Bangladesh,2024,2,False,0.0,0.0
+Bangladesh,2024,3,False,0.0,0.0
+Bangladesh,2024,4,False,0.0,0.0
+Bangladesh,2025,1,False,0.0,0.0
+Bangladesh,2025,2,False,0.0,0.0
+Bangladesh,2025,3,False,0.0,0.0
+Bangladesh,2025,4,False,0.0,0.0
+Bangladesh,2026,1,False,0.0,0.0
+Barbados,2018,1,False,0.0,0.0
+Barbados,2018,2,False,0.0,0.0
+Barbados,2018,3,True,,
+Barbados,2018,4,False,46.12840879,
+Barbados,2019,1,False,0.0,0.0
+Barbados,2019,2,False,0.0,0.0
+Barbados,2019,3,False,0.0,0.0
+Barbados,2019,4,True,,
+Barbados,2020,1,False,0.0,0.0
+Barbados,2020,2,False,0.0,0.0
+Barbados,2020,3,False,0.0,0.0
+Barbados,2020,4,True,,
+Barbados,2021,1,False,0.0,0.0
+Barbados,2021,2,False,0.0,0.0
+Barbados,2021,3,False,0.0,0.0
+Barbados,2021,4,False,0.0,0.0
+Barbados,2022,1,False,0.0,0.0
+Barbados,2022,2,False,0.0,0.0
+Barbados,2022,3,False,0.0,0.0
+Barbados,2022,4,False,0.0,0.0
+Barbados,2023,1,False,0.0,0.0
+Barbados,2023,2,False,0.0,0.0
+Barbados,2023,3,False,0.0,0.0
+Barbados,2023,4,False,0.0,0.0
+Barbados,2024,1,True,,
+Barbados,2024,2,True,,
+Barbados,2024,3,True,,
+Barbados,2024,4,True,,
+Barbados,2025,1,False,0.0,0.0
+Barbados,2025,2,False,0.0,0.0
+Barbados,2025,3,True,,
+Barbados,2025,4,True,,
+Barbados,2026,1,False,0.0,0.0
+Belarús,2018,1,False,0.0,0.0
+Belarús,2018,2,False,0.0,0.0
+Belarús,2018,3,False,0.0,0.0
+Belarús,2018,4,False,0.0,0.0
+Belarús,2019,1,False,0.0,0.0
+Belarús,2019,2,False,0.0,0.0
+Belarús,2019,3,False,0.0,0.0
+Belarús,2019,4,False,0.0,0.0
+Belarús,2020,1,False,0.0,0.0
+Belarús,2020,2,False,0.0,0.0
+Belarús,2020,3,False,0.0,0.0
+Belarús,2020,4,False,0.0,0.0
+Belarús,2021,1,False,0.0,0.0
+Belarús,2021,2,False,0.0,0.0
+Belarús,2021,3,False,0.0,0.0
+Belarús,2021,4,False,0.0,0.0
+Belarús,2022,1,False,0.0,0.0
+Belarús,2022,2,False,0.0,0.0
+Belarús,2022,3,False,0.0,0.0
+Belarús,2022,4,False,0.0,0.0
+Belarús,2023,1,False,0.0,0.0
+Belarús,2023,2,False,0.0,0.0
+Belarús,2023,3,False,0.0,0.0
+Belarús,2023,4,True,,
+Belarús,2024,1,False,0.0,0.0
+Belarús,2024,2,True,,
+Belarús,2024,3,True,,
+Belarús,2024,4,True,,
+Belarús,2025,1,False,0.0,0.0
+Belarús,2025,2,False,0.0,0.0
+Belarús,2025,3,False,0.0,0.0
+Belarús,2025,4,False,0.0,0.0
+Belarús,2026,1,False,0.0,0.0
+Belice,2018,1,False,0.0,0.0
+Belice,2018,2,True,,
+Belice,2018,3,True,,
+Belice,2018,4,False,0.23741165,
+Belice,2019,1,True,,
+Belice,2019,2,False,-0.7650124,
+Belice,2019,3,False,-0.86638585,-0.10137344999999998
+Belice,2019,4,False,-0.86638585,0.0
+Belice,2020,1,True,,
+Belice,2020,2,True,,
+Belice,2020,3,True,,
+Belice,2020,4,True,,
+Belice,2021,1,True,,
+Belice,2021,2,True,,
+Belice,2021,3,True,,
+Belice,2021,4,True,,
+Belice,2022,1,False,0.0,0.0
+Belice,2022,2,False,0.0,0.0
+Belice,2022,3,False,0.0,0.0
+Belice,2022,4,True,,
+Belice,2023,1,True,,
+Belice,2023,2,True,,
+Belice,2023,3,True,,
+Belice,2023,4,True,,
+Belice,2024,1,True,,
+Belice,2024,2,True,,
+Belice,2024,3,False,-0.09522606,
+Belice,2024,4,False,-0.09522606,0.0
+Belice,2025,1,True,,
+Belice,2025,2,True,,
+Belice,2025,3,True,,
+Belice,2025,4,True,,
+Belice,2026,1,True,,
+Bermudas,2018,1,False,0.0,0.0
+Bermudas,2018,2,False,0.0,0.0
+Bermudas,2018,3,False,0.0,0.0
+Bermudas,2018,4,False,0.0,0.0
+Bermudas,2019,1,False,0.0,0.0
+Bermudas,2019,2,True,,
+Bermudas,2019,3,True,,
+Bermudas,2019,4,False,0.00046816,
+Bermudas,2020,1,False,0.0,0.0
+Bermudas,2020,2,False,0.0,0.0
+Bermudas,2020,3,False,0.0,0.0
+Bermudas,2020,4,False,0.0,0.0
+Bermudas,2021,1,False,0.0,0.0
+Bermudas,2021,2,False,0.0,0.0
+Bermudas,2021,3,False,0.0,0.0
+Bermudas,2021,4,False,0.0,0.0
+Bermudas,2022,1,False,0.0,0.0
+Bermudas,2022,2,False,0.0,0.0
+Bermudas,2022,3,False,0.0,0.0
+Bermudas,2022,4,False,0.0,0.0
+Bermudas,2023,1,True,,
+Bermudas,2023,2,False,0.0,
+Bermudas,2023,3,True,,
+Bermudas,2023,4,False,-3.8121952,
+Bermudas,2024,1,False,0.0,0.0
+Bermudas,2024,2,False,0.0,0.0
+Bermudas,2024,3,False,0.0,0.0
+Bermudas,2024,4,True,,
+Bermudas,2025,1,False,0.0,0.0
+Bermudas,2025,2,True,,
+Bermudas,2025,3,True,,
+Bermudas,2025,4,False,13.12982848,
+Bermudas,2026,1,True,,
+Bolivia (Estado Plurinacional de),2018,1,False,0.0,0.0
+Bolivia (Estado Plurinacional de),2018,2,False,0.0,0.0
+Bolivia (Estado Plurinacional de),2018,3,True,,
+Bolivia (Estado Plurinacional de),2018,4,False,0.05007332,
+Bolivia (Estado Plurinacional de),2019,1,True,,
+Bolivia (Estado Plurinacional de),2019,2,False,-0.03150541,
+Bolivia (Estado Plurinacional de),2019,3,False,0.24700317,0.27850858
+Bolivia (Estado Plurinacional de),2019,4,False,0.65713362,0.41013045
+Bolivia (Estado Plurinacional de),2020,1,False,0.0,0.0
+Bolivia (Estado Plurinacional de),2020,2,False,0.0,0.0
+Bolivia (Estado Plurinacional de),2020,3,True,,
+Bolivia (Estado Plurinacional de),2020,4,True,,
+Bolivia (Estado Plurinacional de),2021,1,False,0.44600101,0.44600101
+Bolivia (Estado Plurinacional de),2021,2,False,0.46199435,0.015993340000000023
+Bolivia (Estado Plurinacional de),2021,3,False,0.58688839,0.12489404000000004
+Bolivia (Estado Plurinacional de),2021,4,False,1.13168251,0.54479412
+Bolivia (Estado Plurinacional de),2022,1,True,,
+Bolivia (Estado Plurinacional de),2022,2,False,0.28159709,
+Bolivia (Estado Plurinacional de),2022,3,False,0.25245481,-0.02914228000000002
+Bolivia (Estado Plurinacional de),2022,4,False,0.61338899,0.36093418000000005
+Bolivia (Estado Plurinacional de),2023,1,True,,
+Bolivia (Estado Plurinacional de),2023,2,False,0.32114863,
+Bolivia (Estado Plurinacional de),2023,3,False,0.53805374,0.21690510999999996
+Bolivia (Estado Plurinacional de),2023,4,False,0.6657281,0.1276743600000001
+Bolivia (Estado Plurinacional de),2024,1,False,0.0,0.0
+Bolivia (Estado Plurinacional de),2024,2,False,0.305809,0.305809
+Bolivia (Estado Plurinacional de),2024,3,False,0.64807349,0.34226449000000003
+Bolivia (Estado Plurinacional de),2024,4,False,1.70280035,1.05472686
+Bolivia (Estado Plurinacional de),2025,1,False,0.34900173,0.34900173
+Bolivia (Estado Plurinacional de),2025,2,False,0.40784196,0.05884022999999999
+Bolivia (Estado Plurinacional de),2025,3,False,0.40784196,0.0
+Bolivia (Estado Plurinacional de),2025,4,False,0.40784196,0.0
+Bolivia (Estado Plurinacional de),2026,1,True,,
+Bosnia y Herzegovina,2018,1,False,0.0,0.0
+Bosnia y Herzegovina,2018,2,False,0.0,0.0
+Bosnia y Herzegovina,2018,3,False,0.0,0.0
+Bosnia y Herzegovina,2018,4,False,0.0,0.0
+Bosnia y Herzegovina,2019,1,False,0.0,0.0
+Bosnia y Herzegovina,2019,2,False,0.0,0.0
+Bosnia y Herzegovina,2019,3,False,0.0,0.0
+Bosnia y Herzegovina,2019,4,False,0.0,0.0
+Bosnia y Herzegovina,2020,1,False,0.0,0.0
+Bosnia y Herzegovina,2020,2,False,0.0,0.0
+Bosnia y Herzegovina,2020,3,False,0.0,0.0
+Bosnia y Herzegovina,2020,4,False,0.0,0.0
+Bosnia y Herzegovina,2021,1,False,0.0,0.0
+Bosnia y Herzegovina,2021,2,False,0.0,0.0
+Bosnia y Herzegovina,2021,3,False,0.0,0.0
+Bosnia y Herzegovina,2021,4,False,0.0,0.0
+Bosnia y Herzegovina,2022,1,False,0.0,0.0
+Bosnia y Herzegovina,2022,2,False,0.0,0.0
+Bosnia y Herzegovina,2022,3,False,0.0,0.0
+Bosnia y Herzegovina,2022,4,False,0.0,0.0
+Bosnia y Herzegovina,2023,1,False,0.0,0.0
+Bosnia y Herzegovina,2023,2,False,0.0,0.0
+Bosnia y Herzegovina,2023,3,False,0.0,0.0
+Bosnia y Herzegovina,2023,4,True,,
+Bosnia y Herzegovina,2024,1,False,0.0,0.0
+Bosnia y Herzegovina,2024,2,False,0.0,0.0
+Bosnia y Herzegovina,2024,3,False,0.0,0.0
+Bosnia y Herzegovina,2024,4,False,0.0,0.0
+Bosnia y Herzegovina,2025,1,False,0.0,0.0
+Bosnia y Herzegovina,2025,2,False,0.0,0.0
+Bosnia y Herzegovina,2025,3,False,0.0,0.0
+Bosnia y Herzegovina,2025,4,False,0.0,0.0
+Bosnia y Herzegovina,2026,1,False,0.0,0.0
+Brasil,2018,1,False,-46.82559431,-46.82559431
+Brasil,2018,2,False,10.0422811,56.867875409999996
+Brasil,2018,3,False,-71.30499236,-81.34727346
+Brasil,2018,4,False,93.86315083,165.16814319
+Brasil,2019,1,False,133.2416154,133.2416154
+Brasil,2019,2,False,169.7675224,36.52590699999999
+Brasil,2019,3,False,254.6715688,84.9040464
+Brasil,2019,4,False,300.9191973,46.24762850000002
+Brasil,2020,1,False,418.7603273,418.7603273
+Brasil,2020,2,False,450.6292616,31.868934300000035
+Brasil,2020,3,False,545.7019706,95.07270899999997
+Brasil,2020,4,False,346.7312558,-198.9707148
+Brasil,2021,1,False,133.2501681,133.2501681
+Brasil,2021,2,False,64.09235466,-69.15781344
+Brasil,2021,3,False,271.5831818,207.49082713999996
+Brasil,2021,4,False,233.3881204,-38.195061399999986
+Brasil,2022,1,False,137.7136757,137.7136757
+Brasil,2022,2,False,221.8850482,84.17137249999999
+Brasil,2022,3,False,279.398094,57.513045800000015
+Brasil,2022,4,False,252.9305956,-26.46749840000001
+Brasil,2023,1,False,257.0706219,257.0706219
+Brasil,2023,2,False,371.5091926,114.43857070000001
+Brasil,2023,3,False,335.0534319,-36.455760699999985
+Brasil,2023,4,False,491.6430022,156.5895703
+Brasil,2024,1,False,164.3606667,164.3606667
+Brasil,2024,2,False,259.67599,95.31532330000002
+Brasil,2024,3,False,417.409309,157.733319
+Brasil,2024,4,False,412.4289447,-4.980364300000019
+Brasil,2025,1,False,170.1567427,170.1567427
+Brasil,2025,2,False,185.6470576,15.490314900000016
+Brasil,2025,3,False,297.3439015,111.6968439
+Brasil,2025,4,False,418.4826,121.13869849999998
+Brasil,2026,1,False,112.4391296,112.4391296
+Brunei Darussalam,2018,1,False,0.0,0.0
+Brunei Darussalam,2018,2,False,0.0,0.0
+Brunei Darussalam,2018,3,False,0.0,0.0
+Brunei Darussalam,2018,4,False,0.0,0.0
+Brunei Darussalam,2019,1,False,0.0,0.0
+Brunei Darussalam,2019,2,False,0.0,0.0
+Brunei Darussalam,2019,3,False,0.0,0.0
+Brunei Darussalam,2019,4,False,0.0,0.0
+Brunei Darussalam,2020,1,False,0.0,0.0
+Brunei Darussalam,2020,2,False,0.0,0.0
+Brunei Darussalam,2020,3,False,0.0,0.0
+Brunei Darussalam,2020,4,False,0.0,0.0
+Brunei Darussalam,2021,1,False,0.0,0.0
+Brunei Darussalam,2021,2,False,0.0,0.0
+Brunei Darussalam,2021,3,False,0.0,0.0
+Brunei Darussalam,2021,4,False,0.0,0.0
+Brunei Darussalam,2022,1,False,0.0,0.0
+Brunei Darussalam,2022,2,False,0.0,0.0
+Brunei Darussalam,2022,3,False,0.0,0.0
+Brunei Darussalam,2022,4,False,0.0,0.0
+Brunei Darussalam,2023,1,False,0.0,0.0
+Brunei Darussalam,2023,2,False,0.0,0.0
+Brunei Darussalam,2023,3,False,0.0,0.0
+Brunei Darussalam,2023,4,False,0.0,0.0
+Brunei Darussalam,2024,1,False,0.0,0.0
+Brunei Darussalam,2024,2,False,0.0,0.0
+Brunei Darussalam,2024,3,False,0.0,0.0
+Brunei Darussalam,2024,4,False,0.0,0.0
+Brunei Darussalam,2025,1,False,0.0,0.0
+Brunei Darussalam,2025,2,False,0.0,0.0
+Brunei Darussalam,2025,3,False,0.0,0.0
+Brunei Darussalam,2025,4,False,0.0,0.0
+Brunei Darussalam,2026,1,False,0.0,0.0
+Bulgaria,2018,1,True,,
+Bulgaria,2018,2,True,,
+Bulgaria,2018,3,True,,
+Bulgaria,2018,4,False,1.36970214,
+Bulgaria,2019,1,True,,
+Bulgaria,2019,2,True,,
+Bulgaria,2019,3,False,1.88784185,
+Bulgaria,2019,4,False,1.88784185,0.0
+Bulgaria,2020,1,False,0.0,0.0
+Bulgaria,2020,2,False,0.0,0.0
+Bulgaria,2020,3,False,0.0,0.0
+Bulgaria,2020,4,True,,
+Bulgaria,2021,1,True,,
+Bulgaria,2021,2,True,,
+Bulgaria,2021,3,False,4.80934338,
+Bulgaria,2021,4,False,5.30729319,0.4979498100000006
+Bulgaria,2022,1,True,,
+Bulgaria,2022,2,True,,
+Bulgaria,2022,3,False,-0.8196931,
+Bulgaria,2022,4,False,-0.8196931,0.0
+Bulgaria,2023,1,False,0.0,0.0
+Bulgaria,2023,2,False,0.47473245,0.47473245
+Bulgaria,2023,3,False,0.47473245,0.0
+Bulgaria,2023,4,False,0.47473245,0.0
+Bulgaria,2024,1,True,,
+Bulgaria,2024,2,False,0.33468781,
+Bulgaria,2024,3,False,7.25485182,6.92016401
+Bulgaria,2024,4,False,7.46184283,0.2069910100000003
+Bulgaria,2025,1,True,,
+Bulgaria,2025,2,False,0.56078977,
+Bulgaria,2025,3,False,0.41685167,-0.14393809999999996
+Bulgaria,2025,4,False,0.41685167,0.0
+Bulgaria,2026,1,True,,
+Bélgica,2018,1,False,3.49215852,3.49215852
+Bélgica,2018,2,False,18.23113461,14.738976090000001
+Bélgica,2018,3,False,-1.58485027,-19.815984880000002
+Bélgica,2018,4,False,-4.87000734,-3.28515707
+Bélgica,2019,1,False,703.6422158,703.6422158
+Bélgica,2019,2,False,733.8696262,30.22741039999994
+Bélgica,2019,3,False,734.596135,0.7265088000000333
+Bélgica,2019,4,False,1370.560341,635.9642060000001
+Bélgica,2020,1,False,240.1174612,240.1174612
+Bélgica,2020,2,False,172.6237306,-67.49373060000002
+Bélgica,2020,3,False,349.0312138,176.4074832
+Bélgica,2020,4,False,306.08341,-42.947803799999974
+Bélgica,2021,1,False,40.62644781,40.62644781
+Bélgica,2021,2,False,51.1424391,10.515991289999995
+Bélgica,2021,3,False,52.30178229,1.1593431900000013
+Bélgica,2021,4,False,76.63969216,24.337909869999997
+Bélgica,2022,1,False,55.5174849,55.5174849
+Bélgica,2022,2,False,52.58553393,-2.9319509700000026
+Bélgica,2022,3,False,60.54286661,7.95733268
+Bélgica,2022,4,False,63.08455238,2.541685770000001
+Bélgica,2023,1,False,3.44406809,3.44406809
+Bélgica,2023,2,False,29.27739118,25.83332309
+Bélgica,2023,3,False,28.99499226,-0.28239891999999855
+Bélgica,2023,4,False,758.9773125,729.98232024
+Bélgica,2024,1,True,,
+Bélgica,2024,2,False,1525.492272,
+Bélgica,2024,3,False,1518.3523,-7.139971999999943
+Bélgica,2024,4,False,1536.68863,18.33633000000009
+Bélgica,2025,1,False,-19.54544429,-19.54544429
+Bélgica,2025,2,False,-53.67749161,-34.13204732
+Bélgica,2025,3,False,-40.64584328,13.031648329999996
+Bélgica,2025,4,False,-7.94013993,32.70570335
+Bélgica,2026,1,False,7.1846486,7.1846486
+Camboya,2018,1,False,0.0,0.0
+Camboya,2018,2,False,0.0,0.0
+Camboya,2018,3,False,0.0,0.0
+Camboya,2018,4,False,0.0,0.0
+Camboya,2019,1,False,0.0,0.0
+Camboya,2019,2,False,0.0,0.0
+Camboya,2019,3,False,0.0,0.0
+Camboya,2019,4,False,0.0,0.0
+Camboya,2020,1,False,0.0,0.0
+Camboya,2020,2,False,0.0,0.0
+Camboya,2020,3,False,0.0,0.0
+Camboya,2020,4,False,0.0,0.0
+Camboya,2021,1,False,0.0,0.0
+Camboya,2021,2,False,0.0,0.0
+Camboya,2021,3,False,0.0,0.0
+Camboya,2021,4,False,0.0,0.0
+Camboya,2022,1,False,0.0,0.0
+Camboya,2022,2,False,0.0,0.0
+Camboya,2022,3,False,0.0,0.0
+Camboya,2022,4,False,0.0,0.0
+Camboya,2023,1,False,0.0,0.0
+Camboya,2023,2,False,0.0,0.0
+Camboya,2023,3,False,0.0,0.0
+Camboya,2023,4,False,0.0,0.0
+Camboya,2024,1,False,0.0,0.0
+Camboya,2024,2,False,0.0,0.0
+Camboya,2024,3,False,0.0,0.0
+Camboya,2024,4,False,0.0,0.0
+Camboya,2025,1,False,0.0,0.0
+Camboya,2025,2,False,0.0,0.0
+Camboya,2025,3,False,0.0,0.0
+Camboya,2025,4,False,0.0,0.0
+Camboya,2026,1,True,,
+Camerún,2018,1,False,0.0,0.0
+Camerún,2018,2,False,0.0,0.0
+Camerún,2018,3,False,0.0,0.0
+Camerún,2018,4,False,0.0,0.0
+Camerún,2019,1,False,0.0,0.0
+Camerún,2019,2,False,0.0,0.0
+Camerún,2019,3,False,0.0,0.0
+Camerún,2019,4,False,0.0,0.0
+Camerún,2020,1,False,0.0,0.0
+Camerún,2020,2,False,0.0,0.0
+Camerún,2020,3,False,0.0,0.0
+Camerún,2020,4,False,0.0,0.0
+Camerún,2021,1,False,0.0,0.0
+Camerún,2021,2,False,0.0,0.0
+Camerún,2021,3,False,0.0,0.0
+Camerún,2021,4,False,0.0,0.0
+Camerún,2022,1,False,0.0,0.0
+Camerún,2022,2,True,,
+Camerún,2022,3,True,,
+Camerún,2022,4,True,,
+Camerún,2023,1,False,0.0,0.0
+Camerún,2023,2,False,0.0,0.0
+Camerún,2023,3,False,0.0,0.0
+Camerún,2023,4,False,0.0,0.0
+Camerún,2024,1,False,0.0,0.0
+Camerún,2024,2,False,0.0,0.0
+Camerún,2024,3,False,0.0,0.0
+Camerún,2024,4,False,0.0,0.0
+Camerún,2025,1,False,0.0,0.0
+Camerún,2025,2,False,0.0,0.0
+Camerún,2025,3,False,0.0,0.0
+Camerún,2025,4,False,0.0,0.0
+Camerún,2026,1,False,0.0,0.0
+Canadá,2018,1,False,815.4724581,815.4724581
+Canadá,2018,2,False,1274.731254,459.2587959
+Canadá,2018,3,False,3333.277608,2058.546354
+Canadá,2018,4,False,3182.393831,-150.883777
+Canadá,2019,1,False,590.9635772,590.9635772
+Canadá,2019,2,False,2782.670286,2191.7067088
+Canadá,2019,3,False,2704.623517,-78.04676900000004
+Canadá,2019,4,False,3196.706345,492.08282800000006
+Canadá,2020,1,False,739.1623815,739.1623815
+Canadá,2020,2,False,3423.288104,2684.1257225
+Canadá,2020,3,False,4169.297514,746.0094099999997
+Canadá,2020,4,False,4224.251949,54.95443500000056
+Canadá,2021,1,False,564.4369792,564.4369792
+Canadá,2021,2,False,973.8376063,409.40062709999995
+Canadá,2021,3,False,1283.164341,309.3267347
+Canadá,2021,4,False,2070.88885,787.7245089999999
+Canadá,2022,1,False,1374.121455,1374.121455
+Canadá,2022,2,False,2839.421923,1465.300468
+Canadá,2022,3,False,3051.467684,212.0457610000003
+Canadá,2022,4,False,3780.101903,728.634219
+Canadá,2023,1,False,831.2661903,831.2661903
+Canadá,2023,2,False,1218.666346,387.4001557
+Canadá,2023,3,False,2219.142669,1000.4763229999999
+Canadá,2023,4,False,3471.959224,1252.8165550000003
+Canadá,2024,1,False,1705.095958,1705.095958
+Canadá,2024,2,False,2407.814339,702.7183809999999
+Canadá,2024,3,False,2595.206263,187.39192400000002
+Canadá,2024,4,False,3215.674148,620.467885
+Canadá,2025,1,False,796.5278401,796.5278401
+Canadá,2025,2,False,1749.899573,953.3717328999999
+Canadá,2025,3,False,2294.821785,544.9222120000002
+Canadá,2025,4,False,3322.930779,1028.1089939999997
+Canadá,2026,1,False,893.9622011,893.9622011
+Chad,2018,1,False,0.0,0.0
+Chad,2018,2,False,0.0,0.0
+Chad,2018,3,False,0.0,0.0
+Chad,2018,4,False,0.0,0.0
+Chad,2019,1,False,0.0,0.0
+Chad,2019,2,False,0.0,0.0
+Chad,2019,3,False,0.0,0.0
+Chad,2019,4,False,0.0,0.0
+Chad,2020,1,False,0.0,0.0
+Chad,2020,2,False,0.0,0.0
+Chad,2020,3,False,0.0,0.0
+Chad,2020,4,False,0.0,0.0
+Chad,2021,1,False,0.0,0.0
+Chad,2021,2,False,0.0,0.0
+Chad,2021,3,False,0.0,0.0
+Chad,2021,4,False,0.0,0.0
+Chad,2022,1,False,0.0,0.0
+Chad,2022,2,False,0.0,0.0
+Chad,2022,3,False,0.0,0.0
+Chad,2022,4,False,0.0,0.0
+Chad,2023,1,False,0.0,0.0
+Chad,2023,2,False,0.0,0.0
+Chad,2023,3,False,0.0,0.0
+Chad,2023,4,False,0.0,0.0
+Chad,2024,1,False,0.0,0.0
+Chad,2024,2,False,0.0,0.0
+Chad,2024,3,False,0.0,0.0
+Chad,2024,4,False,0.0,0.0
+Chad,2025,1,False,0.0,0.0
+Chad,2025,2,False,0.0,0.0
+Chad,2025,3,False,0.0,0.0
+Chad,2025,4,False,0.0,0.0
+Chad,2026,1,False,0.0,0.0
+Chequia,2018,1,False,0.2801589,0.2801589
+Chequia,2018,2,False,0.28058001,0.0004211100000000023
+Chequia,2018,3,False,0.28058001,0.0
+Chequia,2018,4,False,0.31842616,0.03784615000000002
+Chequia,2019,1,True,,
+Chequia,2019,2,True,,
+Chequia,2019,3,False,0.10557851,
+Chequia,2019,4,False,0.10557851,0.0
+Chequia,2020,1,True,,
+Chequia,2020,2,True,,
+Chequia,2020,3,True,,
+Chequia,2020,4,True,,
+Chequia,2021,1,False,0.01595124,0.01595124
+Chequia,2021,2,False,0.01595124,0.0
+Chequia,2021,3,False,0.19085067,0.17489943
+Chequia,2021,4,False,0.06965154,-0.12119913
+Chequia,2022,1,False,0.0,0.0
+Chequia,2022,2,False,0.0,0.0
+Chequia,2022,3,False,0.19545831,0.19545831
+Chequia,2022,4,False,-0.62768099,-0.8231393
+Chequia,2023,1,True,,
+Chequia,2023,2,False,1.25887904,
+Chequia,2023,3,False,1.36125333,0.10237428999999998
+Chequia,2023,4,False,3.26511811,1.90386478
+Chequia,2024,1,False,0.0,0.0
+Chequia,2024,2,False,0.0,0.0
+Chequia,2024,3,False,-0.16515932,-0.16515932
+Chequia,2024,4,False,0.27899287,0.44415219
+Chequia,2025,1,True,,
+Chequia,2025,2,False,0.79740128,
+Chequia,2025,3,False,1.08261734,0.2852160600000001
+Chequia,2025,4,False,1.56167504,0.4790576999999998
+Chequia,2026,1,False,0.0,0.0
+Chile,2018,1,False,-0.36225961,-0.36225961
+Chile,2018,2,False,32.01725768,32.37951729
+Chile,2018,3,False,68.34640074,36.32914306000001
+Chile,2018,4,False,90.45072925,22.104328509999988
+Chile,2019,1,False,-28.59921363,-28.59921363
+Chile,2019,2,False,11.41116461,40.01037824
+Chile,2019,3,False,-27.54541799,-38.956582600000004
+Chile,2019,4,False,-30.81294264,-3.2675246499999986
+Chile,2020,1,False,53.83992781,53.83992781
+Chile,2020,2,False,64.65554785,10.815620040000006
+Chile,2020,3,False,98.21160787,33.55606001999999
+Chile,2020,4,False,94.01813489,-4.193472979999996
+Chile,2021,1,False,2.51759561,2.51759561
+Chile,2021,2,False,0.5416352,-1.97596041
+Chile,2021,3,False,19.59757663,19.055941429999997
+Chile,2021,4,False,47.26448798,27.66691135
+Chile,2022,1,False,8.69242153,8.69242153
+Chile,2022,2,False,57.25672331,48.564301779999994
+Chile,2022,3,False,49.96100798,-7.29571533
+Chile,2022,4,False,220.3596923,170.39868432
+Chile,2023,1,False,241.3734775,241.3734775
+Chile,2023,2,False,309.751779,68.37830149999999
+Chile,2023,3,False,237.3183748,-72.43340420000001
+Chile,2023,4,False,197.4997206,-39.8186542
+Chile,2024,1,False,51.63214795,51.63214795
+Chile,2024,2,False,161.3912865,109.75913855000002
+Chile,2024,3,False,232.0095367,70.6182502
+Chile,2024,4,False,230.9460917,-1.0634450000000015
+Chile,2025,1,False,22.03211191,22.03211191
+Chile,2025,2,False,27.86720606,5.83509415
+Chile,2025,3,False,27.43225941,-0.43494665000000055
+Chile,2025,4,False,57.24468207,29.812422660000003
+Chile,2026,1,False,73.01480422,73.01480422
+"China, República Popular de",2018,1,False,16.16318897,16.16318897
+"China, República Popular de",2018,2,False,153.6728229,137.50963393
+"China, República Popular de",2018,3,False,154.5085842,0.8357613000000015
+"China, República Popular de",2018,4,False,250.1931246,95.6845404
+"China, República Popular de",2019,1,False,7.55946609,7.55946609
+"China, República Popular de",2019,2,False,49.50394882,41.94448273
+"China, República Popular de",2019,3,False,121.6250232,72.12107438000001
+"China, República Popular de",2019,4,False,89.02864856,-32.59637464000001
+"China, República Popular de",2020,1,False,81.35802832,81.35802832
+"China, República Popular de",2020,2,False,129.0375892,47.67956088000001
+"China, República Popular de",2020,3,False,147.1182503,18.080661099999986
+"China, República Popular de",2020,4,False,173.4332143,26.314964000000003
+"China, República Popular de",2021,1,False,60.12352679,60.12352679
+"China, República Popular de",2021,2,False,102.3025023,42.17897551
+"China, República Popular de",2021,3,False,167.3394684,65.03696609999999
+"China, República Popular de",2021,4,False,413.8053453,246.4658769
+"China, República Popular de",2022,1,False,18.4047748,18.4047748
+"China, República Popular de",2022,2,False,47.31936228,28.91458748
+"China, República Popular de",2022,3,False,166.5590092,119.23964691999998
+"China, República Popular de",2022,4,False,282.2327679,115.67375870000001
+"China, República Popular de",2023,1,False,2.23080447,2.23080447
+"China, República Popular de",2023,2,False,10.73166273,8.500858260000001
+"China, República Popular de",2023,3,False,-20.96905019,-31.70071292
+"China, República Popular de",2023,4,False,151.3933908,172.36244098999998
+"China, República Popular de",2024,1,False,2.7278637,2.7278637
+"China, República Popular de",2024,2,False,235.1398702,232.4120065
+"China, República Popular de",2024,3,False,476.9863232,241.84645300000003
+"China, República Popular de",2024,4,False,710.2944005,233.30807730000004
+"China, República Popular de",2025,1,False,92.19363506,92.19363506
+"China, República Popular de",2025,2,False,146.5611797,54.36754463999999
+"China, República Popular de",2025,3,False,305.6125993,159.0514196
+"China, República Popular de",2025,4,False,529.5584757,223.94587640000003
+"China, República Popular de",2026,1,False,34.8050684,34.8050684
+Chipre,2018,1,False,0.0,0.0
+Chipre,2018,2,False,0.0,0.0
+Chipre,2018,3,True,,
+Chipre,2018,4,True,,
+Chipre,2019,1,False,0.0,0.0
+Chipre,2019,2,True,,
+Chipre,2019,3,False,4.87458536,
+Chipre,2019,4,False,8.61640063,3.741815269999999
+Chipre,2020,1,False,0.0,0.0
+Chipre,2020,2,False,0.0,0.0
+Chipre,2020,3,False,0.0,0.0
+Chipre,2020,4,True,,
+Chipre,2021,1,False,0.0,0.0
+Chipre,2021,2,True,,
+Chipre,2021,3,True,,
+Chipre,2021,4,True,,
+Chipre,2022,1,True,,
+Chipre,2022,2,True,,
+Chipre,2022,3,True,,
+Chipre,2022,4,False,-2.88243395,
+Chipre,2023,1,True,,
+Chipre,2023,2,True,,
+Chipre,2023,3,True,,
+Chipre,2023,4,True,,
+Chipre,2024,1,True,,
+Chipre,2024,2,True,,
+Chipre,2024,3,True,,
+Chipre,2024,4,True,,
+Chipre,2025,1,False,0.0,0.0
+Chipre,2025,2,False,0.0,0.0
+Chipre,2025,3,False,0.0,0.0
+Chipre,2025,4,True,,
+Chipre,2026,1,False,0.0,0.0
+Colombia,2018,1,False,10.63001405,10.63001405
+Colombia,2018,2,False,1.53120147,-9.09881258
+Colombia,2018,3,False,-11.80494011,-13.33614158
+Colombia,2018,4,False,-4.12016129,7.68477882
+Colombia,2019,1,False,3.14892335,3.14892335
+Colombia,2019,2,False,126.3383876,123.18946425
+Colombia,2019,3,False,132.7045143,6.366126699999995
+Colombia,2019,4,False,223.0331942,90.3286799
+Colombia,2020,1,False,6.53678644,6.53678644
+Colombia,2020,2,False,120.8933906,114.35660416
+Colombia,2020,3,False,108.6594172,-12.23397340000001
+Colombia,2020,4,False,115.9280289,7.268611700000008
+Colombia,2021,1,False,28.38801282,28.38801282
+Colombia,2021,2,False,23.74482641,-4.643186409999998
+Colombia,2021,3,False,29.4786849,5.733858489999999
+Colombia,2021,4,False,61.03023165,31.551546749999996
+Colombia,2022,1,False,48.65843808,48.65843808
+Colombia,2022,2,False,145.3501934,96.69175532
+Colombia,2022,3,False,147.645638,2.295444599999996
+Colombia,2022,4,False,176.9310737,29.285435700000022
+Colombia,2023,1,False,8.34478879,8.34478879
+Colombia,2023,2,False,56.07353945,47.728750659999996
+Colombia,2023,3,False,52.28775366,-3.7857857899999985
+Colombia,2023,4,False,43.23779828,-9.04995538
+Colombia,2024,1,False,11.90619635,11.90619635
+Colombia,2024,2,False,105.4879452,93.58174885
+Colombia,2024,3,False,90.11461905,-15.373326149999997
+Colombia,2024,4,False,88.87129368,-1.243325370000008
+Colombia,2025,1,False,24.66129278,24.66129278
+Colombia,2025,2,False,34.73732129,10.076028509999997
+Colombia,2025,3,False,113.7799036,79.04258231
+Colombia,2025,4,False,84.81644765,-28.963455949999997
+Colombia,2026,1,False,0.34541858,0.34541858
+"Congo, República Democrática del",2018,1,False,0.0,0.0
+"Congo, República Democrática del",2018,2,False,0.0,0.0
+"Congo, República Democrática del",2018,3,False,0.0,0.0
+"Congo, República Democrática del",2018,4,False,0.0,0.0
+"Congo, República Democrática del",2019,1,False,0.0,0.0
+"Congo, República Democrática del",2019,2,False,0.0,0.0
+"Congo, República Democrática del",2019,3,False,0.0,0.0
+"Congo, República Democrática del",2019,4,False,0.0,0.0
+"Congo, República Democrática del",2020,1,False,0.0,0.0
+"Congo, República Democrática del",2020,2,False,0.0,0.0
+"Congo, República Democrática del",2020,3,False,0.0,0.0
+"Congo, República Democrática del",2020,4,False,0.0,0.0
+"Congo, República Democrática del",2021,1,False,0.0,0.0
+"Congo, República Democrática del",2021,2,False,0.0,0.0
+"Congo, República Democrática del",2021,3,False,0.0,0.0
+"Congo, República Democrática del",2021,4,False,0.0,0.0
+"Congo, República Democrática del",2022,1,False,0.0,0.0
+"Congo, República Democrática del",2022,2,False,0.0,0.0
+"Congo, República Democrática del",2022,3,False,0.0,0.0
+"Congo, República Democrática del",2022,4,False,0.0,0.0
+"Congo, República Democrática del",2023,1,False,0.0,0.0
+"Congo, República Democrática del",2023,2,False,0.0,0.0
+"Congo, República Democrática del",2023,3,False,0.0,0.0
+"Congo, República Democrática del",2023,4,False,0.0,0.0
+"Congo, República Democrática del",2024,1,False,0.0,0.0
+"Congo, República Democrática del",2024,2,False,0.0,0.0
+"Congo, República Democrática del",2024,3,False,0.0,0.0
+"Congo, República Democrática del",2024,4,False,0.0,0.0
+"Congo, República Democrática del",2025,1,False,0.0,0.0
+"Congo, República Democrática del",2025,2,False,0.0,0.0
+"Congo, República Democrática del",2025,3,False,0.0,0.0
+"Congo, República Democrática del",2025,4,False,0.0,0.0
+"Congo, República Democrática del",2026,1,False,0.0,0.0
+"Corea, República de",2018,1,False,6.64167204,6.64167204
+"Corea, República de",2018,2,False,77.18931988,70.54764784
+"Corea, República de",2018,3,False,381.0487937,303.85947381999995
+"Corea, República de",2018,4,False,631.731956,250.6831623
+"Corea, República de",2019,1,False,112.1329356,112.1329356
+"Corea, República de",2019,2,False,249.9786666,137.845731
+"Corea, República de",2019,3,False,174.522861,-75.45580559999999
+"Corea, República de",2019,4,False,182.9432649,8.420403899999997
+"Corea, República de",2020,1,False,168.6831149,168.6831149
+"Corea, República de",2020,2,False,297.9091429,129.226028
+"Corea, República de",2020,3,False,596.2954148,298.3862719
+"Corea, República de",2020,4,False,595.3277941,-0.9676206999999977
+"Corea, República de",2021,1,False,89.45286401,89.45286401
+"Corea, República de",2021,2,False,269.6452514,180.19238739000002
+"Corea, República de",2021,3,False,468.0732148,198.4279634
+"Corea, República de",2021,4,False,684.7300226,216.65680779999997
+"Corea, República de",2022,1,False,72.91352833,72.91352833
+"Corea, República de",2022,2,False,531.1701452,458.25661686999996
+"Corea, República de",2022,3,False,652.4369068,121.2667616
+"Corea, República de",2022,4,False,673.4616054,21.02469860000008
+"Corea, República de",2023,1,False,108.3465353,108.3465353
+"Corea, República de",2023,2,False,18.58521578,-89.76131952
+"Corea, República de",2023,3,False,46.46578888,27.8805731
+"Corea, República de",2023,4,False,503.6483669,457.18257802
+"Corea, República de",2024,1,False,640.6366586,640.6366586
+"Corea, República de",2024,2,False,676.9188132,36.28215460000001
+"Corea, República de",2024,3,False,1295.801919,618.8831058
+"Corea, República de",2024,4,False,1307.823493,12.0215740000001
+"Corea, República de",2025,1,False,476.9418984,476.9418984
+"Corea, República de",2025,2,False,482.7997053,5.857806900000014
+"Corea, República de",2025,3,False,871.5368627,388.7371574
+"Corea, República de",2025,4,False,527.2225512,-344.31431150000003
+"Corea, República de",2026,1,False,640.6835335,640.6835335
+Costa Rica,2018,1,False,0.0,0.0
+Costa Rica,2018,2,True,,
+Costa Rica,2018,3,False,0.33859998,
+Costa Rica,2018,4,False,0.34382606,0.005226079999999966
+Costa Rica,2019,1,False,-19.97894304,-19.97894304
+Costa Rica,2019,2,False,-17.56725082,2.411692219999999
+Costa Rica,2019,3,False,-14.98109293,2.586157890000001
+Costa Rica,2019,4,False,-9.56809249,5.413000440000001
+Costa Rica,2020,1,False,0.0,0.0
+Costa Rica,2020,2,True,,
+Costa Rica,2020,3,True,,
+Costa Rica,2020,4,False,6.13464831,
+Costa Rica,2021,1,True,,
+Costa Rica,2021,2,False,0.4019784,
+Costa Rica,2021,3,False,0.40798401,0.0060056099999999946
+Costa Rica,2021,4,False,0.55882671,0.15084269999999994
+Costa Rica,2022,1,False,4.15645627,4.15645627
+Costa Rica,2022,2,False,5.83884733,1.6823910600000005
+Costa Rica,2022,3,False,7.76283178,1.9239844499999998
+Costa Rica,2022,4,False,9.11516498,1.3523331999999995
+Costa Rica,2023,1,True,,
+Costa Rica,2023,2,False,-0.36659875,
+Costa Rica,2023,3,False,0.24296984,0.60956859
+Costa Rica,2023,4,False,6.16726285,5.92429301
+Costa Rica,2024,1,True,,
+Costa Rica,2024,2,False,4.12498728,
+Costa Rica,2024,3,False,7.75498203,3.62999475
+Costa Rica,2024,4,False,8.01814734,0.26316531000000065
+Costa Rica,2025,1,False,0.0,0.0
+Costa Rica,2025,2,False,0.76525381,0.76525381
+Costa Rica,2025,3,False,0.72723416,-0.03801965000000007
+Costa Rica,2025,4,False,5.56695423,4.83972007
+Costa Rica,2026,1,False,0.61581312,0.61581312
+Costa de Marfil,2018,1,True,,
+Costa de Marfil,2018,2,True,,
+Costa de Marfil,2018,3,True,,
+Costa de Marfil,2018,4,True,,
+Costa de Marfil,2019,1,False,0.0,0.0
+Costa de Marfil,2019,2,False,0.0,0.0
+Costa de Marfil,2019,3,False,0.0,0.0
+Costa de Marfil,2019,4,False,0.0,0.0
+Costa de Marfil,2020,1,False,0.0,0.0
+Costa de Marfil,2020,2,False,0.0,0.0
+Costa de Marfil,2020,3,True,,
+Costa de Marfil,2020,4,True,,
+Costa de Marfil,2021,1,False,0.0,0.0
+Costa de Marfil,2021,2,False,0.0,0.0
+Costa de Marfil,2021,3,True,,
+Costa de Marfil,2021,4,True,,
+Costa de Marfil,2022,1,False,0.0,0.0
+Costa de Marfil,2022,2,False,0.0,0.0
+Costa de Marfil,2022,3,False,0.0,0.0
+Costa de Marfil,2022,4,False,0.0,0.0
+Costa de Marfil,2023,1,False,0.0,0.0
+Costa de Marfil,2023,2,False,0.0,0.0
+Costa de Marfil,2023,3,False,0.0,0.0
+Costa de Marfil,2023,4,False,0.0,0.0
+Costa de Marfil,2024,1,False,0.0,0.0
+Costa de Marfil,2024,2,False,0.0,0.0
+Costa de Marfil,2024,3,False,0.0,0.0
+Costa de Marfil,2024,4,False,0.0,0.0
+Costa de Marfil,2025,1,False,0.0,0.0
+Costa de Marfil,2025,2,False,0.0,0.0
+Costa de Marfil,2025,3,False,0.0,0.0
+Costa de Marfil,2025,4,False,0.0,0.0
+Costa de Marfil,2026,1,False,0.0,0.0
+Croacia,2018,1,False,0.0,0.0
+Croacia,2018,2,False,0.0,0.0
+Croacia,2018,3,True,,
+Croacia,2018,4,True,,
+Croacia,2019,1,False,0.0,0.0
+Croacia,2019,2,False,0.0,0.0
+Croacia,2019,3,True,,
+Croacia,2019,4,True,,
+Croacia,2020,1,False,0.0,0.0
+Croacia,2020,2,False,0.0,0.0
+Croacia,2020,3,False,0.0,0.0
+Croacia,2020,4,False,0.0,0.0
+Croacia,2021,1,False,0.0,0.0
+Croacia,2021,2,False,0.0,0.0
+Croacia,2021,3,False,0.0,0.0
+Croacia,2021,4,True,,
+Croacia,2022,1,False,0.0,0.0
+Croacia,2022,2,False,0.0,0.0
+Croacia,2022,3,False,0.0,0.0
+Croacia,2022,4,True,,
+Croacia,2023,1,False,0.0,0.0
+Croacia,2023,2,False,0.0,0.0
+Croacia,2023,3,True,,
+Croacia,2023,4,True,,
+Croacia,2024,1,False,0.0,0.0
+Croacia,2024,2,True,,
+Croacia,2024,3,True,,
+Croacia,2024,4,True,,
+Croacia,2025,1,False,0.0,0.0
+Croacia,2025,2,True,,
+Croacia,2025,3,True,,
+Croacia,2025,4,True,,
+Croacia,2026,1,False,0.0,0.0
+Cuba,2018,1,False,0.15953176,0.15953176
+Cuba,2018,2,False,-0.40548381,-0.56501557
+Cuba,2018,3,False,0.75653096,1.1620147699999999
+Cuba,2018,4,False,1.03871657,0.2821856100000001
+Cuba,2019,1,False,0.3060128,0.3060128
+Cuba,2019,2,False,1.06254996,0.7565371599999999
+Cuba,2019,3,False,2.51752527,1.4549753100000002
+Cuba,2019,4,False,2.42661476,-0.09091051000000006
+Cuba,2020,1,False,0.48640521,0.48640521
+Cuba,2020,2,False,0.64828968,0.16188447
+Cuba,2020,3,False,1.08290156,0.43461188000000006
+Cuba,2020,4,False,1.29669249,0.21379093000000005
+Cuba,2021,1,False,0.7830081,0.7830081
+Cuba,2021,2,False,1.38889394,0.60588584
+Cuba,2021,3,False,1.48629468,0.0974007400000001
+Cuba,2021,4,False,2.12259456,0.6362998799999999
+Cuba,2022,1,False,1.32010099,1.32010099
+Cuba,2022,2,False,2.81205382,1.49195283
+Cuba,2022,3,False,4.48088445,1.6688306299999995
+Cuba,2022,4,False,4.85453984,0.3736553900000006
+Cuba,2023,1,False,0.29626738,0.29626738
+Cuba,2023,2,False,3.63965454,3.34338716
+Cuba,2023,3,False,5.19827326,1.5586187199999997
+Cuba,2023,4,False,5.66074549,0.4624722300000004
+Cuba,2024,1,False,0.64838324,0.64838324
+Cuba,2024,2,False,2.1139604,1.4655771599999998
+Cuba,2024,3,False,5.05691116,2.9429507600000004
+Cuba,2024,4,False,6.28981742,1.23290626
+Cuba,2025,1,False,-0.01348089,-0.01348089
+Cuba,2025,2,False,2.91198656,2.9254674499999997
+Cuba,2025,3,False,5.6242228,2.71223624
+Cuba,2025,4,False,8.39489635,2.7706735499999997
+Cuba,2026,1,False,1.73049382,1.73049382
+Dinamarca,2018,1,True,,
+Dinamarca,2018,2,False,26.71380637,
+Dinamarca,2018,3,False,24.164128,-2.5496783699999988
+Dinamarca,2018,4,False,21.06775414,-3.09637386
+Dinamarca,2019,1,False,18.78858834,18.78858834
+Dinamarca,2019,2,False,31.57286333,12.78427499
+Dinamarca,2019,3,False,46.61237135,15.039508019999996
+Dinamarca,2019,4,False,190.017095,143.40472365000002
+Dinamarca,2020,1,False,45.09424967,45.09424967
+Dinamarca,2020,2,False,43.65588209,-1.4383675800000049
+Dinamarca,2020,3,False,100.5750819,56.91919981
+Dinamarca,2020,4,False,107.9019,7.326818099999997
+Dinamarca,2021,1,False,-130.1087862,-130.1087862
+Dinamarca,2021,2,False,-109.140587,20.9681992
+Dinamarca,2021,3,False,-15.04050292,94.10008408
+Dinamarca,2021,4,False,7.79770769,22.83821061
+Dinamarca,2022,1,False,35.43203491,35.43203491
+Dinamarca,2022,2,False,27.98812298,-7.443911929999999
+Dinamarca,2022,3,False,35.01538751,7.0272645299999965
+Dinamarca,2022,4,False,-172.6974361,-207.71282361
+Dinamarca,2023,1,False,101.3031532,101.3031532
+Dinamarca,2023,2,False,53.49061274,-47.812540459999994
+Dinamarca,2023,3,False,110.1431834,56.652570659999995
+Dinamarca,2023,4,False,96.22789429,-13.915289110000003
+Dinamarca,2024,1,False,92.45610948,92.45610948
+Dinamarca,2024,2,False,74.54491718,-17.911192299999996
+Dinamarca,2024,3,False,45.13297335,-29.41194383
+Dinamarca,2024,4,False,25.93163744,-19.20133591
+Dinamarca,2025,1,False,-3.27470728,-3.27470728
+Dinamarca,2025,2,False,8.75513902,12.029846299999999
+Dinamarca,2025,3,False,-18.33032898,-27.085468
+Dinamarca,2025,4,False,15.32568987,33.65601885
+Dinamarca,2026,1,False,44.74748234,44.74748234
+Dominica,2018,1,False,0.0,0.0
+Dominica,2018,2,False,0.0,0.0
+Dominica,2018,3,False,0.0,0.0
+Dominica,2018,4,False,0.0,0.0
+Dominica,2019,1,False,0.0,0.0
+Dominica,2019,2,False,0.0,0.0
+Dominica,2019,3,False,0.0,0.0
+Dominica,2019,4,False,0.0,0.0
+Dominica,2020,1,False,0.0,0.0
+Dominica,2020,2,False,0.0,0.0
+Dominica,2020,3,False,0.0,0.0
+Dominica,2020,4,False,0.0,0.0
+Dominica,2021,1,False,0.0,0.0
+Dominica,2021,2,False,0.0,0.0
+Dominica,2021,3,False,0.0,0.0
+Dominica,2021,4,False,0.0,0.0
+Dominica,2022,1,False,0.0,0.0
+Dominica,2022,2,False,0.0,0.0
+Dominica,2022,3,False,0.0,0.0
+Dominica,2022,4,True,,
+Dominica,2023,1,False,0.0,0.0
+Dominica,2023,2,False,0.0,0.0
+Dominica,2023,3,False,0.0,0.0
+Dominica,2023,4,False,0.0,0.0
+Dominica,2024,1,False,0.0,0.0
+Dominica,2024,2,False,0.0,0.0
+Dominica,2024,3,False,0.0,0.0
+Dominica,2024,4,False,0.0,0.0
+Dominica,2025,1,False,0.0,0.0
+Dominica,2025,2,False,0.0,0.0
+Dominica,2025,3,False,0.0,0.0
+Dominica,2025,4,False,0.0,0.0
+Dominica,2026,1,False,0.0,0.0
+Ecuador,2018,1,False,0.0,0.0
+Ecuador,2018,2,True,,
+Ecuador,2018,3,False,0.02367006,
+Ecuador,2018,4,False,0.13801015,0.11434009
+Ecuador,2019,1,False,1.85566214,1.85566214
+Ecuador,2019,2,False,1.85566187,-2.6999999991339507e-07
+Ecuador,2019,3,False,4.08727506,2.2316131899999996
+Ecuador,2019,4,False,3.88417196,-0.20310309999999943
+Ecuador,2020,1,False,0.0,0.0
+Ecuador,2020,2,False,0.0,0.0
+Ecuador,2020,3,True,,
+Ecuador,2020,4,True,,
+Ecuador,2021,1,True,,
+Ecuador,2021,2,False,0.14712561,
+Ecuador,2021,3,False,2.35801035,2.21088474
+Ecuador,2021,4,False,2.35801035,0.0
+Ecuador,2022,1,False,2.60498966,2.60498966
+Ecuador,2022,2,False,2.60599191,0.0010022499999999823
+Ecuador,2022,3,False,3.25946521,0.6534732999999999
+Ecuador,2022,4,False,3.41819378,0.15872857000000007
+Ecuador,2023,1,False,0.50055156,0.50055156
+Ecuador,2023,2,False,0.8044521,0.30390054
+Ecuador,2023,3,False,1.15290341,0.34845130999999996
+Ecuador,2023,4,False,5.47759525,4.32469184
+Ecuador,2024,1,False,0.0,0.0
+Ecuador,2024,2,True,,
+Ecuador,2024,3,False,5.63044963,
+Ecuador,2024,4,False,5.01273168,-0.6177179500000003
+Ecuador,2025,1,False,-0.74020812,-0.74020812
+Ecuador,2025,2,False,-1.62538812,-0.88518
+Ecuador,2025,3,False,0.98003016,2.60541828
+Ecuador,2025,4,False,2.0937391,1.11370894
+Ecuador,2026,1,True,,
+Egipto,2018,1,False,0.0,0.0
+Egipto,2018,2,False,0.0,0.0
+Egipto,2018,3,False,0.0,0.0
+Egipto,2018,4,True,,
+Egipto,2019,1,False,0.0,0.0
+Egipto,2019,2,True,,
+Egipto,2019,3,True,,
+Egipto,2019,4,True,,
+Egipto,2020,1,False,0.0,0.0
+Egipto,2020,2,False,0.0,0.0
+Egipto,2020,3,False,0.0,0.0
+Egipto,2020,4,False,0.0,0.0
+Egipto,2021,1,False,0.0,0.0
+Egipto,2021,2,False,0.0,0.0
+Egipto,2021,3,False,0.0,0.0
+Egipto,2021,4,False,0.0,0.0
+Egipto,2022,1,False,0.0,0.0
+Egipto,2022,2,False,0.0,0.0
+Egipto,2022,3,False,0.0,0.0
+Egipto,2022,4,False,0.0,0.0
+Egipto,2023,1,False,0.0,0.0
+Egipto,2023,2,False,0.0,0.0
+Egipto,2023,3,True,,
+Egipto,2023,4,True,,
+Egipto,2024,1,False,0.0,0.0
+Egipto,2024,2,False,0.0,0.0
+Egipto,2024,3,False,0.0,0.0
+Egipto,2024,4,True,,
+Egipto,2025,1,False,0.0,0.0
+Egipto,2025,2,False,0.0,0.0
+Egipto,2025,3,False,0.0,0.0
+Egipto,2025,4,False,0.0,0.0
+Egipto,2026,1,False,0.0,0.0
+El Salvador,2018,1,False,0.0,0.0
+El Salvador,2018,2,True,,
+El Salvador,2018,3,False,0.05089698,
+El Salvador,2018,4,False,0.05089698,0.0
+El Salvador,2019,1,False,0.0,0.0
+El Salvador,2019,2,False,4.76085598,4.76085598
+El Salvador,2019,3,False,4.760934,7.802000000012299e-05
+El Salvador,2019,4,False,4.83736732,0.07643332000000047
+El Salvador,2020,1,False,0.0,0.0
+El Salvador,2020,2,True,,
+El Salvador,2020,3,True,,
+El Salvador,2020,4,False,8.93396542,
+El Salvador,2021,1,True,,
+El Salvador,2021,2,False,0.21196523,
+El Salvador,2021,3,False,0.28688544,0.07492020999999999
+El Salvador,2021,4,False,2.30302841,2.01614297
+El Salvador,2022,1,True,,
+El Salvador,2022,2,False,2.29150047,
+El Salvador,2022,3,False,2.42311069,0.13161022000000022
+El Salvador,2022,4,False,2.65420934,0.23109864999999985
+El Salvador,2023,1,True,,
+El Salvador,2023,2,False,0.45011854,
+El Salvador,2023,3,False,1.00415241,0.55403387
+El Salvador,2023,4,False,1.00415241,0.0
+El Salvador,2024,1,False,0.0,0.0
+El Salvador,2024,2,False,0.0,0.0
+El Salvador,2024,3,False,0.0,0.0
+El Salvador,2024,4,False,0.26142886,0.26142886
+El Salvador,2025,1,False,0.25168523,0.25168523
+El Salvador,2025,2,False,0.36410901,0.11242378000000003
+El Salvador,2025,3,False,0.36410901,0.0
+El Salvador,2025,4,False,0.88876104,0.5246520299999999
+El Salvador,2026,1,False,0.23328434,0.23328434
+Emiratos Árabes Unidos,2018,1,True,,
+Emiratos Árabes Unidos,2018,2,False,14.54570733,
+Emiratos Árabes Unidos,2018,3,False,14.54570733,0.0
+Emiratos Árabes Unidos,2018,4,False,14.54570733,0.0
+Emiratos Árabes Unidos,2019,1,False,0.0,0.0
+Emiratos Árabes Unidos,2019,2,False,0.0,0.0
+Emiratos Árabes Unidos,2019,3,False,0.0,0.0
+Emiratos Árabes Unidos,2019,4,False,0.0,0.0
+Emiratos Árabes Unidos,2020,1,False,0.0,0.0
+Emiratos Árabes Unidos,2020,2,False,0.0,0.0
+Emiratos Árabes Unidos,2020,3,False,0.0,0.0
+Emiratos Árabes Unidos,2020,4,True,,
+Emiratos Árabes Unidos,2021,1,True,,
+Emiratos Árabes Unidos,2021,2,True,,
+Emiratos Árabes Unidos,2021,3,False,0.08208623,
+Emiratos Árabes Unidos,2021,4,False,0.40527383,0.3231876
+Emiratos Árabes Unidos,2022,1,False,0.0,0.0
+Emiratos Árabes Unidos,2022,2,True,,
+Emiratos Árabes Unidos,2022,3,True,,
+Emiratos Árabes Unidos,2022,4,True,,
+Emiratos Árabes Unidos,2023,1,False,0.0,0.0
+Emiratos Árabes Unidos,2023,2,False,2.53356664,2.53356664
+Emiratos Árabes Unidos,2023,3,False,3.6622705,1.12870386
+Emiratos Árabes Unidos,2023,4,False,7.30928177,3.64701127
+Emiratos Árabes Unidos,2024,1,True,,
+Emiratos Árabes Unidos,2024,2,False,7.31022932,
+Emiratos Árabes Unidos,2024,3,False,9.93173287,2.621503549999999
+Emiratos Árabes Unidos,2024,4,False,4.09170573,-5.840027139999999
+Emiratos Árabes Unidos,2025,1,True,,
+Emiratos Árabes Unidos,2025,2,False,10.44991355,
+Emiratos Árabes Unidos,2025,3,False,27.78927852,17.33936497
+Emiratos Árabes Unidos,2025,4,False,29.07995019,1.2906716700000018
+Emiratos Árabes Unidos,2026,1,True,,
+Escocia,2018,1,False,0.0,0.0
+Escocia,2018,2,False,0.0,0.0
+Escocia,2018,3,False,0.0,0.0
+Escocia,2018,4,False,0.0,0.0
+Escocia,2019,1,False,0.0,0.0
+Escocia,2019,2,False,0.0,0.0
+Escocia,2019,3,False,0.0,0.0
+Escocia,2019,4,False,0.0,0.0
+Escocia,2020,1,False,0.0,0.0
+Escocia,2020,2,False,0.0,0.0
+Escocia,2020,3,False,0.0,0.0
+Escocia,2020,4,False,0.0,0.0
+Escocia,2021,1,False,0.0,0.0
+Escocia,2021,2,False,0.0,0.0
+Escocia,2021,3,False,0.0,0.0
+Escocia,2021,4,False,0.0,0.0
+Escocia,2022,1,False,0.0,0.0
+Escocia,2022,2,False,0.0,0.0
+Escocia,2022,3,False,0.0,0.0
+Escocia,2022,4,False,0.0,0.0
+Escocia,2023,1,False,0.0,0.0
+Escocia,2023,2,False,0.0,0.0
+Escocia,2023,3,True,,
+Escocia,2023,4,True,,
+Escocia,2024,1,False,0.0,0.0
+Escocia,2024,2,False,0.0,0.0
+Escocia,2024,3,True,,
+Escocia,2024,4,True,,
+Escocia,2025,1,False,0.0,0.0
+Escocia,2025,2,False,0.0,0.0
+Escocia,2025,3,False,0.0,0.0
+Escocia,2025,4,True,,
+Escocia,2026,1,False,0.0,0.0
+Eslovaquia,2018,1,False,0.0,0.0
+Eslovaquia,2018,2,True,,
+Eslovaquia,2018,3,False,0.16434522,
+Eslovaquia,2018,4,False,0.16434522,0.0
+Eslovaquia,2019,1,False,0.0,0.0
+Eslovaquia,2019,2,False,0.0,0.0
+Eslovaquia,2019,3,False,0.30826402,0.30826402
+Eslovaquia,2019,4,False,0.30826402,0.0
+Eslovaquia,2020,1,False,0.0,0.0
+Eslovaquia,2020,2,False,0.0,0.0
+Eslovaquia,2020,3,False,0.32364378,0.32364378
+Eslovaquia,2020,4,False,0.51396315,0.19031937000000004
+Eslovaquia,2021,1,False,0.0,0.0
+Eslovaquia,2021,2,True,,
+Eslovaquia,2021,3,False,0.27244264,
+Eslovaquia,2021,4,False,0.17608078,-0.09636186000000002
+Eslovaquia,2022,1,True,,
+Eslovaquia,2022,2,True,,
+Eslovaquia,2022,3,False,0.06299225,
+Eslovaquia,2022,4,False,0.08005493,0.017062679999999997
+Eslovaquia,2023,1,True,,
+Eslovaquia,2023,2,True,,
+Eslovaquia,2023,3,False,0.35647228,
+Eslovaquia,2023,4,False,0.49353974,0.13706746000000003
+Eslovaquia,2024,1,False,0.0,0.0
+Eslovaquia,2024,2,False,0.0,0.0
+Eslovaquia,2024,3,False,0.2682817,0.2682817
+Eslovaquia,2024,4,False,0.40653755,0.13825585
+Eslovaquia,2025,1,True,,
+Eslovaquia,2025,2,False,-1.39813835,
+Eslovaquia,2025,3,False,0.36126141,1.75939976
+Eslovaquia,2025,4,False,0.77698691,0.41572549999999997
+Eslovaquia,2026,1,True,,
+Eslovenia,2018,1,False,0.0,0.0
+Eslovenia,2018,2,False,0.0,0.0
+Eslovenia,2018,3,False,0.0,0.0
+Eslovenia,2018,4,False,0.0,0.0
+Eslovenia,2019,1,False,0.0,0.0
+Eslovenia,2019,2,False,0.0,0.0
+Eslovenia,2019,3,True,,
+Eslovenia,2019,4,True,,
+Eslovenia,2020,1,False,0.0,0.0
+Eslovenia,2020,2,True,,
+Eslovenia,2020,3,True,,
+Eslovenia,2020,4,True,,
+Eslovenia,2021,1,True,,
+Eslovenia,2021,2,True,,
+Eslovenia,2021,3,True,,
+Eslovenia,2021,4,True,,
+Eslovenia,2022,1,False,0.0,0.0
+Eslovenia,2022,2,False,0.0,0.0
+Eslovenia,2022,3,False,0.61005127,0.61005127
+Eslovenia,2022,4,False,0.61005127,0.0
+Eslovenia,2023,1,False,0.0,0.0
+Eslovenia,2023,2,False,0.0,0.0
+Eslovenia,2023,3,True,,
+Eslovenia,2023,4,True,,
+Eslovenia,2024,1,False,0.0,0.0
+Eslovenia,2024,2,False,0.0,0.0
+Eslovenia,2024,3,False,0.0,0.0
+Eslovenia,2024,4,True,,
+Eslovenia,2025,1,False,0.0,0.0
+Eslovenia,2025,2,False,0.0,0.0
+Eslovenia,2025,3,False,0.0,0.0
+Eslovenia,2025,4,True,,
+Eslovenia,2026,1,False,0.0,0.0
+España,2018,1,False,1771.699467,1771.699467
+España,2018,2,False,2742.311108,970.611641
+España,2018,3,False,2854.578915,112.26780700000018
+España,2018,4,False,4127.13504,1272.556125
+España,2019,1,False,1404.405826,1404.405826
+España,2019,2,False,2009.172533,604.766707
+España,2019,3,False,4025.847703,2016.67517
+España,2019,4,False,3977.775876,-48.07182699999976
+España,2020,1,False,1475.284695,1475.284695
+España,2020,2,False,2003.863529,528.5788339999999
+España,2020,3,False,3225.219628,1221.3560989999999
+España,2020,4,False,3998.750837,773.5312090000002
+España,2021,1,False,1434.433766,1434.433766
+España,2021,2,False,1680.061531,245.62776499999995
+España,2021,3,False,2666.846528,986.784997
+España,2021,4,False,4334.682907,1667.8363790000003
+España,2022,1,False,2093.150842,2093.150842
+España,2022,2,False,1884.541679,-208.60916300000008
+España,2022,3,False,2283.022827,398.48114799999985
+España,2022,4,False,1637.87999,-645.1428369999999
+España,2023,1,False,3779.918205,3779.918205
+España,2023,2,False,4224.627127,444.7089219999998
+España,2023,3,False,3720.864063,-503.76306399999976
+España,2023,4,False,3774.11987,53.255807000000004
+España,2024,1,False,350.6567939,350.6567939
+España,2024,2,False,-219.8104937,-570.4672876
+España,2024,3,False,-903.4325585,-683.6220648000001
+España,2024,4,False,-1134.196846,-230.76428750000002
+España,2025,1,False,3210.07435,3210.07435
+España,2025,2,False,5942.992153,2732.9178030000003
+España,2025,3,False,5764.925215,-178.06693799999994
+España,2025,4,False,4431.413848,-1333.511367
+España,2026,1,False,3803.60626,3803.60626
+Estados Unidos de América,2018,1,False,4143.216795,4143.216795
+Estados Unidos de América,2018,2,False,6973.210562,2829.993767
+Estados Unidos de América,2018,3,False,8833.630298,1860.4197359999998
+Estados Unidos de América,2018,4,False,12273.68317,3440.052872
+Estados Unidos de América,2019,1,False,4379.868971,4379.868971
+Estados Unidos de América,2019,2,False,6864.852409,2484.983438
+Estados Unidos de América,2019,3,False,9094.100109,2229.247700000001
+Estados Unidos de América,2019,4,False,12117.28508,3023.1849709999988
+Estados Unidos de América,2020,1,False,4018.217962,4018.217962
+Estados Unidos de América,2020,2,False,6937.076486,2918.8585239999998
+Estados Unidos de América,2020,3,False,9202.171825,2265.0953389999995
+Estados Unidos de América,2020,4,False,11355.8489,2153.6770750000014
+Estados Unidos de América,2021,1,False,5047.985092,5047.985092
+Estados Unidos de América,2021,2,False,9361.67914,4313.694048
+Estados Unidos de América,2021,3,False,12305.93105,2944.251909999999
+Estados Unidos de América,2021,4,False,15009.35941,2703.42836
+Estados Unidos de América,2022,1,False,7602.278697,7602.278697
+Estados Unidos de América,2022,2,False,10964.15786,3361.8791629999996
+Estados Unidos de América,2022,3,False,12576.09969,1611.9418299999998
+Estados Unidos de América,2022,4,False,15021.5734,2445.47371
+Estados Unidos de América,2023,1,False,6405.247533,6405.247533
+Estados Unidos de América,2023,2,False,12369.95675,5964.709217
+Estados Unidos de América,2023,3,False,13527.53901,1157.582260000001
+Estados Unidos de América,2023,4,False,13633.84878,106.30976999999984
+Estados Unidos de América,2024,1,False,10615.23239,10615.23239
+Estados Unidos de América,2024,2,False,13717.39801,3102.1656200000016
+Estados Unidos de América,2024,3,False,14473.86083,756.4628199999988
+Estados Unidos de América,2024,4,False,16512.80049,2038.9396600000018
+Estados Unidos de América,2025,1,False,8264.214182,8264.214182
+Estados Unidos de América,2025,2,False,14703.16893,6438.954748
+Estados Unidos de América,2025,3,False,16146.07185,1442.9029200000004
+Estados Unidos de América,2025,4,False,15877.16707,-268.90478000000076
+Estados Unidos de América,2026,1,False,10210.49773,10210.49773
+Estonia,2018,1,False,0.0,0.0
+Estonia,2018,2,True,,
+Estonia,2018,3,False,0.13394844,
+Estonia,2018,4,False,0.13394844,0.0
+Estonia,2019,1,True,,
+Estonia,2019,2,True,,
+Estonia,2019,3,False,0.20402628,
+Estonia,2019,4,False,0.20402628,0.0
+Estonia,2020,1,False,0.0,0.0
+Estonia,2020,2,False,0.0,0.0
+Estonia,2020,3,True,,
+Estonia,2020,4,True,,
+Estonia,2021,1,False,0.0,0.0
+Estonia,2021,2,True,,
+Estonia,2021,3,False,0.0504316,
+Estonia,2021,4,False,0.01047415,-0.03995745
+Estonia,2022,1,False,0.0,0.0
+Estonia,2022,2,False,0.0,0.0
+Estonia,2022,3,False,0.0,0.0
+Estonia,2022,4,False,0.0,0.0
+Estonia,2023,1,False,0.0,0.0
+Estonia,2023,2,True,,
+Estonia,2023,3,True,,
+Estonia,2023,4,True,,
+Estonia,2024,1,False,0.0,0.0
+Estonia,2024,2,False,0.0,0.0
+Estonia,2024,3,False,0.0,0.0
+Estonia,2024,4,False,0.0,0.0
+Estonia,2025,1,True,,
+Estonia,2025,2,True,,
+Estonia,2025,3,False,0.16988976,
+Estonia,2025,4,False,0.16988976,0.0
+Estonia,2026,1,True,,
+Etiopía,2018,1,False,0.0,0.0
+Etiopía,2018,2,False,0.0,0.0
+Etiopía,2018,3,False,0.0,0.0
+Etiopía,2018,4,False,0.0,0.0
+Etiopía,2019,1,False,0.0,0.0
+Etiopía,2019,2,False,0.0,0.0
+Etiopía,2019,3,False,0.0,0.0
+Etiopía,2019,4,True,,
+Etiopía,2020,1,False,0.0,0.0
+Etiopía,2020,2,False,0.0,0.0
+Etiopía,2020,3,False,0.0,0.0
+Etiopía,2020,4,False,0.0,0.0
+Etiopía,2021,1,False,0.0,0.0
+Etiopía,2021,2,False,0.0,0.0
+Etiopía,2021,3,False,0.0,0.0
+Etiopía,2021,4,False,0.0,0.0
+Etiopía,2022,1,False,0.0,0.0
+Etiopía,2022,2,False,0.0,0.0
+Etiopía,2022,3,False,0.0,0.0
+Etiopía,2022,4,False,0.0,0.0
+Etiopía,2023,1,False,0.0,0.0
+Etiopía,2023,2,False,0.0,0.0
+Etiopía,2023,3,False,0.0,0.0
+Etiopía,2023,4,False,0.0,0.0
+Etiopía,2024,1,False,0.0,0.0
+Etiopía,2024,2,False,0.0,0.0
+Etiopía,2024,3,False,0.0,0.0
+Etiopía,2024,4,False,0.0,0.0
+Etiopía,2025,1,False,0.0,0.0
+Etiopía,2025,2,False,0.0,0.0
+Etiopía,2025,3,False,0.0,0.0
+Etiopía,2025,4,False,0.0,0.0
+Etiopía,2026,1,False,0.0,0.0
+Federación de Rusia,2018,1,True,,
+Federación de Rusia,2018,2,False,18.79381412,
+Federación de Rusia,2018,3,False,31.63510678,12.84129266
+Federación de Rusia,2018,4,False,31.84172792,0.20662113999999931
+Federación de Rusia,2019,1,False,0.37947983,0.37947983
+Federación de Rusia,2019,2,False,3.15936773,2.7798879
+Federación de Rusia,2019,3,False,3.7888605,0.6294927700000001
+Federación de Rusia,2019,4,False,39.3025894,35.513728900000004
+Federación de Rusia,2020,1,False,1.53460013,1.53460013
+Federación de Rusia,2020,2,False,1.66332929,0.12872916
+Federación de Rusia,2020,3,False,1.62558975,-0.037739540000000016
+Federación de Rusia,2020,4,False,1.73303671,0.10744695999999987
+Federación de Rusia,2021,1,True,,
+Federación de Rusia,2021,2,False,0.38979396,
+Federación de Rusia,2021,3,False,0.64253195,0.25273798999999997
+Federación de Rusia,2021,4,False,0.89680008,0.25426813000000004
+Federación de Rusia,2022,1,False,0.78458806,0.78458806
+Federación de Rusia,2022,2,False,1.54622907,0.7616410100000001
+Federación de Rusia,2022,3,False,1.87775239,0.33152331999999984
+Federación de Rusia,2022,4,False,2.3456882,0.4679358100000002
+Federación de Rusia,2023,1,False,1.1372329,1.1372329
+Federación de Rusia,2023,2,False,3.65685848,2.5196255799999996
+Federación de Rusia,2023,3,False,5.39650726,1.73964878
+Federación de Rusia,2023,4,False,9.07560832,3.6791010600000007
+Federación de Rusia,2024,1,False,0.41879622,0.41879622
+Federación de Rusia,2024,2,False,17.49545353,17.076657309999998
+Federación de Rusia,2024,3,False,19.11142164,1.6159681100000007
+Federación de Rusia,2024,4,False,86.3571506,67.24572896
+Federación de Rusia,2025,1,False,141.0936852,141.0936852
+Federación de Rusia,2025,2,False,142.4354053,1.3417201000000034
+Federación de Rusia,2025,3,False,146.5930858,4.157680499999998
+Federación de Rusia,2025,4,False,147.2973767,0.7042908999999895
+Federación de Rusia,2026,1,False,0.89365651,0.89365651
+Filipinas,2018,1,False,0.68528286,0.68528286
+Filipinas,2018,2,False,0.76021877,0.07493591
+Filipinas,2018,3,False,0.76021877,0.0
+Filipinas,2018,4,False,0.76021877,0.0
+Filipinas,2019,1,True,,
+Filipinas,2019,2,True,,
+Filipinas,2019,3,False,0.22095913,
+Filipinas,2019,4,False,0.31015728,0.08919814999999998
+Filipinas,2020,1,False,0.0,0.0
+Filipinas,2020,2,True,,
+Filipinas,2020,3,True,,
+Filipinas,2020,4,True,,
+Filipinas,2021,1,False,0.0,0.0
+Filipinas,2021,2,True,,
+Filipinas,2021,3,False,0.43109734,
+Filipinas,2021,4,False,0.57769913,0.14660178999999995
+Filipinas,2022,1,False,0.33345358,0.33345358
+Filipinas,2022,2,False,0.85487156,0.52141798
+Filipinas,2022,3,False,1.04203233,0.1871607700000001
+Filipinas,2022,4,False,1.04203233,0.0
+Filipinas,2023,1,True,,
+Filipinas,2023,2,False,3.2026161,
+Filipinas,2023,3,False,3.81309854,0.6104824399999997
+Filipinas,2023,4,False,3.89704526,0.08394672000000014
+Filipinas,2024,1,False,1.32045548,1.32045548
+Filipinas,2024,2,False,161.4946345,160.17417902
+Filipinas,2024,3,False,162.1358402,0.6412057000000004
+Filipinas,2024,4,False,161.0986076,-1.0372325999999816
+Filipinas,2025,1,False,0.0,0.0
+Filipinas,2025,2,False,243.1626323,243.1626323
+Filipinas,2025,3,False,243.1626323,0.0
+Filipinas,2025,4,False,243.3732931,0.21066079999999943
+Filipinas,2026,1,True,,
+Finlandia,2018,1,True,,
+Finlandia,2018,2,True,,
+Finlandia,2018,3,False,64.70179362,
+Finlandia,2018,4,False,126.9312317,62.229438079999994
+Finlandia,2019,1,False,14.84614242,14.84614242
+Finlandia,2019,2,False,54.20598915,39.35984673
+Finlandia,2019,3,False,52.92123777,-1.284751380000003
+Finlandia,2019,4,False,71.72834281,18.807105040000003
+Finlandia,2020,1,False,-40.48062364,-40.48062364
+Finlandia,2020,2,False,8.85621042,49.33683406
+Finlandia,2020,3,False,-15.68199076,-24.53820118
+Finlandia,2020,4,False,-34.9863167,-19.304325940000005
+Finlandia,2021,1,True,,
+Finlandia,2021,2,False,-11.76987309,
+Finlandia,2021,3,False,7.58094608,19.35081917
+Finlandia,2021,4,False,-165.6858479,-173.26679398
+Finlandia,2022,1,False,-5.55015045,-5.55015045
+Finlandia,2022,2,False,-12.75323142,-7.20308097
+Finlandia,2022,3,False,-16.09166719,-3.3384357699999985
+Finlandia,2022,4,False,-4.39003107,11.70163612
+Finlandia,2023,1,False,0.0,0.0
+Finlandia,2023,2,False,5.07280163,5.07280163
+Finlandia,2023,3,False,10.23137377,5.1585721399999995
+Finlandia,2023,4,False,23.35960122,13.128227449999999
+Finlandia,2024,1,True,,
+Finlandia,2024,2,False,29.21248208,
+Finlandia,2024,3,False,13.36543414,-15.847047940000001
+Finlandia,2024,4,False,15.78002648,2.4145923400000004
+Finlandia,2025,1,True,,
+Finlandia,2025,2,False,12.21701464,
+Finlandia,2025,3,False,12.21701464,0.0
+Finlandia,2025,4,False,-2.57348006,-14.7904947
+Finlandia,2026,1,False,2.89666043,2.89666043
+"Fiyi, República de",2018,1,False,0.0,0.0
+"Fiyi, República de",2018,2,False,0.0,0.0
+"Fiyi, República de",2018,3,False,0.0,0.0
+"Fiyi, República de",2018,4,False,0.0,0.0
+"Fiyi, República de",2019,1,False,0.0,0.0
+"Fiyi, República de",2019,2,False,0.0,0.0
+"Fiyi, República de",2019,3,False,0.0,0.0
+"Fiyi, República de",2019,4,False,0.0,0.0
+"Fiyi, República de",2020,1,False,0.0,0.0
+"Fiyi, República de",2020,2,False,0.0,0.0
+"Fiyi, República de",2020,3,False,0.0,0.0
+"Fiyi, República de",2020,4,False,0.0,0.0
+"Fiyi, República de",2021,1,False,0.0,0.0
+"Fiyi, República de",2021,2,False,0.0,0.0
+"Fiyi, República de",2021,3,False,0.0,0.0
+"Fiyi, República de",2021,4,False,0.0,0.0
+"Fiyi, República de",2022,1,False,0.0,0.0
+"Fiyi, República de",2022,2,False,0.0,0.0
+"Fiyi, República de",2022,3,False,0.0,0.0
+"Fiyi, República de",2022,4,False,0.0,0.0
+"Fiyi, República de",2023,1,False,0.0,0.0
+"Fiyi, República de",2023,2,False,0.0,0.0
+"Fiyi, República de",2023,3,False,0.0,0.0
+"Fiyi, República de",2023,4,True,,
+"Fiyi, República de",2024,1,False,0.0,0.0
+"Fiyi, República de",2024,2,False,0.0,0.0
+"Fiyi, República de",2024,3,False,0.0,0.0
+"Fiyi, República de",2024,4,False,0.0,0.0
+"Fiyi, República de",2025,1,False,0.0,0.0
+"Fiyi, República de",2025,2,False,0.0,0.0
+"Fiyi, República de",2025,3,False,0.0,0.0
+"Fiyi, República de",2025,4,False,0.0,0.0
+"Fiyi, República de",2026,1,False,0.0,0.0
+Francia,2018,1,False,380.1100963,380.1100963
+Francia,2018,2,False,363.567622,-16.542474300000038
+Francia,2018,3,False,459.3789612,95.81133920000002
+Francia,2018,4,False,461.4095006,2.030539400000009
+Francia,2019,1,False,230.6488247,230.6488247
+Francia,2019,2,False,563.8429007,333.194076
+Francia,2019,3,False,750.4251654,186.5822647
+Francia,2019,4,False,1035.769436,285.3442706000001
+Francia,2020,1,False,129.9692826,129.9692826
+Francia,2020,2,False,271.4861052,141.51682259999998
+Francia,2020,3,False,240.5959521,-30.890153099999992
+Francia,2020,4,False,280.2265691,39.630617
+Francia,2021,1,False,311.1057896,311.1057896
+Francia,2021,2,False,264.9247565,-46.18103309999998
+Francia,2021,3,False,475.3053544,210.3805979
+Francia,2021,4,False,385.8804823,-89.42487210000002
+Francia,2022,1,False,665.7411658,665.7411658
+Francia,2022,2,False,688.2584353,22.517269499999998
+Francia,2022,3,False,757.6030645,69.34462919999999
+Francia,2022,4,False,421.6824383,-335.92062619999996
+Francia,2023,1,False,149.4434009,149.4434009
+Francia,2023,2,False,396.8830266,247.4396257
+Francia,2023,3,False,523.5227876,126.63976100000002
+Francia,2023,4,False,480.5843943,-42.93839330000003
+Francia,2024,1,False,-1263.606186,-1263.606186
+Francia,2024,2,False,-958.8528969,304.75328909999996
+Francia,2024,3,False,-875.6348003,83.21809659999997
+Francia,2024,4,False,-803.7691865,71.8656138
+Francia,2025,1,False,140.5680785,140.5680785
+Francia,2025,2,False,457.7427949,317.17471639999997
+Francia,2025,3,False,642.0108515,184.26805659999997
+Francia,2025,4,False,1223.149413,581.1385615000002
+Francia,2026,1,False,153.5318497,153.5318497
+Gabón,2018,1,False,0.0,0.0
+Gabón,2018,2,False,0.0,0.0
+Gabón,2018,3,False,0.0,0.0
+Gabón,2018,4,False,0.0,0.0
+Gabón,2019,1,False,0.0,0.0
+Gabón,2019,2,False,0.0,0.0
+Gabón,2019,3,False,0.0,0.0
+Gabón,2019,4,False,0.0,0.0
+Gabón,2020,1,False,0.0,0.0
+Gabón,2020,2,False,0.0,0.0
+Gabón,2020,3,False,0.0,0.0
+Gabón,2020,4,False,0.0,0.0
+Gabón,2021,1,False,0.0,0.0
+Gabón,2021,2,False,0.0,0.0
+Gabón,2021,3,False,0.0,0.0
+Gabón,2021,4,False,0.0,0.0
+Gabón,2022,1,False,0.0,0.0
+Gabón,2022,2,False,0.0,0.0
+Gabón,2022,3,False,0.0,0.0
+Gabón,2022,4,False,0.0,0.0
+Gabón,2023,1,False,0.0,0.0
+Gabón,2023,2,False,0.0,0.0
+Gabón,2023,3,False,0.0,0.0
+Gabón,2023,4,False,0.0,0.0
+Gabón,2024,1,False,0.0,0.0
+Gabón,2024,2,False,0.0,0.0
+Gabón,2024,3,False,0.0,0.0
+Gabón,2024,4,False,0.0,0.0
+Gabón,2025,1,False,0.0,0.0
+Gabón,2025,2,False,0.0,0.0
+Gabón,2025,3,False,0.0,0.0
+Gabón,2025,4,False,0.0,0.0
+Gabón,2026,1,False,0.0,0.0
+Georgia,2018,1,False,0.0,0.0
+Georgia,2018,2,False,0.0,0.0
+Georgia,2018,3,False,0.0,0.0
+Georgia,2018,4,False,0.0,0.0
+Georgia,2019,1,False,0.0,0.0
+Georgia,2019,2,False,0.0,0.0
+Georgia,2019,3,False,0.0,0.0
+Georgia,2019,4,False,0.0,0.0
+Georgia,2020,1,False,0.0,0.0
+Georgia,2020,2,False,0.0,0.0
+Georgia,2020,3,False,0.0,0.0
+Georgia,2020,4,False,0.0,0.0
+Georgia,2021,1,False,0.0,0.0
+Georgia,2021,2,False,0.0,0.0
+Georgia,2021,3,False,0.0,0.0
+Georgia,2021,4,False,0.0,0.0
+Georgia,2022,1,False,0.0,0.0
+Georgia,2022,2,False,0.0,0.0
+Georgia,2022,3,False,0.0,0.0
+Georgia,2022,4,False,0.0,0.0
+Georgia,2023,1,False,0.0,0.0
+Georgia,2023,2,False,0.0,0.0
+Georgia,2023,3,False,0.0,0.0
+Georgia,2023,4,False,0.0,0.0
+Georgia,2024,1,False,0.0,0.0
+Georgia,2024,2,False,0.0,0.0
+Georgia,2024,3,False,0.0,0.0
+Georgia,2024,4,False,0.0,0.0
+Georgia,2025,1,False,0.0,0.0
+Georgia,2025,2,False,0.0,0.0
+Georgia,2025,3,False,0.0,0.0
+Georgia,2025,4,False,0.0,0.0
+Georgia,2026,1,False,0.0,0.0
+Ghana,2018,1,False,0.0,0.0
+Ghana,2018,2,False,0.0,0.0
+Ghana,2018,3,False,0.0,0.0
+Ghana,2018,4,False,0.0,0.0
+Ghana,2019,1,False,0.0,0.0
+Ghana,2019,2,False,0.0,0.0
+Ghana,2019,3,False,0.0,0.0
+Ghana,2019,4,False,0.0,0.0
+Ghana,2020,1,False,0.0,0.0
+Ghana,2020,2,False,0.0,0.0
+Ghana,2020,3,False,0.0,0.0
+Ghana,2020,4,False,0.0,0.0
+Ghana,2021,1,False,0.0,0.0
+Ghana,2021,2,False,0.0,0.0
+Ghana,2021,3,False,0.0,0.0
+Ghana,2021,4,False,0.0,0.0
+Ghana,2022,1,False,0.0,0.0
+Ghana,2022,2,False,0.0,0.0
+Ghana,2022,3,False,0.0,0.0
+Ghana,2022,4,False,0.0,0.0
+Ghana,2023,1,False,0.0,0.0
+Ghana,2023,2,False,0.0,0.0
+Ghana,2023,3,False,0.0,0.0
+Ghana,2023,4,False,0.0,0.0
+Ghana,2024,1,False,0.0,0.0
+Ghana,2024,2,False,0.0,0.0
+Ghana,2024,3,False,0.0,0.0
+Ghana,2024,4,False,0.0,0.0
+Ghana,2025,1,False,0.0,0.0
+Ghana,2025,2,False,0.0,0.0
+Ghana,2025,3,False,0.0,0.0
+Ghana,2025,4,False,0.0,0.0
+Ghana,2026,1,False,0.0,0.0
+Gibraltar,2018,1,False,0.0,0.0
+Gibraltar,2018,2,False,0.0,0.0
+Gibraltar,2018,3,False,0.0,0.0
+Gibraltar,2018,4,False,0.0,0.0
+Gibraltar,2019,1,False,0.0,0.0
+Gibraltar,2019,2,False,0.0,0.0
+Gibraltar,2019,3,False,0.0,0.0
+Gibraltar,2019,4,False,0.0,0.0
+Gibraltar,2020,1,False,0.0,0.0
+Gibraltar,2020,2,False,0.0,0.0
+Gibraltar,2020,3,False,0.0,0.0
+Gibraltar,2020,4,False,0.0,0.0
+Gibraltar,2021,1,False,0.0,0.0
+Gibraltar,2021,2,False,0.0,0.0
+Gibraltar,2021,3,False,0.0,0.0
+Gibraltar,2021,4,False,0.0,0.0
+Gibraltar,2022,1,False,0.0,0.0
+Gibraltar,2022,2,False,0.0,0.0
+Gibraltar,2022,3,False,0.0,0.0
+Gibraltar,2022,4,True,,
+Gibraltar,2023,1,False,0.0,0.0
+Gibraltar,2023,2,False,0.0,0.0
+Gibraltar,2023,3,False,0.0,0.0
+Gibraltar,2023,4,False,0.0,0.0
+Gibraltar,2024,1,False,0.0,0.0
+Gibraltar,2024,2,False,0.0,0.0
+Gibraltar,2024,3,False,0.0,0.0
+Gibraltar,2024,4,False,0.0,0.0
+Gibraltar,2025,1,False,0.0,0.0
+Gibraltar,2025,2,False,0.0,0.0
+Gibraltar,2025,3,False,0.0,0.0
+Gibraltar,2025,4,False,0.0,0.0
+Gibraltar,2026,1,False,0.0,0.0
+Granada,2018,1,False,0.0,0.0
+Granada,2018,2,False,0.0,0.0
+Granada,2018,3,False,0.0,0.0
+Granada,2018,4,True,,
+Granada,2019,1,False,0.0,0.0
+Granada,2019,2,False,0.0,0.0
+Granada,2019,3,False,0.0,0.0
+Granada,2019,4,False,0.0,0.0
+Granada,2020,1,False,0.0,0.0
+Granada,2020,2,False,0.0,0.0
+Granada,2020,3,False,0.0,0.0
+Granada,2020,4,False,0.0,0.0
+Granada,2021,1,False,0.0,0.0
+Granada,2021,2,False,0.0,0.0
+Granada,2021,3,False,0.0,0.0
+Granada,2021,4,False,0.0,0.0
+Granada,2022,1,False,0.0,0.0
+Granada,2022,2,False,0.0,0.0
+Granada,2022,3,False,0.0,0.0
+Granada,2022,4,False,0.0,0.0
+Granada,2023,1,False,0.0,0.0
+Granada,2023,2,False,0.0,0.0
+Granada,2023,3,False,0.0,0.0
+Granada,2023,4,False,0.0,0.0
+Granada,2024,1,False,0.0,0.0
+Granada,2024,2,False,0.0,0.0
+Granada,2024,3,True,,
+Granada,2024,4,True,,
+Granada,2025,1,False,0.0,0.0
+Granada,2025,2,False,0.0,0.0
+Granada,2025,3,False,0.0,0.0
+Granada,2025,4,False,0.0,0.0
+Granada,2026,1,False,0.0,0.0
+Grecia,2018,1,True,,
+Grecia,2018,2,True,,
+Grecia,2018,3,True,,
+Grecia,2018,4,False,0.13142384,
+Grecia,2019,1,False,0.0,0.0
+Grecia,2019,2,False,0.0,0.0
+Grecia,2019,3,False,0.0,0.0
+Grecia,2019,4,True,,
+Grecia,2020,1,False,0.0,0.0
+Grecia,2020,2,False,0.0,0.0
+Grecia,2020,3,False,0.0,0.0
+Grecia,2020,4,False,0.0,0.0
+Grecia,2021,1,True,,
+Grecia,2021,2,True,,
+Grecia,2021,3,True,,
+Grecia,2021,4,True,,
+Grecia,2022,1,False,-21.19621532,-21.19621532
+Grecia,2022,2,False,-21.19621532,0.0
+Grecia,2022,3,False,-17.78185769,3.4143576300000014
+Grecia,2022,4,False,-10.43396067,7.34789702
+Grecia,2023,1,True,,
+Grecia,2023,2,True,,
+Grecia,2023,3,True,,
+Grecia,2023,4,True,,
+Grecia,2024,1,False,0.0,0.0
+Grecia,2024,2,True,,
+Grecia,2024,3,True,,
+Grecia,2024,4,False,14.29340201,
+Grecia,2025,1,True,,
+Grecia,2025,2,True,,
+Grecia,2025,3,False,2.57656599,
+Grecia,2025,4,False,3.89797365,1.3214076599999998
+Grecia,2026,1,False,0.0,0.0
+Guatemala,2018,1,False,0.36985943,0.36985943
+Guatemala,2018,2,False,0.37252469,0.0026652600000000026
+Guatemala,2018,3,False,0.67049488,0.29797019
+Guatemala,2018,4,False,0.74051984,0.07002496000000002
+Guatemala,2019,1,True,,
+Guatemala,2019,2,True,,
+Guatemala,2019,3,False,-0.15709396,
+Guatemala,2019,4,False,7.27825491,7.43534887
+Guatemala,2020,1,False,0.56473415,0.56473415
+Guatemala,2020,2,False,-0.80175876,-1.36649291
+Guatemala,2020,3,False,-0.71875896,0.08299980000000007
+Guatemala,2020,4,False,-0.72114305,-0.002384090000000061
+Guatemala,2021,1,False,0.0,0.0
+Guatemala,2021,2,False,-0.00714588,-0.00714588
+Guatemala,2021,3,False,0.49251528,0.49966116
+Guatemala,2021,4,False,0.56694675,0.07443147000000006
+Guatemala,2022,1,True,,
+Guatemala,2022,2,False,0.22435889,
+Guatemala,2022,3,False,41.149106,40.924747110000006
+Guatemala,2022,4,False,41.15503362,0.005927619999994249
+Guatemala,2023,1,False,0.86286029,0.86286029
+Guatemala,2023,2,False,1.59750278,0.7346424899999999
+Guatemala,2023,3,False,1.67981436,0.08231158000000005
+Guatemala,2023,4,False,6.7109052,5.03109084
+Guatemala,2024,1,True,,
+Guatemala,2024,2,False,3.95834236,
+Guatemala,2024,3,False,4.44639693,0.48805456999999963
+Guatemala,2024,4,False,4.72998225,0.28358532000000025
+Guatemala,2025,1,True,,
+Guatemala,2025,2,False,0.49309454,
+Guatemala,2025,3,False,-0.05388219,-0.54697673
+Guatemala,2025,4,False,0.2726509,0.32653308999999997
+Guatemala,2026,1,False,3.63903684,3.63903684
+Guyana,2018,1,False,0.0,0.0
+Guyana,2018,2,False,0.0,0.0
+Guyana,2018,3,False,0.0,0.0
+Guyana,2018,4,False,0.0,0.0
+Guyana,2019,1,False,0.0,0.0
+Guyana,2019,2,False,0.0,0.0
+Guyana,2019,3,False,0.0,0.0
+Guyana,2019,4,False,0.0,0.0
+Guyana,2020,1,False,0.0,0.0
+Guyana,2020,2,False,0.0,0.0
+Guyana,2020,3,False,0.0,0.0
+Guyana,2020,4,False,0.0,0.0
+Guyana,2021,1,False,0.0,0.0
+Guyana,2021,2,False,0.0,0.0
+Guyana,2021,3,False,0.0,0.0
+Guyana,2021,4,False,0.0,0.0
+Guyana,2022,1,False,0.0,0.0
+Guyana,2022,2,False,0.0,0.0
+Guyana,2022,3,False,0.0,0.0
+Guyana,2022,4,False,0.0,0.0
+Guyana,2023,1,False,0.0,0.0
+Guyana,2023,2,False,0.0,0.0
+Guyana,2023,3,False,0.0,0.0
+Guyana,2023,4,False,0.0,0.0
+Guyana,2024,1,False,0.0,0.0
+Guyana,2024,2,False,0.0,0.0
+Guyana,2024,3,False,0.0,0.0
+Guyana,2024,4,False,0.0,0.0
+Guyana,2025,1,False,0.0,0.0
+Guyana,2025,2,False,0.0,0.0
+Guyana,2025,3,False,0.0,0.0
+Guyana,2025,4,False,0.0,0.0
+Guyana,2026,1,False,0.0,0.0
+Guyana Francesa,2018,1,False,0.0,0.0
+Guyana Francesa,2018,2,False,0.0,0.0
+Guyana Francesa,2018,3,False,0.0,0.0
+Guyana Francesa,2018,4,False,0.0,0.0
+Guyana Francesa,2019,1,False,0.0,0.0
+Guyana Francesa,2019,2,False,0.0,0.0
+Guyana Francesa,2019,3,False,0.0,0.0
+Guyana Francesa,2019,4,False,0.0,0.0
+Guyana Francesa,2020,1,False,0.0,0.0
+Guyana Francesa,2020,2,False,0.0,0.0
+Guyana Francesa,2020,3,False,0.0,0.0
+Guyana Francesa,2020,4,False,0.0,0.0
+Guyana Francesa,2021,1,False,0.0,0.0
+Guyana Francesa,2021,2,False,0.0,0.0
+Guyana Francesa,2021,3,False,0.0,0.0
+Guyana Francesa,2021,4,False,0.0,0.0
+Guyana Francesa,2022,1,False,0.0,0.0
+Guyana Francesa,2022,2,False,0.0,0.0
+Guyana Francesa,2022,3,False,0.0,0.0
+Guyana Francesa,2022,4,False,0.0,0.0
+Guyana Francesa,2023,1,False,0.0,0.0
+Guyana Francesa,2023,2,False,0.0,0.0
+Guyana Francesa,2023,3,False,0.0,0.0
+Guyana Francesa,2023,4,False,0.0,0.0
+Guyana Francesa,2024,1,False,0.0,0.0
+Guyana Francesa,2024,2,False,0.0,0.0
+Guyana Francesa,2024,3,False,0.0,0.0
+Guyana Francesa,2024,4,False,0.0,0.0
+Guyana Francesa,2025,1,False,0.0,0.0
+Guyana Francesa,2025,2,False,0.0,0.0
+Guyana Francesa,2025,3,False,0.0,0.0
+Guyana Francesa,2025,4,False,0.0,0.0
+Guyana Francesa,2026,1,False,0.0,0.0
+Haití,2018,1,False,0.0,0.0
+Haití,2018,2,False,0.0,0.0
+Haití,2018,3,False,0.0,0.0
+Haití,2018,4,False,0.0,0.0
+Haití,2019,1,False,0.0,0.0
+Haití,2019,2,False,0.0,0.0
+Haití,2019,3,False,0.0,0.0
+Haití,2019,4,False,0.0,0.0
+Haití,2020,1,False,0.0,0.0
+Haití,2020,2,False,0.0,0.0
+Haití,2020,3,False,0.0,0.0
+Haití,2020,4,False,0.0,0.0
+Haití,2021,1,False,0.0,0.0
+Haití,2021,2,False,0.0,0.0
+Haití,2021,3,False,0.0,0.0
+Haití,2021,4,False,0.0,0.0
+Haití,2022,1,False,0.0,0.0
+Haití,2022,2,False,0.0,0.0
+Haití,2022,3,True,,
+Haití,2022,4,True,,
+Haití,2023,1,False,0.0,0.0
+Haití,2023,2,False,0.0,0.0
+Haití,2023,3,False,0.0,0.0
+Haití,2023,4,False,0.0,0.0
+Haití,2024,1,False,0.0,0.0
+Haití,2024,2,False,0.0,0.0
+Haití,2024,3,True,,
+Haití,2024,4,True,,
+Haití,2025,1,True,,
+Haití,2025,2,True,,
+Haití,2025,3,True,,
+Haití,2025,4,True,,
+Haití,2026,1,False,0.0,0.0
+Honduras,2018,1,True,,
+Honduras,2018,2,True,,
+Honduras,2018,3,True,,
+Honduras,2018,4,False,0.52726913,
+Honduras,2019,1,True,,
+Honduras,2019,2,True,,
+Honduras,2019,3,False,0.8755827,
+Honduras,2019,4,False,1.14851719,0.2729344899999999
+Honduras,2020,1,False,0.0,0.0
+Honduras,2020,2,True,,
+Honduras,2020,3,False,0.31933795,
+Honduras,2020,4,False,0.37390543,0.05456748
+Honduras,2021,1,True,,
+Honduras,2021,2,False,0.29168989,
+Honduras,2021,3,False,0.5161864,0.22449651000000004
+Honduras,2021,4,False,0.73300058,0.21681417999999997
+Honduras,2022,1,True,,
+Honduras,2022,2,False,0.28431097,
+Honduras,2022,3,False,1.0629875,0.77867653
+Honduras,2022,4,False,1.71817187,0.65518437
+Honduras,2023,1,True,,
+Honduras,2023,2,False,1.08227202,
+Honduras,2023,3,False,1.1685605,0.08628847999999989
+Honduras,2023,4,False,1.92740981,0.75884931
+Honduras,2024,1,True,,
+Honduras,2024,2,False,-5.30315435,
+Honduras,2024,3,False,-5.20551078,0.09764356999999979
+Honduras,2024,4,False,-4.30550561,0.90000517
+Honduras,2025,1,True,,
+Honduras,2025,2,False,1.0382233,
+Honduras,2025,3,False,2.22495153,1.1867282299999997
+Honduras,2025,4,False,2.87827005,0.65331852
+Honduras,2026,1,True,,
+"Hong Kong, China",2018,1,False,104.6740232,104.6740232
+"Hong Kong, China",2018,2,False,111.0308763,6.356853100000009
+"Hong Kong, China",2018,3,False,148.2755407,37.24466439999999
+"Hong Kong, China",2018,4,False,153.0000742,4.724533500000007
+"Hong Kong, China",2019,1,False,93.80448186,93.80448186
+"Hong Kong, China",2019,2,False,111.1251583,17.32067644
+"Hong Kong, China",2019,3,False,108.9768416,-2.148316699999995
+"Hong Kong, China",2019,4,False,79.5744278,-29.402413800000005
+"Hong Kong, China",2020,1,False,106.0120941,106.0120941
+"Hong Kong, China",2020,2,False,106.8572636,0.8451694999999972
+"Hong Kong, China",2020,3,False,116.540776,9.683512399999998
+"Hong Kong, China",2020,4,False,129.88968,13.348904000000005
+"Hong Kong, China",2021,1,False,89.43472376,89.43472376
+"Hong Kong, China",2021,2,False,112.1809794,22.74625564
+"Hong Kong, China",2021,3,False,188.438945,76.25796559999999
+"Hong Kong, China",2021,4,False,192.4869556,4.048010599999998
+"Hong Kong, China",2022,1,False,132.1554559,132.1554559
+"Hong Kong, China",2022,2,False,384.1315536,251.97609770000003
+"Hong Kong, China",2022,3,False,454.6696411,70.53808749999996
+"Hong Kong, China",2022,4,False,453.6693155,-1.0003255999999965
+"Hong Kong, China",2023,1,False,194.8518523,194.8518523
+"Hong Kong, China",2023,2,False,291.5005049,96.64865260000002
+"Hong Kong, China",2023,3,False,280.329945,-11.1705599
+"Hong Kong, China",2023,4,False,290.0684689,9.738523900000018
+"Hong Kong, China",2024,1,False,115.1554244,115.1554244
+"Hong Kong, China",2024,2,False,235.5903305,120.43490609999999
+"Hong Kong, China",2024,3,False,279.1125977,43.52226719999999
+"Hong Kong, China",2024,4,False,260.7762246,-18.336373100000003
+"Hong Kong, China",2025,1,False,376.5639528,376.5639528
+"Hong Kong, China",2025,2,False,398.4135129,21.84956010000002
+"Hong Kong, China",2025,3,False,388.9081031,-9.505409799999995
+"Hong Kong, China",2025,4,False,534.4478466,145.53974350000004
+"Hong Kong, China",2026,1,False,491.4525196,491.4525196
+Hungría,2018,1,True,,
+Hungría,2018,2,False,0.51806704,
+Hungría,2018,3,False,0.51806704,0.0
+Hungría,2018,4,False,0.64132846,0.12326141999999995
+Hungría,2019,1,False,0.0,0.0
+Hungría,2019,2,False,0.0,0.0
+Hungría,2019,3,False,-0.08490798,-0.08490798
+Hungría,2019,4,False,0.18512528,0.27003326
+Hungría,2020,1,True,,
+Hungría,2020,2,True,,
+Hungría,2020,3,False,-6.32378002,
+Hungría,2020,4,False,-8.15041647,-1.8266364499999996
+Hungría,2021,1,False,-5.16727944,-5.16727944
+Hungría,2021,2,False,-5.05861765,0.10866178999999931
+Hungría,2021,3,False,-5.05861765,0.0
+Hungría,2021,4,False,-2.4260422,2.6325754500000005
+Hungría,2022,1,True,,
+Hungría,2022,2,False,0.37183383,
+Hungría,2022,3,False,0.44990529,0.07807146000000004
+Hungría,2022,4,False,0.44990529,0.0
+Hungría,2023,1,True,,
+Hungría,2023,2,False,-0.13028655,
+Hungría,2023,3,False,0.46901124,0.59929779
+Hungría,2023,4,False,0.74595451,0.27694327
+Hungría,2024,1,True,,
+Hungría,2024,2,True,,
+Hungría,2024,3,False,0.72558333,
+Hungría,2024,4,False,0.72574034,0.00015701000000001297
+Hungría,2025,1,False,1.02461698,1.02461698
+Hungría,2025,2,False,1.29070288,0.2660859
+Hungría,2025,3,False,1.42209198,0.13138910000000004
+Hungría,2025,4,False,1.36685493,-0.05523705000000012
+Hungría,2026,1,True,,
+India,2018,1,False,22.4989529,22.4989529
+India,2018,2,False,22.50152924,0.002576340000000954
+India,2018,3,False,23.19910069,0.6975714500000016
+India,2018,4,False,23.27880904,0.0797083499999971
+India,2019,1,False,18.31533541,18.31533541
+India,2019,2,False,23.37040485,5.0550694400000005
+India,2019,3,False,27.11159336,3.7411885100000006
+India,2019,4,False,27.06369935,-0.047894010000000264
+India,2020,1,False,1.9593284,1.9593284
+India,2020,2,False,2.2082298,0.24890139999999983
+India,2020,3,False,-0.71256017,-2.92078997
+India,2020,4,False,1.43026507,2.14282524
+India,2021,1,True,,
+India,2021,2,False,3.00731666,
+India,2021,3,False,1.40562042,-1.6016962399999999
+India,2021,4,False,7.61595885,6.21033843
+India,2022,1,False,2.3725121,2.3725121
+India,2022,2,False,-4.84834737,-7.22085947
+India,2022,3,False,-4.72905394,0.11929342999999992
+India,2022,4,False,-1.50304159,3.22601235
+India,2023,1,False,-7.87987445,-7.87987445
+India,2023,2,False,-52.53638349,-44.656509039999996
+India,2023,3,False,-72.07755721,-19.541173719999996
+India,2023,4,False,-61.15127783,10.926279379999997
+India,2024,1,False,2.14895018,2.14895018
+India,2024,2,False,21.3296299,19.18067972
+India,2024,3,False,12.72613168,-8.60349822
+India,2024,4,False,72.64394375,59.917812070000004
+India,2025,1,True,,
+India,2025,2,False,8.00291227,
+India,2025,3,False,17.21091355,9.208001280000001
+India,2025,4,False,54.71694438,37.50603083
+India,2026,1,False,2.08243539,2.08243539
+Indonesia,2018,1,False,0.0,0.0
+Indonesia,2018,2,False,0.0,0.0
+Indonesia,2018,3,True,,
+Indonesia,2018,4,True,,
+Indonesia,2019,1,True,,
+Indonesia,2019,2,True,,
+Indonesia,2019,3,True,,
+Indonesia,2019,4,True,,
+Indonesia,2020,1,True,,
+Indonesia,2020,2,True,,
+Indonesia,2020,3,True,,
+Indonesia,2020,4,True,,
+Indonesia,2021,1,True,,
+Indonesia,2021,2,True,,
+Indonesia,2021,3,True,,
+Indonesia,2021,4,False,25.33989315,
+Indonesia,2022,1,False,0.0,0.0
+Indonesia,2022,2,False,0.0,0.0
+Indonesia,2022,3,False,0.0,0.0
+Indonesia,2022,4,True,,
+Indonesia,2023,1,False,0.0,0.0
+Indonesia,2023,2,False,0.0,0.0
+Indonesia,2023,3,False,0.0,0.0
+Indonesia,2023,4,False,0.0,0.0
+Indonesia,2024,1,False,0.0,0.0
+Indonesia,2024,2,True,,
+Indonesia,2024,3,True,,
+Indonesia,2024,4,False,0.16598517,
+Indonesia,2025,1,False,0.0,0.0
+Indonesia,2025,2,False,0.00260944,0.00260944
+Indonesia,2025,3,False,0.00526403,0.00265459
+Indonesia,2025,4,False,0.00526403,0.0
+Indonesia,2026,1,False,0.0,0.0
+Irak,2018,1,False,0.0,0.0
+Irak,2018,2,False,0.0,0.0
+Irak,2018,3,False,0.0,0.0
+Irak,2018,4,True,,
+Irak,2019,1,False,0.0,0.0
+Irak,2019,2,False,0.0,0.0
+Irak,2019,3,False,0.0,0.0
+Irak,2019,4,False,0.0,0.0
+Irak,2020,1,False,0.0,0.0
+Irak,2020,2,False,0.0,0.0
+Irak,2020,3,False,0.0,0.0
+Irak,2020,4,False,0.0,0.0
+Irak,2021,1,False,0.0,0.0
+Irak,2021,2,False,0.0,0.0
+Irak,2021,3,False,0.0,0.0
+Irak,2021,4,False,0.0,0.0
+Irak,2022,1,False,0.0,0.0
+Irak,2022,2,True,,
+Irak,2022,3,True,,
+Irak,2022,4,True,,
+Irak,2023,1,False,0.0,0.0
+Irak,2023,2,False,0.0,0.0
+Irak,2023,3,False,0.0,0.0
+Irak,2023,4,False,0.0,0.0
+Irak,2024,1,False,0.0,0.0
+Irak,2024,2,False,0.0,0.0
+Irak,2024,3,False,0.0,0.0
+Irak,2024,4,False,0.0,0.0
+Irak,2025,1,False,0.0,0.0
+Irak,2025,2,False,0.0,0.0
+Irak,2025,3,False,0.0,0.0
+Irak,2025,4,False,0.0,0.0
+Irak,2026,1,False,0.0,0.0
+Irlanda,2018,1,False,30.56598733,30.56598733
+Irlanda,2018,2,False,31.49289933,0.9269120000000015
+Irlanda,2018,3,False,32.62834409,1.1354447599999986
+Irlanda,2018,4,False,33.50462268,0.8762785899999983
+Irlanda,2019,1,False,46.22231636,46.22231636
+Irlanda,2019,2,False,19.11351707,-27.10879929
+Irlanda,2019,3,False,26.81974326,7.706226189999999
+Irlanda,2019,4,False,31.77541854,4.955675280000001
+Irlanda,2020,1,False,58.09306425,58.09306425
+Irlanda,2020,2,False,72.65814066,14.565076410000003
+Irlanda,2020,3,False,75.64089379,2.982753130000006
+Irlanda,2020,4,False,-9.75868025,-85.39957404
+Irlanda,2021,1,False,19.13405923,19.13405923
+Irlanda,2021,2,False,21.01819865,1.8841394200000003
+Irlanda,2021,3,False,20.63869148,-0.3795071700000001
+Irlanda,2021,4,False,21.84412549,1.2054340100000012
+Irlanda,2022,1,False,26.46957011,26.46957011
+Irlanda,2022,2,False,68.61742285,42.14785274
+Irlanda,2022,3,False,100.817775,32.20035215
+Irlanda,2022,4,False,143.0936494,42.275874400000006
+Irlanda,2023,1,False,77.5881993,77.5881993
+Irlanda,2023,2,False,53.34538218,-24.242817119999998
+Irlanda,2023,3,False,67.41195315,14.06657097
+Irlanda,2023,4,False,90.83676967,23.424816519999993
+Irlanda,2024,1,False,38.88510322,38.88510322
+Irlanda,2024,2,False,209.6734651,170.78836188
+Irlanda,2024,3,False,219.7525296,10.079064500000015
+Irlanda,2024,4,False,245.0696531,25.317123500000008
+Irlanda,2025,1,False,8.51845746,8.51845746
+Irlanda,2025,2,False,27.91827927,19.39982181
+Irlanda,2025,3,False,102.3310947,74.41281543
+Irlanda,2025,4,False,228.653797,126.3227023
+Irlanda,2026,1,False,44.85995299,44.85995299
+"Irán, República Islámica de",2018,1,False,0.0,0.0
+"Irán, República Islámica de",2018,2,False,0.0,0.0
+"Irán, República Islámica de",2018,3,True,,
+"Irán, República Islámica de",2018,4,True,,
+"Irán, República Islámica de",2019,1,False,0.0,0.0
+"Irán, República Islámica de",2019,2,False,0.0,0.0
+"Irán, República Islámica de",2019,3,False,0.0,0.0
+"Irán, República Islámica de",2019,4,False,0.0,0.0
+"Irán, República Islámica de",2020,1,False,0.0,0.0
+"Irán, República Islámica de",2020,2,False,0.0,0.0
+"Irán, República Islámica de",2020,3,False,0.0,0.0
+"Irán, República Islámica de",2020,4,False,0.0,0.0
+"Irán, República Islámica de",2021,1,False,0.0,0.0
+"Irán, República Islámica de",2021,2,True,,
+"Irán, República Islámica de",2021,3,True,,
+"Irán, República Islámica de",2021,4,True,,
+"Irán, República Islámica de",2022,1,False,0.0,0.0
+"Irán, República Islámica de",2022,2,False,0.0,0.0
+"Irán, República Islámica de",2022,3,False,0.0,0.0
+"Irán, República Islámica de",2022,4,False,0.0,0.0
+"Irán, República Islámica de",2023,1,False,0.0,0.0
+"Irán, República Islámica de",2023,2,False,0.0,0.0
+"Irán, República Islámica de",2023,3,False,0.0,0.0
+"Irán, República Islámica de",2023,4,False,0.0,0.0
+"Irán, República Islámica de",2024,1,False,0.0,0.0
+"Irán, República Islámica de",2024,2,False,0.0,0.0
+"Irán, República Islámica de",2024,3,True,,
+"Irán, República Islámica de",2024,4,True,,
+"Irán, República Islámica de",2025,1,False,0.0,0.0
+"Irán, República Islámica de",2025,2,True,,
+"Irán, República Islámica de",2025,3,True,,
+"Irán, República Islámica de",2025,4,True,,
+"Irán, República Islámica de",2026,1,False,0.0,0.0
+Islandia,2018,1,False,0.0,0.0
+Islandia,2018,2,False,0.0,0.0
+Islandia,2018,3,True,,
+Islandia,2018,4,True,,
+Islandia,2019,1,False,0.0,0.0
+Islandia,2019,2,False,0.0,0.0
+Islandia,2019,3,False,0.0,0.0
+Islandia,2019,4,False,0.0,0.0
+Islandia,2020,1,False,0.0,0.0
+Islandia,2020,2,False,0.0,0.0
+Islandia,2020,3,False,0.0,0.0
+Islandia,2020,4,False,0.0,0.0
+Islandia,2021,1,False,0.0,0.0
+Islandia,2021,2,True,,
+Islandia,2021,3,True,,
+Islandia,2021,4,True,,
+Islandia,2022,1,False,0.0,0.0
+Islandia,2022,2,False,0.0,0.0
+Islandia,2022,3,False,0.0,0.0
+Islandia,2022,4,False,0.0,0.0
+Islandia,2023,1,False,0.0,0.0
+Islandia,2023,2,False,0.0,0.0
+Islandia,2023,3,False,0.0,0.0
+Islandia,2023,4,False,0.0,0.0
+Islandia,2024,1,False,0.0,0.0
+Islandia,2024,2,False,0.0,0.0
+Islandia,2024,3,False,0.0,0.0
+Islandia,2024,4,False,0.0,0.0
+Islandia,2025,1,False,0.0,0.0
+Islandia,2025,2,False,0.0,0.0
+Islandia,2025,3,False,0.0,0.0
+Islandia,2025,4,False,0.0,0.0
+Islandia,2026,1,False,0.0,0.0
+Islas Caimán,2018,1,True,,
+Islas Caimán,2018,2,True,,
+Islas Caimán,2018,3,True,,
+Islas Caimán,2018,4,True,,
+Islas Caimán,2019,1,False,0.0,0.0
+Islas Caimán,2019,2,False,0.0,0.0
+Islas Caimán,2019,3,False,0.0,0.0
+Islas Caimán,2019,4,False,0.0,0.0
+Islas Caimán,2020,1,False,0.0,0.0
+Islas Caimán,2020,2,False,0.0,0.0
+Islas Caimán,2020,3,True,,
+Islas Caimán,2020,4,True,,
+Islas Caimán,2021,1,False,0.0,0.0
+Islas Caimán,2021,2,False,0.0,0.0
+Islas Caimán,2021,3,True,,
+Islas Caimán,2021,4,True,,
+Islas Caimán,2022,1,False,0.0,0.0
+Islas Caimán,2022,2,False,0.0,0.0
+Islas Caimán,2022,3,True,,
+Islas Caimán,2022,4,True,,
+Islas Caimán,2023,1,False,0.0,0.0
+Islas Caimán,2023,2,True,,
+Islas Caimán,2023,3,True,,
+Islas Caimán,2023,4,False,10.41641755,
+Islas Caimán,2024,1,True,,
+Islas Caimán,2024,2,True,,
+Islas Caimán,2024,3,False,4.99467497,
+Islas Caimán,2024,4,False,15.21597864,10.22130367
+Islas Caimán,2025,1,True,,
+Islas Caimán,2025,2,False,1.38347002,
+Islas Caimán,2025,3,False,1.38597712,0.0025070999999998733
+Islas Caimán,2025,4,False,1.63831561,0.2523384900000001
+Islas Caimán,2026,1,True,,
+Islas Vírgenes Británicas,2018,1,False,0.0,0.0
+Islas Vírgenes Británicas,2018,2,False,0.0,0.0
+Islas Vírgenes Británicas,2018,3,False,0.0,0.0
+Islas Vírgenes Británicas,2018,4,False,0.0,0.0
+Islas Vírgenes Británicas,2019,1,False,0.0,0.0
+Islas Vírgenes Británicas,2019,2,False,0.0,0.0
+Islas Vírgenes Británicas,2019,3,False,0.0,0.0
+Islas Vírgenes Británicas,2019,4,False,0.0,0.0
+Islas Vírgenes Británicas,2020,1,False,0.0,0.0
+Islas Vírgenes Británicas,2020,2,True,,
+Islas Vírgenes Británicas,2020,3,True,,
+Islas Vírgenes Británicas,2020,4,True,,
+Islas Vírgenes Británicas,2021,1,False,0.0,0.0
+Islas Vírgenes Británicas,2021,2,False,0.0,0.0
+Islas Vírgenes Británicas,2021,3,False,0.0,0.0
+Islas Vírgenes Británicas,2021,4,False,0.0,0.0
+Islas Vírgenes Británicas,2022,1,False,0.0,0.0
+Islas Vírgenes Británicas,2022,2,False,0.0,0.0
+Islas Vírgenes Británicas,2022,3,False,0.0,0.0
+Islas Vírgenes Británicas,2022,4,False,0.0,0.0
+Islas Vírgenes Británicas,2023,1,False,0.0,0.0
+Islas Vírgenes Británicas,2023,2,False,0.0,0.0
+Islas Vírgenes Británicas,2023,3,True,,
+Islas Vírgenes Británicas,2023,4,True,,
+Islas Vírgenes Británicas,2024,1,False,0.0,0.0
+Islas Vírgenes Británicas,2024,2,False,0.0,0.0
+Islas Vírgenes Británicas,2024,3,False,0.0,0.0
+Islas Vírgenes Británicas,2024,4,True,,
+Islas Vírgenes Británicas,2025,1,True,,
+Islas Vírgenes Británicas,2025,2,False,6.52176036,
+Islas Vírgenes Británicas,2025,3,False,2.98385109,-3.53790927
+Islas Vírgenes Británicas,2025,4,False,10.01612988,7.0322787899999994
+Islas Vírgenes Británicas,2026,1,True,,
+Islas Vírgenes de los Estados Unidos,2018,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2018,2,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2018,3,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2018,4,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2019,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2019,2,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2019,3,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2019,4,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2020,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2020,2,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2020,3,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2020,4,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2021,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2021,2,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2021,3,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2021,4,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2022,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2022,2,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2022,3,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2022,4,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2023,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2023,2,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2023,3,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2023,4,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2024,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2024,2,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2024,3,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2024,4,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2025,1,False,0.0,0.0
+Islas Vírgenes de los Estados Unidos,2025,2,True,,
+Islas Vírgenes de los Estados Unidos,2025,3,True,,
+Islas Vírgenes de los Estados Unidos,2025,4,True,,
+Islas Vírgenes de los Estados Unidos,2026,1,False,0.0,0.0
+Israel,2018,1,True,,
+Israel,2018,2,False,0.67955252,
+Israel,2018,3,False,1.11329952,0.433747
+Israel,2018,4,False,1.55753353,0.44423400999999996
+Israel,2019,1,True,,
+Israel,2019,2,False,-3.37018236,
+Israel,2019,3,False,-2.8495201,0.5206622599999999
+Israel,2019,4,False,-2.84697751,0.0025425900000000112
+Israel,2020,1,False,0.0,0.0
+Israel,2020,2,True,,
+Israel,2020,3,False,0.71274061,
+Israel,2020,4,False,0.78776517,0.07502456000000002
+Israel,2021,1,False,0.52307194,0.52307194
+Israel,2021,2,False,0.73359701,0.21052506999999998
+Israel,2021,3,False,-1.36501807,-2.09861508
+Israel,2021,4,False,-1.18352899,0.1814890800000002
+Israel,2022,1,True,,
+Israel,2022,2,False,5.53729007,
+Israel,2022,3,False,16.05046503,10.51317496
+Israel,2022,4,False,-0.50570402,-16.55616905
+Israel,2023,1,False,37.39463964,37.39463964
+Israel,2023,2,False,-4.64225057,-42.03689021
+Israel,2023,3,False,-4.12530477,0.5169458000000002
+Israel,2023,4,False,-7.6097983,-3.48449353
+Israel,2024,1,False,28.1402116,28.1402116
+Israel,2024,2,False,35.73798318,7.59777158
+Israel,2024,3,False,44.82332757,9.085344389999996
+Israel,2024,4,False,55.08574826,10.262420690000006
+Israel,2025,1,True,,
+Israel,2025,2,False,37.00721314,
+Israel,2025,3,False,60.35176427,23.34455113
+Israel,2025,4,False,65.58500215,5.233237879999997
+Israel,2026,1,False,16.93257976,16.93257976
+Italia,2018,1,False,289.077212,289.077212
+Italia,2018,2,False,761.1985288,472.1213168
+Italia,2018,3,False,1422.852589,661.6540602000001
+Italia,2018,4,False,1418.575589,-4.277000000000044
+Italia,2019,1,False,356.621742,356.621742
+Italia,2019,2,False,518.3810995,161.75935750000002
+Italia,2019,3,False,1088.517632,570.1365325
+Italia,2019,4,False,1490.574725,402.0570929999999
+Italia,2020,1,False,220.9837695,220.9837695
+Italia,2020,2,False,343.6367646,122.6529951
+Italia,2020,3,False,468.6539001,125.0171355
+Italia,2020,4,False,681.5715385,212.9176384
+Italia,2021,1,False,159.6883531,159.6883531
+Italia,2021,2,False,308.0672173,148.37886419999998
+Italia,2021,3,False,25.35126042,-282.71595687999996
+Italia,2021,4,False,129.1303249,103.77906448
+Italia,2022,1,False,109.3429074,109.3429074
+Italia,2022,2,False,97.48479689,-11.858110510000003
+Italia,2022,3,False,128.9466117,31.461814810000007
+Italia,2022,4,False,188.9719448,60.02533309999998
+Italia,2023,1,False,97.15949832,97.15949832
+Italia,2023,2,False,-265.4971645,-362.65666282
+Italia,2023,3,False,-171.4622282,94.0349363
+Italia,2023,4,False,-104.2143867,67.24784149999999
+Italia,2024,1,False,-30.00771057,-30.00771057
+Italia,2024,2,False,-31.45272677,-1.4450162000000013
+Italia,2024,3,False,21.1657388,52.61846557
+Italia,2024,4,False,-16.81284655,-37.97858535
+Italia,2025,1,False,61.61022588,61.61022588
+Italia,2025,2,False,652.9117093,591.30148342
+Italia,2025,3,False,174.7348197,-478.1768896
+Italia,2025,4,False,245.4637522,70.72893249999998
+Italia,2026,1,False,35.76212807,35.76212807
+Jamaica,2018,1,False,0.0,0.0
+Jamaica,2018,2,False,0.0,0.0
+Jamaica,2018,3,True,,
+Jamaica,2018,4,True,,
+Jamaica,2019,1,False,0.0,0.0
+Jamaica,2019,2,False,0.0,0.0
+Jamaica,2019,3,False,0.0,0.0
+Jamaica,2019,4,False,0.0,0.0
+Jamaica,2020,1,False,0.0,0.0
+Jamaica,2020,2,False,0.0,0.0
+Jamaica,2020,3,False,0.0,0.0
+Jamaica,2020,4,False,0.0,0.0
+Jamaica,2021,1,False,0.0,0.0
+Jamaica,2021,2,False,0.0,0.0
+Jamaica,2021,3,False,0.0,0.0
+Jamaica,2021,4,True,,
+Jamaica,2022,1,True,,
+Jamaica,2022,2,True,,
+Jamaica,2022,3,True,,
+Jamaica,2022,4,True,,
+Jamaica,2023,1,False,0.0,0.0
+Jamaica,2023,2,True,,
+Jamaica,2023,3,True,,
+Jamaica,2023,4,True,,
+Jamaica,2024,1,True,,
+Jamaica,2024,2,True,,
+Jamaica,2024,3,False,20.85909009,
+Jamaica,2024,4,False,39.05069646,18.19160637
+Jamaica,2025,1,False,0.0,0.0
+Jamaica,2025,2,True,,
+Jamaica,2025,3,False,10.28668015,
+Jamaica,2025,4,False,84.01320307,73.72652292000001
+Jamaica,2026,1,False,0.0,0.0
+Japón,2018,1,False,192.5935292,192.5935292
+Japón,2018,2,False,1060.82795,868.2344208000001
+Japón,2018,3,False,1564.22656,503.39860999999996
+Japón,2018,4,False,2122.990413,558.7638529999999
+Japón,2019,1,False,56.13608844,56.13608844
+Japón,2019,2,False,426.051524,369.91543556
+Japón,2019,3,False,973.9826641,547.9311401
+Japón,2019,4,False,1473.629798,499.6471339
+Japón,2020,1,False,471.3714758,471.3714758
+Japón,2020,2,False,316.6635036,-154.70797219999997
+Japón,2020,3,False,318.383858,1.7203543999999624
+Japón,2020,4,False,1218.562802,900.178944
+Japón,2021,1,False,432.3613273,432.3613273
+Japón,2021,2,False,484.9490049,52.58767759999995
+Japón,2021,3,False,1555.964631,1071.0156261000002
+Japón,2021,4,False,1582.970365,27.005733999999848
+Japón,2022,1,False,269.2914405,269.2914405
+Japón,2022,2,False,640.9226223,371.6311817999999
+Japón,2022,3,False,1267.581725,626.6591027000001
+Japón,2022,4,False,1838.815,571.233275
+Japón,2023,1,False,337.4694861,337.4694861
+Japón,2023,2,False,1998.66436,1661.1948739
+Japón,2023,3,False,2389.469177,390.80481699999996
+Japón,2023,4,False,2908.729437,519.26026
+Japón,2024,1,False,1429.976377,1429.976377
+Japón,2024,2,False,3082.033836,1652.057459
+Japón,2024,3,False,4472.526421,1390.4925849999995
+Japón,2024,4,False,4284.562692,-187.96372899999915
+Japón,2025,1,False,748.8491167,748.8491167
+Japón,2025,2,False,1444.229572,695.3804553
+Japón,2025,3,False,2882.357389,1438.1278169999998
+Japón,2025,4,False,2293.108924,-589.2484649999997
+Japón,2026,1,False,984.6965508,984.6965508
+Jordania,2018,1,False,0.0,0.0
+Jordania,2018,2,False,0.0,0.0
+Jordania,2018,3,False,0.0,0.0
+Jordania,2018,4,False,0.0,0.0
+Jordania,2019,1,True,,
+Jordania,2019,2,True,,
+Jordania,2019,3,True,,
+Jordania,2019,4,True,,
+Jordania,2020,1,False,0.0,0.0
+Jordania,2020,2,False,0.0,0.0
+Jordania,2020,3,False,0.0,0.0
+Jordania,2020,4,False,0.0,0.0
+Jordania,2021,1,False,0.0,0.0
+Jordania,2021,2,False,0.0,0.0
+Jordania,2021,3,True,,
+Jordania,2021,4,True,,
+Jordania,2022,1,True,,
+Jordania,2022,2,True,,
+Jordania,2022,3,True,,
+Jordania,2022,4,True,,
+Jordania,2023,1,False,0.0,0.0
+Jordania,2023,2,False,0.0,0.0
+Jordania,2023,3,False,0.0,0.0
+Jordania,2023,4,True,,
+Jordania,2024,1,False,0.0,0.0
+Jordania,2024,2,True,,
+Jordania,2024,3,False,0.68138582,
+Jordania,2024,4,False,1.39631696,0.71493114
+Jordania,2025,1,False,0.0,0.0
+Jordania,2025,2,False,0.0,0.0
+Jordania,2025,3,True,,
+Jordania,2025,4,True,,
+Jordania,2026,1,False,0.0,0.0
+"Kazajstán, República de",2018,1,False,0.0,0.0
+"Kazajstán, República de",2018,2,False,0.0,0.0
+"Kazajstán, República de",2018,3,True,,
+"Kazajstán, República de",2018,4,True,,
+"Kazajstán, República de",2019,1,False,0.0,0.0
+"Kazajstán, República de",2019,2,False,0.0,0.0
+"Kazajstán, República de",2019,3,False,0.0,0.0
+"Kazajstán, República de",2019,4,False,0.0,0.0
+"Kazajstán, República de",2020,1,False,0.0,0.0
+"Kazajstán, República de",2020,2,False,0.0,0.0
+"Kazajstán, República de",2020,3,False,0.0,0.0
+"Kazajstán, República de",2020,4,False,0.0,0.0
+"Kazajstán, República de",2021,1,False,0.0,0.0
+"Kazajstán, República de",2021,2,False,0.0,0.0
+"Kazajstán, República de",2021,3,False,0.0,0.0
+"Kazajstán, República de",2021,4,False,0.0,0.0
+"Kazajstán, República de",2022,1,False,0.0,0.0
+"Kazajstán, República de",2022,2,False,0.0,0.0
+"Kazajstán, República de",2022,3,False,0.0,0.0
+"Kazajstán, República de",2022,4,False,0.0,0.0
+"Kazajstán, República de",2023,1,False,0.0,0.0
+"Kazajstán, República de",2023,2,False,0.0,0.0
+"Kazajstán, República de",2023,3,False,0.0,0.0
+"Kazajstán, República de",2023,4,False,0.0,0.0
+"Kazajstán, República de",2024,1,False,0.0,0.0
+"Kazajstán, República de",2024,2,False,0.0,0.0
+"Kazajstán, República de",2024,3,True,,
+"Kazajstán, República de",2024,4,True,,
+"Kazajstán, República de",2025,1,False,0.0,0.0
+"Kazajstán, República de",2025,2,True,,
+"Kazajstán, República de",2025,3,True,,
+"Kazajstán, República de",2025,4,True,,
+"Kazajstán, República de",2026,1,False,0.0,0.0
+Kenia,2018,1,False,0.0,0.0
+Kenia,2018,2,False,0.0,0.0
+Kenia,2018,3,False,0.0,0.0
+Kenia,2018,4,False,0.0,0.0
+Kenia,2019,1,False,0.0,0.0
+Kenia,2019,2,False,0.0,0.0
+Kenia,2019,3,False,0.0,0.0
+Kenia,2019,4,False,0.0,0.0
+Kenia,2020,1,False,0.0,0.0
+Kenia,2020,2,False,0.0,0.0
+Kenia,2020,3,True,,
+Kenia,2020,4,True,,
+Kenia,2021,1,False,0.0,0.0
+Kenia,2021,2,False,0.0,0.0
+Kenia,2021,3,False,0.0,0.0
+Kenia,2021,4,False,0.0,0.0
+Kenia,2022,1,False,0.0,0.0
+Kenia,2022,2,False,0.0,0.0
+Kenia,2022,3,False,0.0,0.0
+Kenia,2022,4,False,0.0,0.0
+Kenia,2023,1,True,,
+Kenia,2023,2,True,,
+Kenia,2023,3,False,0.0,
+Kenia,2023,4,False,0.0,0.0
+Kenia,2024,1,False,0.0,0.0
+Kenia,2024,2,False,0.0,0.0
+Kenia,2024,3,True,,
+Kenia,2024,4,True,,
+Kenia,2025,1,False,0.0,0.0
+Kenia,2025,2,True,,
+Kenia,2025,3,True,,
+Kenia,2025,4,True,,
+Kenia,2026,1,False,0.0,0.0
+Kuwait,2018,1,False,0.0,0.0
+Kuwait,2018,2,False,0.0,0.0
+Kuwait,2018,3,False,0.0,0.0
+Kuwait,2018,4,False,0.0,0.0
+Kuwait,2019,1,False,0.0,0.0
+Kuwait,2019,2,False,0.0,0.0
+Kuwait,2019,3,False,0.0,0.0
+Kuwait,2019,4,False,0.0,0.0
+Kuwait,2020,1,False,0.0,0.0
+Kuwait,2020,2,False,0.0,0.0
+Kuwait,2020,3,False,0.0,0.0
+Kuwait,2020,4,False,0.0,0.0
+Kuwait,2021,1,False,0.0,0.0
+Kuwait,2021,2,False,0.0,0.0
+Kuwait,2021,3,False,0.0,0.0
+Kuwait,2021,4,False,0.0,0.0
+Kuwait,2022,1,False,0.0,0.0
+Kuwait,2022,2,False,0.0,0.0
+Kuwait,2022,3,False,0.0,0.0
+Kuwait,2022,4,False,0.0,0.0
+Kuwait,2023,1,False,0.0,0.0
+Kuwait,2023,2,False,0.0,0.0
+Kuwait,2023,3,False,0.0,0.0
+Kuwait,2023,4,False,0.0,0.0
+Kuwait,2024,1,False,0.0,0.0
+Kuwait,2024,2,False,0.0,0.0
+Kuwait,2024,3,False,0.0,0.0
+Kuwait,2024,4,False,0.0,0.0
+Kuwait,2025,1,False,0.0,0.0
+Kuwait,2025,2,False,0.0,0.0
+Kuwait,2025,3,True,,
+Kuwait,2025,4,True,,
+Kuwait,2026,1,False,0.0,0.0
+Letonia,2018,1,False,0.0,0.0
+Letonia,2018,2,True,,
+Letonia,2018,3,True,,
+Letonia,2018,4,False,0.06419914,
+Letonia,2019,1,False,0.0,0.0
+Letonia,2019,2,False,0.0,0.0
+Letonia,2019,3,False,0.0,0.0
+Letonia,2019,4,True,,
+Letonia,2020,1,False,0.0,0.0
+Letonia,2020,2,False,0.0,0.0
+Letonia,2020,3,False,0.0,0.0
+Letonia,2020,4,False,0.0,0.0
+Letonia,2021,1,False,0.0,0.0
+Letonia,2021,2,False,0.0,0.0
+Letonia,2021,3,False,0.0,0.0
+Letonia,2021,4,False,0.0,0.0
+Letonia,2022,1,True,,
+Letonia,2022,2,True,,
+Letonia,2022,3,True,,
+Letonia,2022,4,True,,
+Letonia,2023,1,True,,
+Letonia,2023,2,True,,
+Letonia,2023,3,True,,
+Letonia,2023,4,True,,
+Letonia,2024,1,False,0.0,0.0
+Letonia,2024,2,True,,
+Letonia,2024,3,True,,
+Letonia,2024,4,True,,
+Letonia,2025,1,False,0.0,0.0
+Letonia,2025,2,False,0.13354174,0.13354174
+Letonia,2025,3,True,,
+Letonia,2025,4,False,0.26618296,
+Letonia,2026,1,False,0.0,0.0
+Liberia,2018,1,False,0.0,0.0
+Liberia,2018,2,False,0.0,0.0
+Liberia,2018,3,False,0.0,0.0
+Liberia,2018,4,False,0.0,0.0
+Liberia,2019,1,False,0.0,0.0
+Liberia,2019,2,False,0.0,0.0
+Liberia,2019,3,False,0.0,0.0
+Liberia,2019,4,False,0.0,0.0
+Liberia,2020,1,False,0.0,0.0
+Liberia,2020,2,False,0.0,0.0
+Liberia,2020,3,False,0.0,0.0
+Liberia,2020,4,False,0.0,0.0
+Liberia,2021,1,False,0.0,0.0
+Liberia,2021,2,False,0.0,0.0
+Liberia,2021,3,True,,
+Liberia,2021,4,True,,
+Liberia,2022,1,False,0.0,0.0
+Liberia,2022,2,False,0.0,0.0
+Liberia,2022,3,False,0.0,0.0
+Liberia,2022,4,False,0.0,0.0
+Liberia,2023,1,True,,
+Liberia,2023,2,True,,
+Liberia,2023,3,True,,
+Liberia,2023,4,True,,
+Liberia,2024,1,False,0.0,0.0
+Liberia,2024,2,False,0.0,0.0
+Liberia,2024,3,False,0.0,0.0
+Liberia,2024,4,False,0.0,0.0
+Liberia,2025,1,False,0.0,0.0
+Liberia,2025,2,True,,
+Liberia,2025,3,True,,
+Liberia,2025,4,True,,
+Liberia,2026,1,False,0.0,0.0
+Libia,2018,1,False,0.0,0.0
+Libia,2018,2,False,0.0,0.0
+Libia,2018,3,False,0.0,0.0
+Libia,2018,4,False,0.0,0.0
+Libia,2019,1,False,0.0,0.0
+Libia,2019,2,False,0.0,0.0
+Libia,2019,3,False,0.0,0.0
+Libia,2019,4,False,0.0,0.0
+Libia,2020,1,False,0.0,0.0
+Libia,2020,2,False,0.0,0.0
+Libia,2020,3,False,0.0,0.0
+Libia,2020,4,False,0.0,0.0
+Libia,2021,1,False,0.0,0.0
+Libia,2021,2,False,0.0,0.0
+Libia,2021,3,False,0.0,0.0
+Libia,2021,4,False,0.0,0.0
+Libia,2022,1,False,0.0,0.0
+Libia,2022,2,False,0.0,0.0
+Libia,2022,3,False,0.0,0.0
+Libia,2022,4,False,0.0,0.0
+Libia,2023,1,False,0.0,0.0
+Libia,2023,2,False,0.0,0.0
+Libia,2023,3,False,0.0,0.0
+Libia,2023,4,False,0.0,0.0
+Libia,2024,1,False,0.0,0.0
+Libia,2024,2,False,0.0,0.0
+Libia,2024,3,False,0.0,0.0
+Libia,2024,4,False,0.0,0.0
+Libia,2025,1,False,0.0,0.0
+Libia,2025,2,False,0.0,0.0
+Libia,2025,3,False,0.0,0.0
+Libia,2025,4,False,0.0,0.0
+Libia,2026,1,False,0.0,0.0
+Liechtenstein,2018,1,False,0.0,0.0
+Liechtenstein,2018,2,False,0.0,0.0
+Liechtenstein,2018,3,False,0.0,0.0
+Liechtenstein,2018,4,False,0.0,0.0
+Liechtenstein,2019,1,False,0.0,0.0
+Liechtenstein,2019,2,False,0.0,0.0
+Liechtenstein,2019,3,False,0.0,0.0
+Liechtenstein,2019,4,False,0.0,0.0
+Liechtenstein,2020,1,False,0.0,0.0
+Liechtenstein,2020,2,False,0.0,0.0
+Liechtenstein,2020,3,False,0.0,0.0
+Liechtenstein,2020,4,False,0.0,0.0
+Liechtenstein,2021,1,False,0.0,0.0
+Liechtenstein,2021,2,False,0.0,0.0
+Liechtenstein,2021,3,False,0.0,0.0
+Liechtenstein,2021,4,False,0.0,0.0
+Liechtenstein,2022,1,False,0.0,0.0
+Liechtenstein,2022,2,False,0.0,0.0
+Liechtenstein,2022,3,False,0.0,0.0
+Liechtenstein,2022,4,False,0.0,0.0
+Liechtenstein,2023,1,False,0.0,0.0
+Liechtenstein,2023,2,False,0.0,0.0
+Liechtenstein,2023,3,False,0.0,0.0
+Liechtenstein,2023,4,True,,
+Liechtenstein,2024,1,False,0.0,0.0
+Liechtenstein,2024,2,True,,
+Liechtenstein,2024,3,True,,
+Liechtenstein,2024,4,True,,
+Liechtenstein,2025,1,False,0.0,0.0
+Liechtenstein,2025,2,True,,
+Liechtenstein,2025,3,True,,
+Liechtenstein,2025,4,False,4.48653917,
+Liechtenstein,2026,1,False,0.0,0.0
+Lituania,2018,1,False,0.0,0.0
+Lituania,2018,2,False,0.0,0.0
+Lituania,2018,3,True,,
+Lituania,2018,4,True,,
+Lituania,2019,1,False,0.0,0.0
+Lituania,2019,2,True,,
+Lituania,2019,3,False,0.10397171,
+Lituania,2019,4,False,0.49904947,0.39507776
+Lituania,2020,1,False,0.0,0.0
+Lituania,2020,2,True,,
+Lituania,2020,3,False,0.22989609,
+Lituania,2020,4,False,0.22989609,0.0
+Lituania,2021,1,False,0.0,0.0
+Lituania,2021,2,True,,
+Lituania,2021,3,True,,
+Lituania,2021,4,False,0.07060965,
+Lituania,2022,1,False,0.0,0.0
+Lituania,2022,2,False,0.0,0.0
+Lituania,2022,3,False,0.0,0.0
+Lituania,2022,4,True,,
+Lituania,2023,1,False,0.0,0.0
+Lituania,2023,2,True,,
+Lituania,2023,3,False,0.0,
+Lituania,2023,4,False,0.0,0.0
+Lituania,2024,1,True,,
+Lituania,2024,2,True,,
+Lituania,2024,3,True,,
+Lituania,2024,4,True,,
+Lituania,2025,1,False,0.0,0.0
+Lituania,2025,2,False,0.0,0.0
+Lituania,2025,3,False,0.26347625,0.26347625
+Lituania,2025,4,False,0.26347625,0.0
+Lituania,2026,1,False,0.0,0.0
+Luxemburgo,2018,1,False,1.24077635,1.24077635
+Luxemburgo,2018,2,False,3.07294094,1.83216459
+Luxemburgo,2018,3,False,3.07355926,0.000618320000000061
+Luxemburgo,2018,4,False,39.18729957,36.11374031
+Luxemburgo,2019,1,True,,
+Luxemburgo,2019,2,False,17.92869687,
+Luxemburgo,2019,3,False,22.36897378,4.4402769100000015
+Luxemburgo,2019,4,False,16.98999877,-5.378975010000001
+Luxemburgo,2020,1,False,0.0,0.0
+Luxemburgo,2020,2,True,,
+Luxemburgo,2020,3,True,,
+Luxemburgo,2020,4,False,15.46807673,
+Luxemburgo,2021,1,False,967.2480562,967.2480562
+Luxemburgo,2021,2,False,983.0469124,15.798856200000046
+Luxemburgo,2021,3,False,977.0762549,-5.970657500000016
+Luxemburgo,2021,4,False,970.2535715,-6.82268339999996
+Luxemburgo,2022,1,True,,
+Luxemburgo,2022,2,False,-2.93354797,
+Luxemburgo,2022,3,False,-4.17857199,-1.2450240200000002
+Luxemburgo,2022,4,False,-2.21900123,1.95957076
+Luxemburgo,2023,1,True,,
+Luxemburgo,2023,2,True,,
+Luxemburgo,2023,3,False,15.82147554,
+Luxemburgo,2023,4,False,23.09822028,7.27674474
+Luxemburgo,2024,1,False,14.27584873,14.27584873
+Luxemburgo,2024,2,False,25.82210042,11.546251690000002
+Luxemburgo,2024,3,False,48.57664765,22.754547229999996
+Luxemburgo,2024,4,False,74.22622807,25.649580420000007
+Luxemburgo,2025,1,False,9.26073218,9.26073218
+Luxemburgo,2025,2,False,443.865392,434.60465982
+Luxemburgo,2025,3,False,66.31239019,-377.55300180999996
+Luxemburgo,2025,4,False,98.79381654,32.48142634999999
+Luxemburgo,2026,1,False,1.33291046,1.33291046
+Líbano,2018,1,False,0.0,0.0
+Líbano,2018,2,False,0.0,0.0
+Líbano,2018,3,True,,
+Líbano,2018,4,True,,
+Líbano,2019,1,False,0.0,0.0
+Líbano,2019,2,False,0.0,0.0
+Líbano,2019,3,False,0.0,0.0
+Líbano,2019,4,False,0.0,0.0
+Líbano,2020,1,False,0.0,0.0
+Líbano,2020,2,False,0.0,0.0
+Líbano,2020,3,False,0.0,0.0
+Líbano,2020,4,False,0.0,0.0
+Líbano,2021,1,False,0.0,0.0
+Líbano,2021,2,True,,
+Líbano,2021,3,True,,
+Líbano,2021,4,True,,
+Líbano,2022,1,False,0.0,0.0
+Líbano,2022,2,True,,
+Líbano,2022,3,True,,
+Líbano,2022,4,True,,
+Líbano,2023,1,True,,
+Líbano,2023,2,True,,
+Líbano,2023,3,False,0.49231473,
+Líbano,2023,4,False,0.49231473,0.0
+Líbano,2024,1,True,,
+Líbano,2024,2,False,0.0641324,
+Líbano,2024,3,False,0.21374857,0.14961617
+Líbano,2024,4,False,0.2735493,0.059800729999999996
+Líbano,2025,1,False,0.0,0.0
+Líbano,2025,2,True,,
+Líbano,2025,3,True,,
+Líbano,2025,4,True,,
+Líbano,2026,1,False,0.0,0.0
+Malasia,2018,1,True,,
+Malasia,2018,2,True,,
+Malasia,2018,3,False,3.99342737,
+Malasia,2018,4,False,3.99592721,0.002499840000000031
+Malasia,2019,1,True,,
+Malasia,2019,2,False,10.01601799,
+Malasia,2019,3,False,8.61344529,-1.4025727000000003
+Malasia,2019,4,False,123.2590033,114.64555801
+Malasia,2020,1,True,,
+Malasia,2020,2,False,80.36860803,
+Malasia,2020,3,False,179.6060356,99.23742757000001
+Malasia,2020,4,False,209.1859154,29.579879799999986
+Malasia,2021,1,True,,
+Malasia,2021,2,True,,
+Malasia,2021,3,True,,
+Malasia,2021,4,True,,
+Malasia,2022,1,True,,
+Malasia,2022,2,False,48.72330392,
+Malasia,2022,3,False,48.72330392,0.0
+Malasia,2022,4,False,50.65765712,1.9343532000000039
+Malasia,2023,1,False,0.0,0.0
+Malasia,2023,2,True,,
+Malasia,2023,3,True,,
+Malasia,2023,4,True,,
+Malasia,2024,1,False,0.0,0.0
+Malasia,2024,2,False,0.0,0.0
+Malasia,2024,3,False,0.0,0.0
+Malasia,2024,4,False,0.0,0.0
+Malasia,2025,1,False,0.0,0.0
+Malasia,2025,2,False,0.0,0.0
+Malasia,2025,3,True,,
+Malasia,2025,4,True,,
+Malasia,2026,1,False,0.0,0.0
+Maldivas,2018,1,False,0.0,0.0
+Maldivas,2018,2,False,0.0,0.0
+Maldivas,2018,3,False,0.0,0.0
+Maldivas,2018,4,False,0.0,0.0
+Maldivas,2019,1,False,0.0,0.0
+Maldivas,2019,2,False,0.0,0.0
+Maldivas,2019,3,False,0.0,0.0
+Maldivas,2019,4,False,0.0,0.0
+Maldivas,2020,1,False,0.0,0.0
+Maldivas,2020,2,False,0.0,0.0
+Maldivas,2020,3,False,0.0,0.0
+Maldivas,2020,4,False,0.0,0.0
+Maldivas,2021,1,False,0.0,0.0
+Maldivas,2021,2,False,0.0,0.0
+Maldivas,2021,3,False,0.0,0.0
+Maldivas,2021,4,False,0.0,0.0
+Maldivas,2022,1,False,0.0,0.0
+Maldivas,2022,2,False,0.0,0.0
+Maldivas,2022,3,False,0.0,0.0
+Maldivas,2022,4,False,0.0,0.0
+Maldivas,2023,1,False,0.0,0.0
+Maldivas,2023,2,False,0.0,0.0
+Maldivas,2023,3,False,0.0,0.0
+Maldivas,2023,4,False,0.0,0.0
+Maldivas,2024,1,False,0.0,0.0
+Maldivas,2024,2,False,0.0,0.0
+Maldivas,2024,3,False,0.0,0.0
+Maldivas,2024,4,False,0.0,0.0
+Maldivas,2025,1,False,0.0,0.0
+Maldivas,2025,2,False,0.0,0.0
+Maldivas,2025,3,False,0.0,0.0
+Maldivas,2025,4,False,0.0,0.0
+Maldivas,2026,1,False,0.0,0.0
+Malta,2018,1,True,,
+Malta,2018,2,True,,
+Malta,2018,3,True,,
+Malta,2018,4,False,0.06118241,
+Malta,2019,1,False,0.0,0.0
+Malta,2019,2,True,,
+Malta,2019,3,True,,
+Malta,2019,4,True,,
+Malta,2020,1,False,0.0,0.0
+Malta,2020,2,False,0.0,0.0
+Malta,2020,3,True,,
+Malta,2020,4,True,,
+Malta,2021,1,False,0.0,0.0
+Malta,2021,2,False,0.0,0.0
+Malta,2021,3,True,,
+Malta,2021,4,True,,
+Malta,2022,1,False,0.0,0.0
+Malta,2022,2,False,0.0,0.0
+Malta,2022,3,True,,
+Malta,2022,4,True,,
+Malta,2023,1,False,0.0,0.0
+Malta,2023,2,True,,
+Malta,2023,3,False,0.0,
+Malta,2023,4,True,,
+Malta,2024,1,False,0.0,0.0
+Malta,2024,2,False,0.0,0.0
+Malta,2024,3,False,0.0,0.0
+Malta,2024,4,False,0.0,0.0
+Malta,2025,1,False,0.0,0.0
+Malta,2025,2,True,,
+Malta,2025,3,True,,
+Malta,2025,4,False,2.34474987,
+Malta,2026,1,True,,
+Marruecos,2018,1,False,0.0,0.0
+Marruecos,2018,2,False,0.0,0.0
+Marruecos,2018,3,False,0.0,0.0
+Marruecos,2018,4,False,0.0,0.0
+Marruecos,2019,1,False,0.0,0.0
+Marruecos,2019,2,False,0.0,0.0
+Marruecos,2019,3,False,0.0,0.0
+Marruecos,2019,4,False,0.0,0.0
+Marruecos,2020,1,False,0.0,0.0
+Marruecos,2020,2,False,0.0,0.0
+Marruecos,2020,3,False,0.0,0.0
+Marruecos,2020,4,False,0.0,0.0
+Marruecos,2021,1,False,0.0,0.0
+Marruecos,2021,2,False,0.0,0.0
+Marruecos,2021,3,False,0.0,0.0
+Marruecos,2021,4,False,0.0,0.0
+Marruecos,2022,1,False,0.0,0.0
+Marruecos,2022,2,False,0.0,0.0
+Marruecos,2022,3,True,,
+Marruecos,2022,4,True,,
+Marruecos,2023,1,False,0.0,0.0
+Marruecos,2023,2,False,0.0,0.0
+Marruecos,2023,3,False,0.0,0.0
+Marruecos,2023,4,False,0.0,0.0
+Marruecos,2024,1,False,0.0,0.0
+Marruecos,2024,2,False,0.0,0.0
+Marruecos,2024,3,False,0.0,0.0
+Marruecos,2024,4,False,0.0,0.0
+Marruecos,2025,1,False,0.0,0.0
+Marruecos,2025,2,False,0.0,0.0
+Marruecos,2025,3,False,0.0,0.0
+Marruecos,2025,4,False,0.0,0.0
+Marruecos,2026,1,False,0.0,0.0
+Mauricio,2018,1,False,0.0,0.0
+Mauricio,2018,2,False,0.0,0.0
+Mauricio,2018,3,False,0.0,0.0
+Mauricio,2018,4,False,0.0,0.0
+Mauricio,2019,1,True,,
+Mauricio,2019,2,True,,
+Mauricio,2019,3,True,,
+Mauricio,2019,4,True,,
+Mauricio,2020,1,False,0.0,0.0
+Mauricio,2020,2,True,,
+Mauricio,2020,3,True,,
+Mauricio,2020,4,True,,
+Mauricio,2021,1,False,0.0,0.0
+Mauricio,2021,2,True,,
+Mauricio,2021,3,True,,
+Mauricio,2021,4,True,,
+Mauricio,2022,1,True,,
+Mauricio,2022,2,True,,
+Mauricio,2022,3,True,,
+Mauricio,2022,4,True,,
+Mauricio,2023,1,True,,
+Mauricio,2023,2,True,,
+Mauricio,2023,3,True,,
+Mauricio,2023,4,True,,
+Mauricio,2024,1,False,0.0,0.0
+Mauricio,2024,2,True,,
+Mauricio,2024,3,True,,
+Mauricio,2024,4,True,,
+Mauricio,2025,1,False,0.0,0.0
+Mauricio,2025,2,False,0.0,0.0
+Mauricio,2025,3,False,0.0,0.0
+Mauricio,2025,4,False,0.0,0.0
+Mauricio,2026,1,True,,
+Mauritania,2018,1,False,0.0,0.0
+Mauritania,2018,2,False,0.0,0.0
+Mauritania,2018,3,False,0.0,0.0
+Mauritania,2018,4,False,0.0,0.0
+Mauritania,2019,1,False,0.0,0.0
+Mauritania,2019,2,False,0.0,0.0
+Mauritania,2019,3,False,0.0,0.0
+Mauritania,2019,4,False,0.0,0.0
+Mauritania,2020,1,False,0.0,0.0
+Mauritania,2020,2,False,0.0,0.0
+Mauritania,2020,3,False,0.0,0.0
+Mauritania,2020,4,False,0.0,0.0
+Mauritania,2021,1,False,0.0,0.0
+Mauritania,2021,2,False,0.0,0.0
+Mauritania,2021,3,False,0.0,0.0
+Mauritania,2021,4,False,0.0,0.0
+Mauritania,2022,1,False,0.0,0.0
+Mauritania,2022,2,False,0.0,0.0
+Mauritania,2022,3,False,0.0,0.0
+Mauritania,2022,4,False,0.0,0.0
+Mauritania,2023,1,False,0.0,0.0
+Mauritania,2023,2,False,0.0,0.0
+Mauritania,2023,3,False,0.0,0.0
+Mauritania,2023,4,False,0.0,0.0
+Mauritania,2024,1,False,0.0,0.0
+Mauritania,2024,2,False,0.0,0.0
+Mauritania,2024,3,False,0.0,0.0
+Mauritania,2024,4,False,0.0,0.0
+Mauritania,2025,1,False,0.0,0.0
+Mauritania,2025,2,False,0.0,0.0
+Mauritania,2025,3,False,0.0,0.0
+Mauritania,2025,4,False,0.0,0.0
+Mauritania,2026,1,False,0.0,0.0
+Moldavia,2018,1,False,0.0,0.0
+Moldavia,2018,2,False,0.0,0.0
+Moldavia,2018,3,False,0.0,0.0
+Moldavia,2018,4,False,0.0,0.0
+Moldavia,2019,1,False,0.0,0.0
+Moldavia,2019,2,False,0.0,0.0
+Moldavia,2019,3,False,0.0,0.0
+Moldavia,2019,4,False,0.0,0.0
+Moldavia,2020,1,False,0.0,0.0
+Moldavia,2020,2,False,0.0,0.0
+Moldavia,2020,3,False,0.0,0.0
+Moldavia,2020,4,False,0.0,0.0
+Moldavia,2021,1,False,0.0,0.0
+Moldavia,2021,2,False,0.0,0.0
+Moldavia,2021,3,False,0.0,0.0
+Moldavia,2021,4,False,0.0,0.0
+Moldavia,2022,1,False,0.0,0.0
+Moldavia,2022,2,False,0.0,0.0
+Moldavia,2022,3,False,0.0,0.0
+Moldavia,2022,4,True,,
+Moldavia,2023,1,True,,
+Moldavia,2023,2,True,,
+Moldavia,2023,3,True,,
+Moldavia,2023,4,True,,
+Moldavia,2024,1,False,0.0,0.0
+Moldavia,2024,2,False,0.0,0.0
+Moldavia,2024,3,False,0.0,0.0
+Moldavia,2024,4,False,0.0,0.0
+Moldavia,2025,1,False,0.0,0.0
+Moldavia,2025,2,False,0.0,0.0
+Moldavia,2025,3,False,0.0,0.0
+Moldavia,2025,4,False,0.0,0.0
+Moldavia,2026,1,False,0.0,0.0
+"Montenegro, República de",2018,1,False,0.0,0.0
+"Montenegro, República de",2018,2,False,0.0,0.0
+"Montenegro, República de",2018,3,False,0.0,0.0
+"Montenegro, República de",2018,4,False,0.0,0.0
+"Montenegro, República de",2019,1,False,0.0,0.0
+"Montenegro, República de",2019,2,False,0.0,0.0
+"Montenegro, República de",2019,3,False,0.0,0.0
+"Montenegro, República de",2019,4,False,0.0,0.0
+"Montenegro, República de",2020,1,False,0.0,0.0
+"Montenegro, República de",2020,2,False,0.0,0.0
+"Montenegro, República de",2020,3,False,0.0,0.0
+"Montenegro, República de",2020,4,False,0.0,0.0
+"Montenegro, República de",2021,1,False,0.0,0.0
+"Montenegro, República de",2021,2,False,0.0,0.0
+"Montenegro, República de",2021,3,False,0.0,0.0
+"Montenegro, República de",2021,4,False,0.0,0.0
+"Montenegro, República de",2022,1,False,0.0,0.0
+"Montenegro, República de",2022,2,False,0.0,0.0
+"Montenegro, República de",2022,3,False,0.0,0.0
+"Montenegro, República de",2022,4,False,0.0,0.0
+"Montenegro, República de",2023,1,False,0.0,0.0
+"Montenegro, República de",2023,2,False,0.0,0.0
+"Montenegro, República de",2023,3,False,0.0,0.0
+"Montenegro, República de",2023,4,False,0.0,0.0
+"Montenegro, República de",2024,1,False,0.0,0.0
+"Montenegro, República de",2024,2,False,0.0,0.0
+"Montenegro, República de",2024,3,False,0.0,0.0
+"Montenegro, República de",2024,4,False,0.0,0.0
+"Montenegro, República de",2025,1,False,0.0,0.0
+"Montenegro, República de",2025,2,False,0.0,0.0
+"Montenegro, República de",2025,3,False,0.0,0.0
+"Montenegro, República de",2025,4,False,0.0,0.0
+"Montenegro, República de",2026,1,False,0.0,0.0
+Mónaco,2018,1,False,0.0,0.0
+Mónaco,2018,2,False,0.0,0.0
+Mónaco,2018,3,False,0.0,0.0
+Mónaco,2018,4,False,0.0,0.0
+Mónaco,2019,1,False,0.0,0.0
+Mónaco,2019,2,False,0.0,0.0
+Mónaco,2019,3,False,0.0,0.0
+Mónaco,2019,4,False,0.0,0.0
+Mónaco,2020,1,False,0.0,0.0
+Mónaco,2020,2,False,0.0,0.0
+Mónaco,2020,3,False,0.0,0.0
+Mónaco,2020,4,False,0.0,0.0
+Mónaco,2021,1,False,0.0,0.0
+Mónaco,2021,2,False,0.0,0.0
+Mónaco,2021,3,False,0.0,0.0
+Mónaco,2021,4,True,,
+Mónaco,2022,1,False,0.0,0.0
+Mónaco,2022,2,False,0.0,0.0
+Mónaco,2022,3,False,0.0,0.0
+Mónaco,2022,4,False,0.0,0.0
+Mónaco,2023,1,False,0.0,0.0
+Mónaco,2023,2,False,0.0,0.0
+Mónaco,2023,3,False,0.0,0.0
+Mónaco,2023,4,False,0.0,0.0
+Mónaco,2024,1,False,0.0,0.0
+Mónaco,2024,2,False,0.0,0.0
+Mónaco,2024,3,False,0.0,0.0
+Mónaco,2024,4,False,0.0,0.0
+Mónaco,2025,1,False,0.0,0.0
+Mónaco,2025,2,True,,
+Mónaco,2025,3,True,,
+Mónaco,2025,4,True,,
+Mónaco,2026,1,False,0.0,0.0
+Namibia,2018,1,False,0.0,0.0
+Namibia,2018,2,True,,
+Namibia,2018,3,True,,
+Namibia,2018,4,True,,
+Namibia,2019,1,False,0.0,0.0
+Namibia,2019,2,False,0.0,0.0
+Namibia,2019,3,False,0.0,0.0
+Namibia,2019,4,False,0.0,0.0
+Namibia,2020,1,False,0.0,0.0
+Namibia,2020,2,False,0.0,0.0
+Namibia,2020,3,False,0.0,0.0
+Namibia,2020,4,False,0.0,0.0
+Namibia,2021,1,False,0.0,0.0
+Namibia,2021,2,False,0.0,0.0
+Namibia,2021,3,False,0.0,0.0
+Namibia,2021,4,False,0.0,0.0
+Namibia,2022,1,False,0.0,0.0
+Namibia,2022,2,False,0.0,0.0
+Namibia,2022,3,False,0.0,0.0
+Namibia,2022,4,False,0.0,0.0
+Namibia,2023,1,False,0.0,0.0
+Namibia,2023,2,False,0.0,0.0
+Namibia,2023,3,False,0.0,0.0
+Namibia,2023,4,False,0.0,0.0
+Namibia,2024,1,False,0.0,0.0
+Namibia,2024,2,False,0.0,0.0
+Namibia,2024,3,False,0.0,0.0
+Namibia,2024,4,False,0.0,0.0
+Namibia,2025,1,False,0.0,0.0
+Namibia,2025,2,False,0.0,0.0
+Namibia,2025,3,False,0.0,0.0
+Namibia,2025,4,False,0.0,0.0
+Namibia,2026,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2018,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2018,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2018,3,False,0.0,0.0
+"Nepal, República Federal Democrática de",2018,4,False,0.0,0.0
+"Nepal, República Federal Democrática de",2019,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2019,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2019,3,False,0.0,0.0
+"Nepal, República Federal Democrática de",2019,4,False,0.0,0.0
+"Nepal, República Federal Democrática de",2020,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2020,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2020,3,True,,
+"Nepal, República Federal Democrática de",2020,4,True,,
+"Nepal, República Federal Democrática de",2021,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2021,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2021,3,True,,
+"Nepal, República Federal Democrática de",2021,4,True,,
+"Nepal, República Federal Democrática de",2022,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2022,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2022,3,False,0.0,0.0
+"Nepal, República Federal Democrática de",2022,4,False,0.0,0.0
+"Nepal, República Federal Democrática de",2023,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2023,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2023,3,False,0.0,0.0
+"Nepal, República Federal Democrática de",2023,4,False,0.0,0.0
+"Nepal, República Federal Democrática de",2024,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2024,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2024,3,False,0.0,0.0
+"Nepal, República Federal Democrática de",2024,4,False,0.0,0.0
+"Nepal, República Federal Democrática de",2025,1,False,0.0,0.0
+"Nepal, República Federal Democrática de",2025,2,False,0.0,0.0
+"Nepal, República Federal Democrática de",2025,3,False,0.0,0.0
+"Nepal, República Federal Democrática de",2025,4,False,0.0,0.0
+"Nepal, República Federal Democrática de",2026,1,False,0.0,0.0
+Nicaragua,2018,1,True,,
+Nicaragua,2018,2,True,,
+Nicaragua,2018,3,True,,
+Nicaragua,2018,4,False,0.10173106,
+Nicaragua,2019,1,False,0.0,0.0
+Nicaragua,2019,2,True,,
+Nicaragua,2019,3,True,,
+Nicaragua,2019,4,False,20.50868984,
+Nicaragua,2020,1,False,0.0,0.0
+Nicaragua,2020,2,False,0.0,0.0
+Nicaragua,2020,3,True,,
+Nicaragua,2020,4,False,4.22553692,
+Nicaragua,2021,1,False,0.0,0.0
+Nicaragua,2021,2,True,,
+Nicaragua,2021,3,True,,
+Nicaragua,2021,4,False,-1.56938861,
+Nicaragua,2022,1,True,,
+Nicaragua,2022,2,True,,
+Nicaragua,2022,3,False,-3.63727163,
+Nicaragua,2022,4,False,-3.63727163,0.0
+Nicaragua,2023,1,False,0.0,0.0
+Nicaragua,2023,2,False,0.0,0.0
+Nicaragua,2023,3,True,,
+Nicaragua,2023,4,True,,
+Nicaragua,2024,1,False,0.0,0.0
+Nicaragua,2024,2,False,0.0,0.0
+Nicaragua,2024,3,False,0.3019205,0.3019205
+Nicaragua,2024,4,False,0.3019205,0.0
+Nicaragua,2025,1,True,,
+Nicaragua,2025,2,True,,
+Nicaragua,2025,3,True,,
+Nicaragua,2025,4,False,1.09713374,
+Nicaragua,2026,1,False,0.0,0.0
+Nigeria,2018,1,False,0.0,0.0
+Nigeria,2018,2,True,,
+Nigeria,2018,3,True,,
+Nigeria,2018,4,True,,
+Nigeria,2019,1,False,0.0,0.0
+Nigeria,2019,2,False,0.0,0.0
+Nigeria,2019,3,False,0.0,0.0
+Nigeria,2019,4,False,0.0,0.0
+Nigeria,2020,1,False,0.0,0.0
+Nigeria,2020,2,False,0.0,0.0
+Nigeria,2020,3,False,0.0,0.0
+Nigeria,2020,4,True,,
+Nigeria,2021,1,False,0.0,0.0
+Nigeria,2021,2,False,0.0,0.0
+Nigeria,2021,3,False,0.0,0.0
+Nigeria,2021,4,False,0.0,0.0
+Nigeria,2022,1,False,0.0,0.0
+Nigeria,2022,2,False,0.0,0.0
+Nigeria,2022,3,True,,
+Nigeria,2022,4,False,0.75325211,
+Nigeria,2023,1,False,0.0,0.0
+Nigeria,2023,2,False,0.9290215,0.9290215
+Nigeria,2023,3,False,1.14750944,0.21848794000000016
+Nigeria,2023,4,False,1.14750944,0.0
+Nigeria,2024,1,False,0.0,0.0
+Nigeria,2024,2,False,0.0,0.0
+Nigeria,2024,3,False,0.0,0.0
+Nigeria,2024,4,False,0.0,0.0
+Nigeria,2025,1,False,0.0,0.0
+Nigeria,2025,2,False,0.0,0.0
+Nigeria,2025,3,False,1.09605005,1.09605005
+Nigeria,2025,4,False,1.18887621,0.09282615999999999
+Nigeria,2026,1,False,0.0,0.0
+Noruega,2018,1,True,,
+Noruega,2018,2,False,35.28985212,
+Noruega,2018,3,False,35.21606072,-0.07379139999999751
+Noruega,2018,4,False,61.56835213,26.35229141
+Noruega,2019,1,True,,
+Noruega,2019,2,False,-4.40026813,
+Noruega,2019,3,False,11.42039352,15.820661649999998
+Noruega,2019,4,False,-2.9389178,-14.35931132
+Noruega,2020,1,False,-1.53617722,-1.53617722
+Noruega,2020,2,False,-0.89889852,0.6372786999999999
+Noruega,2020,3,False,-3.87620069,-2.97730217
+Noruega,2020,4,False,1.24042745,5.11662814
+Noruega,2021,1,False,0.0,0.0
+Noruega,2021,2,False,-7.25970063,-7.25970063
+Noruega,2021,3,False,-16.32108545,-9.06138482
+Noruega,2021,4,False,-14.81942888,1.5016565700000015
+Noruega,2022,1,False,0.0,0.0
+Noruega,2022,2,True,,
+Noruega,2022,3,False,-3.40871704,
+Noruega,2022,4,False,-2.71282263,0.6958944100000002
+Noruega,2023,1,True,,
+Noruega,2023,2,False,-11.99944184,
+Noruega,2023,3,False,-10.77434346,1.2250983799999986
+Noruega,2023,4,False,18.16402812,28.938371580000002
+Noruega,2024,1,False,45.55322292,45.55322292
+Noruega,2024,2,False,65.49574215,19.942519229999995
+Noruega,2024,3,False,92.83488456,27.339142410000008
+Noruega,2024,4,False,98.59887254,5.763987979999996
+Noruega,2025,1,False,0.24706115,0.24706115
+Noruega,2025,2,False,7.420177,7.173115849999999
+Noruega,2025,3,False,11.38819631,3.96801931
+Noruega,2025,4,False,12.61241268,1.2242163700000006
+Noruega,2026,1,False,5.98628048,5.98628048
+Nueva Zelandia,2018,1,True,,
+Nueva Zelandia,2018,2,False,7.18490738,
+Nueva Zelandia,2018,3,False,7.21706007,0.03215268999999932
+Nueva Zelandia,2018,4,False,7.21706007,0.0
+Nueva Zelandia,2019,1,True,,
+Nueva Zelandia,2019,2,True,,
+Nueva Zelandia,2019,3,False,0.88735184,
+Nueva Zelandia,2019,4,False,1.09336029,0.2060084499999999
+Nueva Zelandia,2020,1,True,,
+Nueva Zelandia,2020,2,True,,
+Nueva Zelandia,2020,3,True,,
+Nueva Zelandia,2020,4,True,,
+Nueva Zelandia,2021,1,True,,
+Nueva Zelandia,2021,2,False,13.60198559,
+Nueva Zelandia,2021,3,False,16.72026647,3.1182808799999986
+Nueva Zelandia,2021,4,False,20.51609031,3.7958238400000006
+Nueva Zelandia,2022,1,False,2.46883111,2.46883111
+Nueva Zelandia,2022,2,False,10.44218347,7.97335236
+Nueva Zelandia,2022,3,False,15.58093511,5.138751640000001
+Nueva Zelandia,2022,4,False,18.795544,3.214608889999999
+Nueva Zelandia,2023,1,False,11.69200362,11.69200362
+Nueva Zelandia,2023,2,False,0.66747715,-11.02452647
+Nueva Zelandia,2023,3,False,1.41211813,0.7446409800000001
+Nueva Zelandia,2023,4,False,1.75731617,0.3451980399999999
+Nueva Zelandia,2024,1,True,,
+Nueva Zelandia,2024,2,True,,
+Nueva Zelandia,2024,3,False,4.77692097,
+Nueva Zelandia,2024,4,False,6.47876139,1.70184042
+Nueva Zelandia,2025,1,True,,
+Nueva Zelandia,2025,2,False,32.57752542,
+Nueva Zelandia,2025,3,False,0.37564546,-32.20187996
+Nueva Zelandia,2025,4,False,2.2369246,1.8612791400000002
+Nueva Zelandia,2026,1,False,0.0,0.0
+Omán,2018,1,False,0.0,0.0
+Omán,2018,2,False,0.0,0.0
+Omán,2018,3,False,0.0,0.0
+Omán,2018,4,False,0.0,0.0
+Omán,2019,1,False,0.0,0.0
+Omán,2019,2,False,0.0,0.0
+Omán,2019,3,False,0.0,0.0
+Omán,2019,4,False,0.0,0.0
+Omán,2020,1,False,0.0,0.0
+Omán,2020,2,False,0.0,0.0
+Omán,2020,3,False,0.0,0.0
+Omán,2020,4,False,0.0,0.0
+Omán,2021,1,False,0.0,0.0
+Omán,2021,2,False,0.0,0.0
+Omán,2021,3,False,0.0,0.0
+Omán,2021,4,False,0.0,0.0
+Omán,2022,1,False,0.0,0.0
+Omán,2022,2,False,0.0,0.0
+Omán,2022,3,False,0.0,0.0
+Omán,2022,4,False,0.0,0.0
+Omán,2023,1,False,0.0,0.0
+Omán,2023,2,False,0.0,0.0
+Omán,2023,3,False,0.0,0.0
+Omán,2023,4,False,0.0,0.0
+Omán,2024,1,False,0.0,0.0
+Omán,2024,2,False,0.0,0.0
+Omán,2024,3,False,0.0,0.0
+Omán,2024,4,False,0.0,0.0
+Omán,2025,1,False,0.0,0.0
+Omán,2025,2,False,0.0,0.0
+Omán,2025,3,False,0.0,0.0
+Omán,2025,4,False,0.0,0.0
+Omán,2026,1,False,0.0,0.0
+Otro origen,2018,1,False,265.3934059,265.3934059
+Otro origen,2018,2,False,337.6331158,72.23970989999998
+Otro origen,2018,3,False,38.35750969,-299.27560611
+Otro origen,2018,4,False,-9.32753828,-47.68504797
+Otro origen,2019,1,True,,
+Otro origen,2019,2,False,19.09814799,
+Otro origen,2019,3,False,-50.87503633,-69.97318432
+Otro origen,2019,4,False,-5.47675004,45.39828629
+Otro origen,2020,1,False,0.28605036,0.28605036
+Otro origen,2020,2,False,45.74341304,45.45736268
+Otro origen,2020,3,False,104.5396825,58.79626946
+Otro origen,2020,4,False,508.5855597,404.04587719999995
+Otro origen,2021,1,False,1000.745007,1000.745007
+Otro origen,2021,2,False,856.6719025,-144.0731045
+Otro origen,2021,3,False,701.0507489,-155.62115359999996
+Otro origen,2021,4,False,997.5053239,296.454575
+Otro origen,2022,1,False,4871.564403,4871.564403
+Otro origen,2022,2,False,4934.47602,62.91161699999975
+Otro origen,2022,3,False,5397.420618,462.94459800000004
+Otro origen,2022,4,False,5500.036022,102.61540400000013
+Otro origen,2023,1,True,,
+Otro origen,2023,2,False,210.0076633,
+Otro origen,2023,3,False,1892.355927,1682.3482637000002
+Otro origen,2023,4,False,1624.596361,-267.7595660000002
+Otro origen,2024,1,False,2217.442401,2217.442401
+Otro origen,2024,2,False,2255.219597,37.777196
+Otro origen,2024,3,False,2255.219597,0.0
+Otro origen,2024,4,False,309.2464086,-1945.9731883999998
+Otro origen,2025,1,False,1870.816934,1870.816934
+Otro origen,2025,2,False,1823.405199,-47.41173499999991
+Otro origen,2025,3,False,2207.477391,384.07219199999986
+Otro origen,2025,4,False,1729.874129,-477.60326199999986
+Otro origen,2026,1,False,2565.355797,2565.355797
+Pakistán,2018,1,True,,
+Pakistán,2018,2,True,,
+Pakistán,2018,3,True,,
+Pakistán,2018,4,True,,
+Pakistán,2019,1,False,0.0,0.0
+Pakistán,2019,2,False,0.0,0.0
+Pakistán,2019,3,False,0.0,0.0
+Pakistán,2019,4,False,0.0,0.0
+Pakistán,2020,1,False,0.0,0.0
+Pakistán,2020,2,False,0.0,0.0
+Pakistán,2020,3,False,0.0,0.0
+Pakistán,2020,4,False,0.0,0.0
+Pakistán,2021,1,False,0.0,0.0
+Pakistán,2021,2,False,0.0,0.0
+Pakistán,2021,3,False,0.0,0.0
+Pakistán,2021,4,False,0.0,0.0
+Pakistán,2022,1,False,0.0,0.0
+Pakistán,2022,2,False,0.0,0.0
+Pakistán,2022,3,False,0.0,0.0
+Pakistán,2022,4,False,0.0,0.0
+Pakistán,2023,1,False,0.0,0.0
+Pakistán,2023,2,False,0.0,0.0
+Pakistán,2023,3,True,,
+Pakistán,2023,4,True,,
+Pakistán,2024,1,False,0.0,0.0
+Pakistán,2024,2,False,0.0,0.0
+Pakistán,2024,3,False,0.0,0.0
+Pakistán,2024,4,False,0.0,0.0
+Pakistán,2025,1,True,,
+Pakistán,2025,2,True,,
+Pakistán,2025,3,True,,
+Pakistán,2025,4,True,,
+Pakistán,2026,1,False,0.0,0.0
+Panamá,2018,1,False,0.0,0.0
+Panamá,2018,2,False,-0.68070422,-0.68070422
+Panamá,2018,3,False,-0.59086824,0.08983597999999993
+Panamá,2018,4,False,27.06859562,27.65946386
+Panamá,2019,1,False,6.00235895,6.00235895
+Panamá,2019,2,False,6.00613139,0.003772440000000543
+Panamá,2019,3,False,20.08409058,14.077959190000001
+Panamá,2019,4,False,21.12888958,1.0447989999999976
+Panamá,2020,1,False,21.65853758,21.65853758
+Panamá,2020,2,False,20.6943835,-0.9641540800000001
+Panamá,2020,3,False,25.79488537,5.100501869999999
+Panamá,2020,4,False,24.5088482,-1.2860371700000002
+Panamá,2021,1,False,0.0,0.0
+Panamá,2021,2,False,0.0741716,0.0741716
+Panamá,2021,3,False,0.07739435,0.0032227499999999965
+Panamá,2021,4,False,10.2416546,10.16426025
+Panamá,2022,1,False,-1.09939642,-1.09939642
+Panamá,2022,2,False,19.74759094,20.84698736
+Panamá,2022,3,False,40.15424877,20.406657830000004
+Panamá,2022,4,False,43.46996752,3.315718749999995
+Panamá,2023,1,False,1.7894421,1.7894421
+Panamá,2023,2,False,7.60485728,5.8154151800000005
+Panamá,2023,3,False,29.61661445,22.01175717
+Panamá,2023,4,False,29.21023803,-0.40637642000000085
+Panamá,2024,1,True,,
+Panamá,2024,2,False,21.04325273,
+Panamá,2024,3,False,27.7341733,6.690920569999999
+Panamá,2024,4,False,39.79661123,12.062437930000005
+Panamá,2025,1,False,-26.20403754,-26.20403754
+Panamá,2025,2,False,-8.58652031,17.617517230000004
+Panamá,2025,3,False,-7.04190253,1.5446177799999994
+Panamá,2025,4,False,7.47193083,14.51383336
+Panamá,2026,1,False,27.13957273,27.13957273
+Paraguay,2018,1,False,0.0,0.0
+Paraguay,2018,2,False,0.0,0.0
+Paraguay,2018,3,False,0.0,0.0
+Paraguay,2018,4,False,0.0,0.0
+Paraguay,2019,1,False,0.0,0.0
+Paraguay,2019,2,True,,
+Paraguay,2019,3,True,,
+Paraguay,2019,4,False,0.09208554,
+Paraguay,2020,1,False,0.0,0.0
+Paraguay,2020,2,False,0.0,0.0
+Paraguay,2020,3,False,0.0,0.0
+Paraguay,2020,4,False,0.0,0.0
+Paraguay,2021,1,True,,
+Paraguay,2021,2,True,,
+Paraguay,2021,3,False,0.13147894,
+Paraguay,2021,4,False,0.13147894,0.0
+Paraguay,2022,1,True,,
+Paraguay,2022,2,False,0.20978019,
+Paraguay,2022,3,False,0.55365614,0.34387594999999993
+Paraguay,2022,4,False,0.61942022,0.06576408
+Paraguay,2023,1,True,,
+Paraguay,2023,2,True,,
+Paraguay,2023,3,True,,
+Paraguay,2023,4,False,0.37170026,
+Paraguay,2024,1,False,0.0,0.0
+Paraguay,2024,2,True,,
+Paraguay,2024,3,False,0.20451973,
+Paraguay,2024,4,False,0.20451973,0.0
+Paraguay,2025,1,False,0.0,0.0
+Paraguay,2025,2,True,,
+Paraguay,2025,3,True,,
+Paraguay,2025,4,True,,
+Paraguay,2026,1,True,,
+Países Bajos,2018,1,False,482.8052669,482.8052669
+Países Bajos,2018,2,False,446.7245956,-36.080671300000006
+Países Bajos,2018,3,False,369.8550363,-76.86955929999999
+Países Bajos,2018,4,False,605.226382,235.37134569999995
+Países Bajos,2019,1,False,537.0346193,537.0346193
+Países Bajos,2019,2,False,649.5437401,112.5091208
+Países Bajos,2019,3,False,838.9235517,189.37981159999993
+Países Bajos,2019,4,False,917.3106925,78.3871408
+Países Bajos,2020,1,False,480.2121287,480.2121287
+Países Bajos,2020,2,False,545.8009208,65.58879209999998
+Países Bajos,2020,3,False,834.5547538,288.753833
+Países Bajos,2020,4,False,815.7086231,-18.846130700000003
+Países Bajos,2021,1,False,181.9556897,181.9556897
+Países Bajos,2021,2,False,99.953741,-82.0019487
+Países Bajos,2021,3,False,169.3530987,69.39935770000001
+Países Bajos,2021,4,False,-278.185932,-447.5390307
+Países Bajos,2022,1,False,57.76080881,57.76080881
+Países Bajos,2022,2,False,117.363962,59.60315319
+Países Bajos,2022,3,False,269.4622089,152.0982469
+Países Bajos,2022,4,False,-247.7422562,-517.2044651
+Países Bajos,2023,1,False,1602.26833,1602.26833
+Países Bajos,2023,2,False,1275.134192,-327.1341380000001
+Países Bajos,2023,3,False,570.2740218,-704.8601702
+Países Bajos,2023,4,False,891.7246423,321.4506205
+Países Bajos,2024,1,False,529.8837596,529.8837596
+Países Bajos,2024,2,False,587.5182076,57.63444800000002
+Países Bajos,2024,3,False,1910.388145,1322.8699373999998
+Países Bajos,2024,4,False,1881.083154,-29.304990999999973
+Países Bajos,2025,1,False,1765.526387,1765.526387
+Países Bajos,2025,2,False,839.547907,-925.9784800000001
+Países Bajos,2025,3,False,2580.811229,1741.2633219999998
+Países Bajos,2025,4,False,2387.427348,-193.38388099999975
+Países Bajos,2026,1,False,115.0079274,115.0079274
+Perú,2018,1,True,,
+Perú,2018,2,False,5.60841769,
+Perú,2018,3,False,15.78323742,10.174819730000001
+Perú,2018,4,False,16.87344533,1.0902079099999984
+Perú,2019,1,False,0.7247504,0.7247504
+Perú,2019,2,False,6.59160263,5.866852229999999
+Perú,2019,3,False,8.97176544,2.3801628100000007
+Perú,2019,4,False,9.19971985,0.22795440999999883
+Perú,2020,1,True,,
+Perú,2020,2,False,1.9684523,
+Perú,2020,3,False,1.14965687,-0.81879543
+Perú,2020,4,False,-2.9978978,-4.14755467
+Perú,2021,1,False,3.33698271,3.33698271
+Perú,2021,2,False,5.6192894,2.2823066900000004
+Perú,2021,3,False,6.25295798,0.6336685799999993
+Perú,2021,4,False,13.36896612,7.11600814
+Perú,2022,1,False,-1.97238253,-1.97238253
+Perú,2022,2,False,-0.27187831,1.70050422
+Perú,2022,3,False,9.6075288,9.87940711
+Perú,2022,4,False,17.06223468,7.454705879999999
+Perú,2023,1,False,0.40150115,0.40150115
+Perú,2023,2,False,4.49977959,4.0982784400000005
+Perú,2023,3,False,12.60062839,8.100848800000001
+Perú,2023,4,False,12.81711103,0.21648263999999884
+Perú,2024,1,False,-8.49540375,-8.49540375
+Perú,2024,2,False,-2.23071955,6.2646842
+Perú,2024,3,False,-66.6822883,-64.45156874999999
+Perú,2024,4,False,-60.38028878,6.301999519999995
+Perú,2025,1,False,-0.18569228,-0.18569228
+Perú,2025,2,False,33.52026851,33.70596079
+Perú,2025,3,False,31.74527328,-1.7749952300000018
+Perú,2025,4,False,35.2585357,3.5132624200000038
+Perú,2026,1,False,-18.99471652,-18.99471652
+Polonia,2018,1,True,,
+Polonia,2018,2,False,0.08771707,
+Polonia,2018,3,False,-0.3945873,-0.48230437
+Polonia,2018,4,False,-0.50277341,-0.10818611
+Polonia,2019,1,True,,
+Polonia,2019,2,False,0.25588947,
+Polonia,2019,3,False,0.59047237,0.33458289999999996
+Polonia,2019,4,False,0.59914052,0.008668149999999986
+Polonia,2020,1,True,,
+Polonia,2020,2,False,10.66429314,
+Polonia,2020,3,False,12.4467662,1.782473060000001
+Polonia,2020,4,False,14.55220155,2.1054353499999987
+Polonia,2021,1,True,,
+Polonia,2021,2,False,2.27548159,
+Polonia,2021,3,False,2.73251695,0.4570353599999999
+Polonia,2021,4,False,3.87864029,1.14612334
+Polonia,2022,1,False,0.18281447,0.18281447
+Polonia,2022,2,False,3.13532153,2.9525070600000003
+Polonia,2022,3,False,3.38370966,0.24838812999999993
+Polonia,2022,4,False,3.60617851,0.22246884999999983
+Polonia,2023,1,True,,
+Polonia,2023,2,False,2.30205549,
+Polonia,2023,3,False,2.72198158,0.41992609000000014
+Polonia,2023,4,False,2.72198158,0.0
+Polonia,2024,1,True,,
+Polonia,2024,2,False,1.09443698,
+Polonia,2024,3,False,2.88701593,1.79257895
+Polonia,2024,4,False,4.12489786,1.23788193
+Polonia,2025,1,True,,
+Polonia,2025,2,False,0.62928951,
+Polonia,2025,3,False,3.72792052,3.09863101
+Polonia,2025,4,False,9.88531519,6.15739467
+Polonia,2026,1,False,0.64700958,0.64700958
+Portugal,2018,1,False,19.23953476,19.23953476
+Portugal,2018,2,False,21.68681622,2.4472814599999992
+Portugal,2018,3,False,22.62708448,0.9402682599999999
+Portugal,2018,4,False,26.9282093,4.301124819999998
+Portugal,2019,1,True,,
+Portugal,2019,2,False,3.90190615,
+Portugal,2019,3,False,4.07037813,0.16847198000000008
+Portugal,2019,4,False,4.07037813,0.0
+Portugal,2020,1,True,,
+Portugal,2020,2,False,4.29160384,
+Portugal,2020,3,False,4.29160384,0.0
+Portugal,2020,4,False,-11.42999591,-15.72159975
+Portugal,2021,1,True,,
+Portugal,2021,2,False,-0.07284225,
+Portugal,2021,3,False,0.41585839,0.48870064
+Portugal,2021,4,False,-1.84690198,-2.26276037
+Portugal,2022,1,False,0.58238327,0.58238327
+Portugal,2022,2,False,0.52772133,-0.05466194000000002
+Portugal,2022,3,False,2.54175972,2.01403839
+Portugal,2022,4,False,2.79386774,0.2521080200000001
+Portugal,2023,1,True,,
+Portugal,2023,2,False,0.58889156,
+Portugal,2023,3,False,0.91329188,0.32440031999999996
+Portugal,2023,4,False,-1.5678567,-2.48114858
+Portugal,2024,1,False,0.0,0.0
+Portugal,2024,2,False,-20.03992718,-20.03992718
+Portugal,2024,3,False,-19.83019781,0.20972936999999803
+Portugal,2024,4,False,-21.63204984,-1.8018520299999992
+Portugal,2025,1,False,0.49455708,0.49455708
+Portugal,2025,2,False,2.30935963,1.81480255
+Portugal,2025,3,False,2.73500449,0.42564486000000024
+Portugal,2025,4,False,5.34741395,2.61240946
+Portugal,2026,1,True,,
+Puerto Rico,2018,1,True,,
+Puerto Rico,2018,2,True,,
+Puerto Rico,2018,3,True,,
+Puerto Rico,2018,4,True,,
+Puerto Rico,2019,1,False,0.0,0.0
+Puerto Rico,2019,2,False,0.0,0.0
+Puerto Rico,2019,3,True,,
+Puerto Rico,2019,4,True,,
+Puerto Rico,2020,1,False,0.0,0.0
+Puerto Rico,2020,2,False,0.0,0.0
+Puerto Rico,2020,3,False,0.0,0.0
+Puerto Rico,2020,4,False,0.0,0.0
+Puerto Rico,2021,1,False,0.0,0.0
+Puerto Rico,2021,2,False,0.0,0.0
+Puerto Rico,2021,3,False,0.0,0.0
+Puerto Rico,2021,4,False,0.0,0.0
+Puerto Rico,2022,1,False,0.0,0.0
+Puerto Rico,2022,2,True,,
+Puerto Rico,2022,3,True,,
+Puerto Rico,2022,4,True,,
+Puerto Rico,2023,1,False,0.0,0.0
+Puerto Rico,2023,2,True,,
+Puerto Rico,2023,3,False,0.0,
+Puerto Rico,2023,4,False,0.0,0.0
+Puerto Rico,2024,1,False,0.0,0.0
+Puerto Rico,2024,2,False,0.0,0.0
+Puerto Rico,2024,3,False,0.0,0.0
+Puerto Rico,2024,4,False,0.0,0.0
+Puerto Rico,2025,1,False,0.0,0.0
+Puerto Rico,2025,2,False,0.0,0.0
+Puerto Rico,2025,3,False,0.0,0.0
+Puerto Rico,2025,4,False,0.0,0.0
+Puerto Rico,2026,1,False,0.0,0.0
+Qatar,2018,1,True,,
+Qatar,2018,2,True,,
+Qatar,2018,3,True,,
+Qatar,2018,4,True,,
+Qatar,2019,1,False,0.0,0.0
+Qatar,2019,2,False,0.0,0.0
+Qatar,2019,3,False,0.0,0.0
+Qatar,2019,4,False,0.0,0.0
+Qatar,2020,1,True,,
+Qatar,2020,2,True,,
+Qatar,2020,3,True,,
+Qatar,2020,4,True,,
+Qatar,2021,1,True,,
+Qatar,2021,2,True,,
+Qatar,2021,3,True,,
+Qatar,2021,4,True,,
+Qatar,2022,1,True,,
+Qatar,2022,2,True,,
+Qatar,2022,3,True,,
+Qatar,2022,4,True,,
+Qatar,2023,1,False,0.0,0.0
+Qatar,2023,2,True,,
+Qatar,2023,3,True,,
+Qatar,2023,4,True,,
+Qatar,2024,1,False,0.0,0.0
+Qatar,2024,2,False,0.0,0.0
+Qatar,2024,3,True,,
+Qatar,2024,4,True,,
+Qatar,2025,1,False,0.0,0.0
+Qatar,2025,2,False,0.0,0.0
+Qatar,2025,3,True,,
+Qatar,2025,4,True,,
+Qatar,2026,1,True,,
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2018,1,False,137.947439,137.947439
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2018,2,False,281.1425636,143.1951246
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2018,3,False,233.5685431,-47.57402050000002
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2018,4,False,662.4259144,428.8573713
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2019,1,False,290.1494152,290.1494152
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2019,2,False,375.1079246,84.95850939999997
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2019,3,False,440.7304259,65.62250130000001
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2019,4,False,744.3020594,303.57163349999996
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2020,1,False,344.2971586,344.2971586
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2020,2,False,585.0154588,240.71830020000004
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2020,3,False,782.8014554,197.78599659999998
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2020,4,False,938.9746511,156.17319569999995
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2021,1,False,652.6473174,652.6473174
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2021,2,False,1092.076491,439.4291736
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2021,3,False,1096.866667,4.790175999999974
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2021,4,False,1816.635825,719.7691580000001
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2022,1,False,589.4031636,589.4031636
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2022,2,False,903.9351369,314.5319733
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2022,3,False,1207.210693,303.2755561
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2022,4,False,1757.828571,550.617878
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2023,1,False,749.4871084,749.4871084
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2023,2,False,947.580605,198.09349659999998
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2023,3,False,1002.708532,55.127927
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2023,4,False,936.4611722,-66.24735980000003
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2024,1,False,142.0233643,142.0233643
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2024,2,False,457.9336133,315.910249
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2024,3,False,713.2367188,255.30310549999996
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2024,4,False,823.3212391,110.08452030000001
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2025,1,False,233.6298098,233.6298098
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2025,2,False,198.7317483,-34.89806150000001
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2025,3,False,-511.3301668,-710.0619151
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2025,4,False,-9.4926427,501.8375241
+Reino Unido de la Gran Bretaña e Irlanda del Norte,2026,1,False,741.8088415,741.8088415
+República Centroafricana,2018,1,False,0.0,0.0
+República Centroafricana,2018,2,False,0.0,0.0
+República Centroafricana,2018,3,False,0.0,0.0
+República Centroafricana,2018,4,False,0.0,0.0
+República Centroafricana,2019,1,False,0.0,0.0
+República Centroafricana,2019,2,False,0.0,0.0
+República Centroafricana,2019,3,False,0.0,0.0
+República Centroafricana,2019,4,False,0.0,0.0
+República Centroafricana,2020,1,False,0.0,0.0
+República Centroafricana,2020,2,False,0.0,0.0
+República Centroafricana,2020,3,False,0.0,0.0
+República Centroafricana,2020,4,False,0.0,0.0
+República Centroafricana,2021,1,False,0.0,0.0
+República Centroafricana,2021,2,False,0.0,0.0
+República Centroafricana,2021,3,False,0.0,0.0
+República Centroafricana,2021,4,False,0.0,0.0
+República Centroafricana,2022,1,False,0.0,0.0
+República Centroafricana,2022,2,False,0.0,0.0
+República Centroafricana,2022,3,False,0.0,0.0
+República Centroafricana,2022,4,False,0.0,0.0
+República Centroafricana,2023,1,False,0.0,0.0
+República Centroafricana,2023,2,False,0.0,0.0
+República Centroafricana,2023,3,False,0.0,0.0
+República Centroafricana,2023,4,False,0.0,0.0
+República Centroafricana,2024,1,False,0.0,0.0
+República Centroafricana,2024,2,False,0.0,0.0
+República Centroafricana,2024,3,False,0.0,0.0
+República Centroafricana,2024,4,False,0.0,0.0
+República Centroafricana,2025,1,False,0.0,0.0
+República Centroafricana,2025,2,False,0.0,0.0
+República Centroafricana,2025,3,False,0.0,0.0
+República Centroafricana,2025,4,False,0.0,0.0
+República Centroafricana,2026,1,False,0.0,0.0
+República Dominicana,2018,1,True,,
+República Dominicana,2018,2,True,,
+República Dominicana,2018,3,True,,
+República Dominicana,2018,4,False,0.23907684,
+República Dominicana,2019,1,True,,
+República Dominicana,2019,2,True,,
+República Dominicana,2019,3,False,-0.05333052,
+República Dominicana,2019,4,False,-0.16994252,-0.11661200000000002
+República Dominicana,2020,1,True,,
+República Dominicana,2020,2,True,,
+República Dominicana,2020,3,False,0.22547993,
+República Dominicana,2020,4,False,-7.18409942,-7.40957935
+República Dominicana,2021,1,False,1.37051726,1.37051726
+República Dominicana,2021,2,False,1.37051876,1.4999999999876223e-06
+República Dominicana,2021,3,False,1.36549228,-0.005026479999999944
+República Dominicana,2021,4,False,1.86336983,0.4978775499999999
+República Dominicana,2022,1,True,,
+República Dominicana,2022,2,True,,
+República Dominicana,2022,3,True,,
+República Dominicana,2022,4,False,0.3566216,
+República Dominicana,2023,1,True,,
+República Dominicana,2023,2,False,1.51116381,
+República Dominicana,2023,3,False,1.56516933,0.05400552000000003
+República Dominicana,2023,4,False,1.68466251,0.11949317999999987
+República Dominicana,2024,1,True,,
+República Dominicana,2024,2,False,0.17630873,
+República Dominicana,2024,3,False,0.73012621,0.55381748
+República Dominicana,2024,4,False,0.73012621,0.0
+República Dominicana,2025,1,True,,
+República Dominicana,2025,2,False,-0.12067127,
+República Dominicana,2025,3,False,0.48997966,0.61065093
+República Dominicana,2025,4,False,0.90811341,0.41813375
+República Dominicana,2026,1,True,,
+República de Macedonia del Norte,2018,1,False,0.0,0.0
+República de Macedonia del Norte,2018,2,False,0.0,0.0
+República de Macedonia del Norte,2018,3,False,0.0,0.0
+República de Macedonia del Norte,2018,4,False,0.0,0.0
+República de Macedonia del Norte,2019,1,False,0.0,0.0
+República de Macedonia del Norte,2019,2,False,0.0,0.0
+República de Macedonia del Norte,2019,3,False,0.0,0.0
+República de Macedonia del Norte,2019,4,False,0.0,0.0
+República de Macedonia del Norte,2020,1,False,0.0,0.0
+República de Macedonia del Norte,2020,2,False,0.0,0.0
+República de Macedonia del Norte,2020,3,False,0.0,0.0
+República de Macedonia del Norte,2020,4,False,0.0,0.0
+República de Macedonia del Norte,2021,1,False,0.0,0.0
+República de Macedonia del Norte,2021,2,False,0.0,0.0
+República de Macedonia del Norte,2021,3,False,0.0,0.0
+República de Macedonia del Norte,2021,4,False,0.0,0.0
+República de Macedonia del Norte,2022,1,False,0.0,0.0
+República de Macedonia del Norte,2022,2,False,0.0,0.0
+República de Macedonia del Norte,2022,3,False,0.0,0.0
+República de Macedonia del Norte,2022,4,False,0.0,0.0
+República de Macedonia del Norte,2023,1,False,0.0,0.0
+República de Macedonia del Norte,2023,2,False,0.0,0.0
+República de Macedonia del Norte,2023,3,False,0.0,0.0
+República de Macedonia del Norte,2023,4,False,0.0,0.0
+República de Macedonia del Norte,2024,1,False,0.0,0.0
+República de Macedonia del Norte,2024,2,False,0.0,0.0
+República de Macedonia del Norte,2024,3,False,0.0,0.0
+República de Macedonia del Norte,2024,4,False,0.0,0.0
+República de Macedonia del Norte,2025,1,False,0.0,0.0
+República de Macedonia del Norte,2025,2,False,0.0,0.0
+República de Macedonia del Norte,2025,3,False,0.0,0.0
+República de Macedonia del Norte,2025,4,True,,
+República de Macedonia del Norte,2026,1,False,0.0,0.0
+Rumanía,2018,1,False,0.0,0.0
+Rumanía,2018,2,True,,
+Rumanía,2018,3,False,0.00474369,
+Rumanía,2018,4,False,0.00474369,0.0
+Rumanía,2019,1,False,0.0,0.0
+Rumanía,2019,2,False,0.0,0.0
+Rumanía,2019,3,True,,
+Rumanía,2019,4,True,,
+Rumanía,2020,1,True,,
+Rumanía,2020,2,True,,
+Rumanía,2020,3,True,,
+Rumanía,2020,4,True,,
+Rumanía,2021,1,False,0.0,0.0
+Rumanía,2021,2,True,,
+Rumanía,2021,3,False,0.17918931,
+Rumanía,2021,4,False,0.17918931,0.0
+Rumanía,2022,1,False,0.36764232,0.36764232
+Rumanía,2022,2,False,0.36764232,0.0
+Rumanía,2022,3,False,0.47384558,0.10620325999999997
+Rumanía,2022,4,False,0.73731331,0.26346773
+Rumanía,2023,1,True,,
+Rumanía,2023,2,False,0.37569478,
+Rumanía,2023,3,False,11.41874433,11.043049550000001
+Rumanía,2023,4,False,9.56767382,-1.8510705100000013
+Rumanía,2024,1,True,,
+Rumanía,2024,2,False,7.43151171,
+Rumanía,2024,3,False,11.44124433,4.00973262
+Rumanía,2024,4,False,2.51251793,-8.9287264
+Rumanía,2025,1,True,,
+Rumanía,2025,2,False,-0.10961924,
+Rumanía,2025,3,False,1.10604026,1.2156595000000001
+Rumanía,2025,4,False,1.62862118,0.5225809199999998
+Rumanía,2026,1,True,,
+Samoa,2018,1,False,0.0,0.0
+Samoa,2018,2,False,0.0,0.0
+Samoa,2018,3,False,0.0,0.0
+Samoa,2018,4,False,0.0,0.0
+Samoa,2019,1,False,0.0,0.0
+Samoa,2019,2,False,0.0,0.0
+Samoa,2019,3,False,0.0,0.0
+Samoa,2019,4,False,0.0,0.0
+Samoa,2020,1,False,0.0,0.0
+Samoa,2020,2,False,0.0,0.0
+Samoa,2020,3,False,0.0,0.0
+Samoa,2020,4,False,0.0,0.0
+Samoa,2021,1,False,0.0,0.0
+Samoa,2021,2,False,0.0,0.0
+Samoa,2021,3,False,0.0,0.0
+Samoa,2021,4,False,0.0,0.0
+Samoa,2022,1,False,0.0,0.0
+Samoa,2022,2,False,0.0,0.0
+Samoa,2022,3,False,0.0,0.0
+Samoa,2022,4,False,0.0,0.0
+Samoa,2023,1,False,0.0,0.0
+Samoa,2023,2,False,0.0,0.0
+Samoa,2023,3,False,0.0,0.0
+Samoa,2023,4,False,0.0,0.0
+Samoa,2024,1,False,0.0,0.0
+Samoa,2024,2,False,0.0,0.0
+Samoa,2024,3,False,0.0,0.0
+Samoa,2024,4,False,0.0,0.0
+Samoa,2025,1,False,0.0,0.0
+Samoa,2025,2,False,0.0,0.0
+Samoa,2025,3,False,0.0,0.0
+Samoa,2025,4,True,,
+Samoa,2026,1,False,0.0,0.0
+San Cristóbal y Nieves,2018,1,False,0.0,0.0
+San Cristóbal y Nieves,2018,2,False,0.0,0.0
+San Cristóbal y Nieves,2018,3,False,0.0,0.0
+San Cristóbal y Nieves,2018,4,False,0.0,0.0
+San Cristóbal y Nieves,2019,1,False,0.0,0.0
+San Cristóbal y Nieves,2019,2,False,0.0,0.0
+San Cristóbal y Nieves,2019,3,False,0.0,0.0
+San Cristóbal y Nieves,2019,4,False,0.0,0.0
+San Cristóbal y Nieves,2020,1,False,0.0,0.0
+San Cristóbal y Nieves,2020,2,False,0.0,0.0
+San Cristóbal y Nieves,2020,3,False,0.0,0.0
+San Cristóbal y Nieves,2020,4,False,0.0,0.0
+San Cristóbal y Nieves,2021,1,False,0.0,0.0
+San Cristóbal y Nieves,2021,2,True,,
+San Cristóbal y Nieves,2021,3,True,,
+San Cristóbal y Nieves,2021,4,True,,
+San Cristóbal y Nieves,2022,1,True,,
+San Cristóbal y Nieves,2022,2,False,1.90652509,
+San Cristóbal y Nieves,2022,3,False,1.90652509,0.0
+San Cristóbal y Nieves,2022,4,False,1.90652509,0.0
+San Cristóbal y Nieves,2023,1,False,0.0,0.0
+San Cristóbal y Nieves,2023,2,False,0.0,0.0
+San Cristóbal y Nieves,2023,3,True,,
+San Cristóbal y Nieves,2023,4,True,,
+San Cristóbal y Nieves,2024,1,False,0.0,0.0
+San Cristóbal y Nieves,2024,2,False,0.0,0.0
+San Cristóbal y Nieves,2024,3,True,,
+San Cristóbal y Nieves,2024,4,True,,
+San Cristóbal y Nieves,2025,1,False,0.0,0.0
+San Cristóbal y Nieves,2025,2,False,0.0,0.0
+San Cristóbal y Nieves,2025,3,False,0.0,0.0
+San Cristóbal y Nieves,2025,4,False,0.0,0.0
+San Cristóbal y Nieves,2026,1,True,,
+San Vicente y las Granadinas,2018,1,False,0.0,0.0
+San Vicente y las Granadinas,2018,2,False,0.0,0.0
+San Vicente y las Granadinas,2018,3,False,0.0,0.0
+San Vicente y las Granadinas,2018,4,False,0.0,0.0
+San Vicente y las Granadinas,2019,1,False,0.0,0.0
+San Vicente y las Granadinas,2019,2,False,0.0,0.0
+San Vicente y las Granadinas,2019,3,False,0.0,0.0
+San Vicente y las Granadinas,2019,4,False,0.0,0.0
+San Vicente y las Granadinas,2020,1,False,0.0,0.0
+San Vicente y las Granadinas,2020,2,False,0.0,0.0
+San Vicente y las Granadinas,2020,3,False,0.0,0.0
+San Vicente y las Granadinas,2020,4,False,0.0,0.0
+San Vicente y las Granadinas,2021,1,False,0.0,0.0
+San Vicente y las Granadinas,2021,2,False,0.0,0.0
+San Vicente y las Granadinas,2021,3,False,0.0,0.0
+San Vicente y las Granadinas,2021,4,False,0.0,0.0
+San Vicente y las Granadinas,2022,1,False,0.0,0.0
+San Vicente y las Granadinas,2022,2,False,0.0,0.0
+San Vicente y las Granadinas,2022,3,False,0.0,0.0
+San Vicente y las Granadinas,2022,4,True,,
+San Vicente y las Granadinas,2023,1,False,0.0,0.0
+San Vicente y las Granadinas,2023,2,False,0.0,0.0
+San Vicente y las Granadinas,2023,3,False,0.0,0.0
+San Vicente y las Granadinas,2023,4,False,0.0,0.0
+San Vicente y las Granadinas,2024,1,False,0.0,0.0
+San Vicente y las Granadinas,2024,2,False,0.0,0.0
+San Vicente y las Granadinas,2024,3,False,0.0,0.0
+San Vicente y las Granadinas,2024,4,False,0.0,0.0
+San Vicente y las Granadinas,2025,1,False,0.0,0.0
+San Vicente y las Granadinas,2025,2,False,0.0,0.0
+San Vicente y las Granadinas,2025,3,False,0.0,0.0
+San Vicente y las Granadinas,2025,4,False,0.0,0.0
+San Vicente y las Granadinas,2026,1,False,0.0,0.0
+Santa Lucía,2018,1,False,0.0,0.0
+Santa Lucía,2018,2,False,0.0,0.0
+Santa Lucía,2018,3,False,0.0,0.0
+Santa Lucía,2018,4,False,0.0,0.0
+Santa Lucía,2019,1,False,0.0,0.0
+Santa Lucía,2019,2,False,0.0,0.0
+Santa Lucía,2019,3,False,0.0,0.0
+Santa Lucía,2019,4,False,0.0,0.0
+Santa Lucía,2020,1,False,0.0,0.0
+Santa Lucía,2020,2,False,0.0,0.0
+Santa Lucía,2020,3,False,0.0,0.0
+Santa Lucía,2020,4,False,0.0,0.0
+Santa Lucía,2021,1,False,0.0,0.0
+Santa Lucía,2021,2,False,0.0,0.0
+Santa Lucía,2021,3,False,0.0,0.0
+Santa Lucía,2021,4,True,,
+Santa Lucía,2022,1,False,0.0,0.0
+Santa Lucía,2022,2,False,0.0,0.0
+Santa Lucía,2022,3,False,0.0,0.0
+Santa Lucía,2022,4,False,0.0,0.0
+Santa Lucía,2023,1,False,0.0,0.0
+Santa Lucía,2023,2,False,0.0,0.0
+Santa Lucía,2023,3,False,0.0,0.0
+Santa Lucía,2023,4,False,0.0,0.0
+Santa Lucía,2024,1,False,0.0,0.0
+Santa Lucía,2024,2,False,0.0,0.0
+Santa Lucía,2024,3,False,0.0,0.0
+Santa Lucía,2024,4,False,0.0,0.0
+Santa Lucía,2025,1,False,0.0,0.0
+Santa Lucía,2025,2,False,0.0,0.0
+Santa Lucía,2025,3,False,0.0,0.0
+Santa Lucía,2025,4,False,0.0,0.0
+Santa Lucía,2026,1,False,0.0,0.0
+"Serbia, República de",2018,1,False,0.0,0.0
+"Serbia, República de",2018,2,False,0.0,0.0
+"Serbia, República de",2018,3,False,0.0,0.0
+"Serbia, República de",2018,4,False,0.0,0.0
+"Serbia, República de",2019,1,False,0.0,0.0
+"Serbia, República de",2019,2,False,0.0,0.0
+"Serbia, República de",2019,3,False,0.0,0.0
+"Serbia, República de",2019,4,False,0.0,0.0
+"Serbia, República de",2020,1,False,0.0,0.0
+"Serbia, República de",2020,2,False,0.0,0.0
+"Serbia, República de",2020,3,False,0.0,0.0
+"Serbia, República de",2020,4,False,0.0,0.0
+"Serbia, República de",2021,1,False,0.0,0.0
+"Serbia, República de",2021,2,True,,
+"Serbia, República de",2021,3,True,,
+"Serbia, República de",2021,4,True,,
+"Serbia, República de",2022,1,True,,
+"Serbia, República de",2022,2,True,,
+"Serbia, República de",2022,3,True,,
+"Serbia, República de",2022,4,True,,
+"Serbia, República de",2023,1,False,0.0,0.0
+"Serbia, República de",2023,2,False,0.0,0.0
+"Serbia, República de",2023,3,True,,
+"Serbia, República de",2023,4,True,,
+"Serbia, República de",2024,1,True,,
+"Serbia, República de",2024,2,True,,
+"Serbia, República de",2024,3,False,0.5560476,
+"Serbia, República de",2024,4,False,0.5560476,0.0
+"Serbia, República de",2025,1,False,0.0,0.0
+"Serbia, República de",2025,2,False,0.0,0.0
+"Serbia, República de",2025,3,False,0.0,0.0
+"Serbia, República de",2025,4,True,,
+"Serbia, República de",2026,1,False,0.0,0.0
+Singapur,2018,1,False,-0.85216187,-0.85216187
+Singapur,2018,2,False,-2.54911336,-1.6969514900000002
+Singapur,2018,3,False,-9.35209617,-6.80298281
+Singapur,2018,4,False,27.07678143,36.4288776
+Singapur,2019,1,True,,
+Singapur,2019,2,False,4.2054112,
+Singapur,2019,3,False,10.15088648,5.94547528
+Singapur,2019,4,False,10.973012,0.8221255200000002
+Singapur,2020,1,False,18.84657893,18.84657893
+Singapur,2020,2,False,17.7004634,-1.1461155299999994
+Singapur,2020,3,False,23.66345255,5.9629891499999985
+Singapur,2020,4,False,31.73164978,8.068197230000003
+Singapur,2021,1,True,,
+Singapur,2021,2,False,1.69260803,
+Singapur,2021,3,False,3.19450394,1.5018959100000002
+Singapur,2021,4,False,0.39214505,-2.8023588900000003
+Singapur,2022,1,False,-4.92683206,-4.92683206
+Singapur,2022,2,False,4.09964019,9.02647225
+Singapur,2022,3,False,5.83224882,1.7326086300000005
+Singapur,2022,4,False,3.53813924,-2.29410958
+Singapur,2023,1,True,,
+Singapur,2023,2,False,5.62796383,
+Singapur,2023,3,False,-5.85545317,-11.483417
+Singapur,2023,4,False,2.84173978,8.69719295
+Singapur,2024,1,False,8.49480982,8.49480982
+Singapur,2024,2,False,17.82253019,9.327720369999998
+Singapur,2024,3,False,30.95829444,13.135764250000001
+Singapur,2024,4,False,70.33793285,39.37963841
+Singapur,2025,1,False,11.42033533,11.42033533
+Singapur,2025,2,False,-12.07684812,-23.49718345
+Singapur,2025,3,False,127.0458577,139.12270582
+Singapur,2025,4,False,272.4389838,145.39312610000002
+Singapur,2026,1,False,14.1154057,14.1154057
+"Siria, República Árabe de",2018,1,False,0.0,0.0
+"Siria, República Árabe de",2018,2,False,0.0,0.0
+"Siria, República Árabe de",2018,3,True,,
+"Siria, República Árabe de",2018,4,True,,
+"Siria, República Árabe de",2019,1,False,0.0,0.0
+"Siria, República Árabe de",2019,2,False,0.0,0.0
+"Siria, República Árabe de",2019,3,False,0.0,0.0
+"Siria, República Árabe de",2019,4,False,0.0,0.0
+"Siria, República Árabe de",2020,1,False,0.0,0.0
+"Siria, República Árabe de",2020,2,False,0.0,0.0
+"Siria, República Árabe de",2020,3,False,0.0,0.0
+"Siria, República Árabe de",2020,4,False,0.0,0.0
+"Siria, República Árabe de",2021,1,False,0.0,0.0
+"Siria, República Árabe de",2021,2,False,0.0,0.0
+"Siria, República Árabe de",2021,3,False,0.0,0.0
+"Siria, República Árabe de",2021,4,False,0.0,0.0
+"Siria, República Árabe de",2022,1,False,0.0,0.0
+"Siria, República Árabe de",2022,2,False,0.0,0.0
+"Siria, República Árabe de",2022,3,False,0.0,0.0
+"Siria, República Árabe de",2022,4,False,0.0,0.0
+"Siria, República Árabe de",2023,1,False,0.0,0.0
+"Siria, República Árabe de",2023,2,False,0.0,0.0
+"Siria, República Árabe de",2023,3,False,0.0,0.0
+"Siria, República Árabe de",2023,4,False,0.0,0.0
+"Siria, República Árabe de",2024,1,False,0.0,0.0
+"Siria, República Árabe de",2024,2,False,0.0,0.0
+"Siria, República Árabe de",2024,3,False,0.0,0.0
+"Siria, República Árabe de",2024,4,False,0.0,0.0
+"Siria, República Árabe de",2025,1,False,0.0,0.0
+"Siria, República Árabe de",2025,2,False,0.0,0.0
+"Siria, República Árabe de",2025,3,True,,
+"Siria, República Árabe de",2025,4,True,,
+"Siria, República Árabe de",2026,1,False,0.0,0.0
+Sri Lanka,2018,1,False,0.0,0.0
+Sri Lanka,2018,2,False,0.0,0.0
+Sri Lanka,2018,3,False,0.0,0.0
+Sri Lanka,2018,4,False,0.0,0.0
+Sri Lanka,2019,1,False,0.0,0.0
+Sri Lanka,2019,2,False,0.0,0.0
+Sri Lanka,2019,3,False,0.0,0.0
+Sri Lanka,2019,4,False,0.0,0.0
+Sri Lanka,2020,1,False,0.0,0.0
+Sri Lanka,2020,2,False,0.0,0.0
+Sri Lanka,2020,3,False,0.0,0.0
+Sri Lanka,2020,4,False,0.0,0.0
+Sri Lanka,2021,1,False,0.0,0.0
+Sri Lanka,2021,2,False,0.0,0.0
+Sri Lanka,2021,3,False,0.0,0.0
+Sri Lanka,2021,4,False,0.0,0.0
+Sri Lanka,2022,1,True,,
+Sri Lanka,2022,2,True,,
+Sri Lanka,2022,3,True,,
+Sri Lanka,2022,4,True,,
+Sri Lanka,2023,1,False,0.0,0.0
+Sri Lanka,2023,2,False,0.0,0.0
+Sri Lanka,2023,3,False,0.0,0.0
+Sri Lanka,2023,4,False,0.0,0.0
+Sri Lanka,2024,1,False,0.0,0.0
+Sri Lanka,2024,2,False,0.0,0.0
+Sri Lanka,2024,3,True,,
+Sri Lanka,2024,4,True,,
+Sri Lanka,2025,1,False,0.0,0.0
+Sri Lanka,2025,2,True,,
+Sri Lanka,2025,3,True,,
+Sri Lanka,2025,4,False,4.42442089,
+Sri Lanka,2026,1,False,0.0,0.0
+Sudáfrica,2018,1,True,,
+Sudáfrica,2018,2,True,,
+Sudáfrica,2018,3,False,0.20575438,
+Sudáfrica,2018,4,False,16.332854,16.127099620000003
+Sudáfrica,2019,1,True,,
+Sudáfrica,2019,2,True,,
+Sudáfrica,2019,3,True,,
+Sudáfrica,2019,4,False,-0.961684,
+Sudáfrica,2020,1,True,,
+Sudáfrica,2020,2,True,,
+Sudáfrica,2020,3,False,0.07419127,
+Sudáfrica,2020,4,False,-11.41860851,-11.49279978
+Sudáfrica,2021,1,True,,
+Sudáfrica,2021,2,False,0.19687108,
+Sudáfrica,2021,3,False,0.2164911,0.019620019999999988
+Sudáfrica,2021,4,False,0.84791117,0.6314200700000001
+Sudáfrica,2022,1,True,,
+Sudáfrica,2022,2,False,0.69940725,
+Sudáfrica,2022,3,False,0.73704119,0.03763393999999998
+Sudáfrica,2022,4,False,0.91692785,0.17988665999999998
+Sudáfrica,2023,1,False,0.23117598,0.23117598
+Sudáfrica,2023,2,False,0.24027187,0.009095889999999995
+Sudáfrica,2023,3,False,0.30827155,0.06799968
+Sudáfrica,2023,4,False,0.31742162,0.00915007000000001
+Sudáfrica,2024,1,False,24.78707213,24.78707213
+Sudáfrica,2024,2,False,-13.77306498,-38.56013711
+Sudáfrica,2024,3,False,-16.17832401,-2.4052590300000016
+Sudáfrica,2024,4,False,-17.69305827,-1.5147342600000009
+Sudáfrica,2025,1,False,0.0,0.0
+Sudáfrica,2025,2,False,0.12724003,0.12724003
+Sudáfrica,2025,3,False,0.36466727,0.23742723999999998
+Sudáfrica,2025,4,False,0.18229117,-0.18237609999999999
+Sudáfrica,2026,1,False,0.0,0.0
+Sudán,2018,1,False,0.0,0.0
+Sudán,2018,2,False,0.0,0.0
+Sudán,2018,3,False,0.0,0.0
+Sudán,2018,4,False,0.0,0.0
+Sudán,2019,1,False,0.0,0.0
+Sudán,2019,2,False,0.0,0.0
+Sudán,2019,3,False,0.0,0.0
+Sudán,2019,4,False,0.0,0.0
+Sudán,2020,1,False,0.0,0.0
+Sudán,2020,2,False,0.0,0.0
+Sudán,2020,3,False,0.0,0.0
+Sudán,2020,4,False,0.0,0.0
+Sudán,2021,1,False,0.0,0.0
+Sudán,2021,2,False,0.0,0.0
+Sudán,2021,3,False,0.0,0.0
+Sudán,2021,4,False,0.0,0.0
+Sudán,2022,1,False,0.0,0.0
+Sudán,2022,2,False,0.0,0.0
+Sudán,2022,3,False,0.0,0.0
+Sudán,2022,4,False,0.0,0.0
+Sudán,2023,1,False,0.0,0.0
+Sudán,2023,2,False,0.0,0.0
+Sudán,2023,3,False,0.0,0.0
+Sudán,2023,4,False,0.0,0.0
+Sudán,2024,1,False,0.0,0.0
+Sudán,2024,2,False,0.0,0.0
+Sudán,2024,3,False,0.0,0.0
+Sudán,2024,4,False,0.0,0.0
+Sudán,2025,1,False,0.0,0.0
+Sudán,2025,2,False,0.0,0.0
+Sudán,2025,3,False,0.0,0.0
+Sudán,2025,4,False,0.0,0.0
+Sudán,2026,1,False,0.0,0.0
+Suecia,2018,1,False,15.83746012,15.83746012
+Suecia,2018,2,False,174.3339661,158.49650598
+Suecia,2018,3,False,103.0469092,-71.2870569
+Suecia,2018,4,False,116.6502399,13.6033307
+Suecia,2019,1,False,-52.6302063,-52.6302063
+Suecia,2019,2,False,6.51044768,59.140653979999996
+Suecia,2019,3,False,54.26803192,47.75758424
+Suecia,2019,4,False,94.09278958,39.82475766
+Suecia,2020,1,False,35.07146414,35.07146414
+Suecia,2020,2,False,110.210796,75.13933186
+Suecia,2020,3,False,164.9765072,54.765711199999984
+Suecia,2020,4,False,248.6847266,83.70821940000002
+Suecia,2021,1,False,-31.64759634,-31.64759634
+Suecia,2021,2,False,-99.93235214,-68.2847558
+Suecia,2021,3,False,-113.6903226,-13.757970459999996
+Suecia,2021,4,False,-92.14246671,21.547855890000008
+Suecia,2022,1,False,18.81608467,18.81608467
+Suecia,2022,2,False,113.5793139,94.76322923000001
+Suecia,2022,3,False,202.0359724,88.45665849999999
+Suecia,2022,4,False,197.6404425,-4.3955298999999854
+Suecia,2023,1,False,22.45515861,22.45515861
+Suecia,2023,2,False,50.28821172,27.833053109999998
+Suecia,2023,3,False,70.04220205,19.75399033
+Suecia,2023,4,False,209.5933679,139.55116585000002
+Suecia,2024,1,False,-58.41235337,-58.41235337
+Suecia,2024,2,False,-65.44932442,-7.036971049999998
+Suecia,2024,3,False,-136.6574538,-71.20812938000002
+Suecia,2024,4,False,42.15676137,178.81421517
+Suecia,2025,1,False,196.3037621,196.3037621
+Suecia,2025,2,False,306.0636386,109.75987649999999
+Suecia,2025,3,False,462.2385919,156.17495330000003
+Suecia,2025,4,False,439.3968152,-22.841776700000025
+Suecia,2026,1,False,-6.95379389,-6.95379389
+Suiza,2018,1,False,113.7873615,113.7873615
+Suiza,2018,2,False,262.2571193,148.4697578
+Suiza,2018,3,False,455.0184324,192.7613131
+Suiza,2018,4,False,556.5996281,101.58119570000002
+Suiza,2019,1,False,338.9215447,338.9215447
+Suiza,2019,2,False,621.7724495,282.85090479999997
+Suiza,2019,3,False,673.1055967,51.333147199999985
+Suiza,2019,4,False,648.5805288,-24.525067899999954
+Suiza,2020,1,False,47.59747314,47.59747314
+Suiza,2020,2,False,137.9659515,90.36847835999998
+Suiza,2020,3,False,176.2434147,38.2774632
+Suiza,2020,4,False,534.4657142,358.22229949999996
+Suiza,2021,1,False,95.06947608,95.06947608
+Suiza,2021,2,False,174.5378732,79.46839712
+Suiza,2021,3,False,213.2307823,38.69290909999998
+Suiza,2021,4,False,384.0046957,170.77391340000003
+Suiza,2022,1,False,170.5678746,170.5678746
+Suiza,2022,2,False,109.4913047,-61.07656990000001
+Suiza,2022,3,False,22.89834325,-86.59296145
+Suiza,2022,4,False,114.7962823,91.89793905
+Suiza,2023,1,False,463.2724586,463.2724586
+Suiza,2023,2,False,463.3537389,0.08128030000000308
+Suiza,2023,3,False,507.9087002,44.5549613
+Suiza,2023,4,False,349.0892589,-158.8194413
+Suiza,2024,1,False,763.5803838,763.5803838
+Suiza,2024,2,False,530.9831105,-232.5972733000001
+Suiza,2024,3,False,553.3553479,22.372237400000017
+Suiza,2024,4,False,540.1223173,-13.233030600000006
+Suiza,2025,1,False,507.6351784,507.6351784
+Suiza,2025,2,False,544.958729,37.323550599999976
+Suiza,2025,3,False,1404.889583,859.930854
+Suiza,2025,4,False,2039.502457,634.6128740000001
+Suiza,2026,1,False,87.92888205,87.92888205
+Surinam,2018,1,False,0.0,0.0
+Surinam,2018,2,False,0.0,0.0
+Surinam,2018,3,False,0.0,0.0
+Surinam,2018,4,False,0.0,0.0
+Surinam,2019,1,False,0.0,0.0
+Surinam,2019,2,False,0.0,0.0
+Surinam,2019,3,False,0.0,0.0
+Surinam,2019,4,False,0.0,0.0
+Surinam,2020,1,False,0.0,0.0
+Surinam,2020,2,False,0.0,0.0
+Surinam,2020,3,False,0.0,0.0
+Surinam,2020,4,False,0.0,0.0
+Surinam,2021,1,False,0.0,0.0
+Surinam,2021,2,False,0.0,0.0
+Surinam,2021,3,False,0.0,0.0
+Surinam,2021,4,False,0.0,0.0
+Surinam,2022,1,False,0.0,0.0
+Surinam,2022,2,False,0.0,0.0
+Surinam,2022,3,False,0.0,0.0
+Surinam,2022,4,False,0.0,0.0
+Surinam,2023,1,False,0.0,0.0
+Surinam,2023,2,False,0.0,0.0
+Surinam,2023,3,False,0.0,0.0
+Surinam,2023,4,False,0.0,0.0
+Surinam,2024,1,False,0.0,0.0
+Surinam,2024,2,False,0.0,0.0
+Surinam,2024,3,False,0.0,0.0
+Surinam,2024,4,False,0.0,0.0
+Surinam,2025,1,False,0.0,0.0
+Surinam,2025,2,False,0.0,0.0
+Surinam,2025,3,False,0.0,0.0
+Surinam,2025,4,False,0.0,0.0
+Surinam,2026,1,False,0.0,0.0
+Tailandia,2018,1,False,0.0,0.0
+Tailandia,2018,2,False,0.0,0.0
+Tailandia,2018,3,True,,
+Tailandia,2018,4,True,,
+Tailandia,2019,1,False,0.0,0.0
+Tailandia,2019,2,True,,
+Tailandia,2019,3,True,,
+Tailandia,2019,4,True,,
+Tailandia,2020,1,True,,
+Tailandia,2020,2,True,,
+Tailandia,2020,3,True,,
+Tailandia,2020,4,False,-0.67111292,
+Tailandia,2021,1,False,0.0,0.0
+Tailandia,2021,2,False,0.0,0.0
+Tailandia,2021,3,True,,
+Tailandia,2021,4,True,,
+Tailandia,2022,1,False,0.0,0.0
+Tailandia,2022,2,True,,
+Tailandia,2022,3,True,,
+Tailandia,2022,4,True,,
+Tailandia,2023,1,False,0.0,0.0
+Tailandia,2023,2,False,78.44965301,78.44965301
+Tailandia,2023,3,False,84.46075251,6.0110995
+Tailandia,2023,4,False,88.64597893,4.185226419999992
+Tailandia,2024,1,False,0.0,0.0
+Tailandia,2024,2,True,,
+Tailandia,2024,3,True,,
+Tailandia,2024,4,True,,
+Tailandia,2025,1,True,,
+Tailandia,2025,2,False,15.1444592,
+Tailandia,2025,3,False,21.32715548,6.182696279999998
+Tailandia,2025,4,False,-10.27104074,-31.59819622
+Tailandia,2026,1,True,,
+Taiwán,2018,1,False,1.102904,1.102904
+Taiwán,2018,2,False,-4.06092504,-5.1638290399999995
+Taiwán,2018,3,False,-7.35396013,-3.29303509
+Taiwán,2018,4,False,-45.97413347,-38.62017334
+Taiwán,2019,1,False,9.27884286,9.27884286
+Taiwán,2019,2,False,13.91236142,4.633518560000001
+Taiwán,2019,3,False,22.05601738,8.14365596
+Taiwán,2019,4,False,18.97132597,-3.0846914100000014
+Taiwán,2020,1,False,-0.12989347,-0.12989347
+Taiwán,2020,2,False,6.13669045,6.2665839199999995
+Taiwán,2020,3,False,17.80385858,11.66716813
+Taiwán,2020,4,False,37.83125676,20.027398180000002
+Taiwán,2021,1,False,0.61283825,0.61283825
+Taiwán,2021,2,False,16.9506671,16.33782885
+Taiwán,2021,3,False,34.63926928,17.68860218
+Taiwán,2021,4,False,46.54052227,11.901252989999996
+Taiwán,2022,1,False,11.02522461,11.02522461
+Taiwán,2022,2,False,19.46689373,8.441669119999998
+Taiwán,2022,3,False,16.70421833,-2.762675399999999
+Taiwán,2022,4,False,20.08835153,3.384133200000001
+Taiwán,2023,1,False,4.9093887,4.9093887
+Taiwán,2023,2,False,5.17607623,0.26668752999999956
+Taiwán,2023,3,False,7.24213001,2.0660537800000007
+Taiwán,2023,4,False,78.4665371,71.22440709
+Taiwán,2024,1,False,-9.41930479,-9.41930479
+Taiwán,2024,2,False,16.071862,25.49116679
+Taiwán,2024,3,False,19.86343549,3.791573490000001
+Taiwán,2024,4,False,71.19483666,51.33140117000001
+Taiwán,2025,1,False,0.5691318,0.5691318
+Taiwán,2025,2,False,23.86591835,23.29678655
+Taiwán,2025,3,False,1.26456359,-22.60135476
+Taiwán,2025,4,False,33.39943189,32.1348683
+Taiwán,2026,1,False,127.3222547,127.3222547
+Total general,2018,1,False,9502.38793,9502.38793
+Total general,2018,2,False,17842.3133,8339.92537
+Total general,2018,3,False,24133.97943,6291.666129999998
+Total general,2018,4,False,31604.29418,7470.314750000001
+Total general,2019,1,False,10161.95821,10161.95821
+Total general,2019,2,False,18102.45,7940.49179
+Total general,2019,3,False,26055.60837,7953.158370000001
+Total general,2019,4,False,32921.23555,6865.627179999996
+Total general,2020,1,False,10334.03857,10334.03857
+Total general,2020,2,False,17969.26465,7635.22608
+Total general,2020,3,False,23482.31884,5513.054189999999
+Total general,2020,4,False,29079.43309,5597.114249999999
+Total general,2021,1,False,11864.03046,11864.03046
+Total general,2021,2,False,18433.46954,6569.439079999998
+Total general,2021,3,False,24831.72427,6398.254730000001
+Total general,2021,4,False,31621.20435,6789.480080000001
+Total general,2022,1,False,19427.45779,19427.45779
+Total general,2022,2,False,27511.62373,8084.165939999999
+Total general,2022,3,False,32147.38886,4635.76513
+Total general,2022,4,False,35291.61836,3144.2295000000013
+Total general,2023,1,False,18635.69179,18635.69179
+Total general,2023,2,False,29040.82387,10405.13208
+Total general,2023,3,False,32926.4368,3885.612930000003
+Total general,2023,4,False,36058.04378,3131.606979999997
+Total general,2024,1,False,20312.65875,20312.65875
+Total general,2024,2,False,31096.32511,10783.666360000003
+Total general,2024,3,False,35737.48954,4641.164430000001
+Total general,2024,4,False,36872.42195,1134.9324100000013
+Total general,2025,1,False,21373.19311,21373.19311
+Total general,2025,2,False,34264.56746,12891.374349999998
+Total general,2025,3,False,40905.61372,6641.046260000003
+Total general,2025,4,False,40870.76933,-34.844389999998384
+Total general,2026,1,False,23590.62205,23590.62205
+Trinidad y Tobago,2018,1,False,0.0,0.0
+Trinidad y Tobago,2018,2,False,0.0,0.0
+Trinidad y Tobago,2018,3,False,0.0,0.0
+Trinidad y Tobago,2018,4,False,0.0,0.0
+Trinidad y Tobago,2019,1,True,,
+Trinidad y Tobago,2019,2,True,,
+Trinidad y Tobago,2019,3,False,0.12851924,
+Trinidad y Tobago,2019,4,False,0.12852447,5.229999999994961e-06
+Trinidad y Tobago,2020,1,False,0.0,0.0
+Trinidad y Tobago,2020,2,False,0.0,0.0
+Trinidad y Tobago,2020,3,False,0.0,0.0
+Trinidad y Tobago,2020,4,True,,
+Trinidad y Tobago,2021,1,False,0.0,0.0
+Trinidad y Tobago,2021,2,False,0.0,0.0
+Trinidad y Tobago,2021,3,True,,
+Trinidad y Tobago,2021,4,True,,
+Trinidad y Tobago,2022,1,False,0.0,0.0
+Trinidad y Tobago,2022,2,True,,
+Trinidad y Tobago,2022,3,True,,
+Trinidad y Tobago,2022,4,True,,
+Trinidad y Tobago,2023,1,False,0.0,0.0
+Trinidad y Tobago,2023,2,False,0.0,0.0
+Trinidad y Tobago,2023,3,False,0.0,0.0
+Trinidad y Tobago,2023,4,False,0.0,0.0
+Trinidad y Tobago,2024,1,False,0.0,0.0
+Trinidad y Tobago,2024,2,False,0.0,0.0
+Trinidad y Tobago,2024,3,False,0.0,0.0
+Trinidad y Tobago,2024,4,False,0.0,0.0
+Trinidad y Tobago,2025,1,True,,
+Trinidad y Tobago,2025,2,True,,
+Trinidad y Tobago,2025,3,True,,
+Trinidad y Tobago,2025,4,True,,
+Trinidad y Tobago,2026,1,False,0.0,0.0
+Turquía,2018,1,False,0.0,0.0
+Turquía,2018,2,False,0.0,0.0
+Turquía,2018,3,True,,
+Turquía,2018,4,True,,
+Turquía,2019,1,False,0.20552865,0.20552865
+Turquía,2019,2,False,0.19918707,-0.006341580000000013
+Turquía,2019,3,False,0.27489036,0.07570329
+Turquía,2019,4,False,0.27607573,0.001185370000000019
+Turquía,2020,1,False,0.0,0.0
+Turquía,2020,2,False,0.0,0.0
+Turquía,2020,3,False,0.0,0.0
+Turquía,2020,4,True,,
+Turquía,2021,1,True,,
+Turquía,2021,2,True,,
+Turquía,2021,3,False,0.16247112,
+Turquía,2021,4,False,0.2906144,0.12814328
+Turquía,2022,1,True,,
+Turquía,2022,2,False,-6.10590848,
+Turquía,2022,3,False,3.5285208,9.634429279999999
+Turquía,2022,4,False,-2.48128156,-6.00980236
+Turquía,2023,1,True,,
+Turquía,2023,2,False,-4.64068246,
+Turquía,2023,3,False,-8.79515403,-4.154471570000001
+Turquía,2023,4,False,-5.68883841,3.106315620000001
+Turquía,2024,1,True,,
+Turquía,2024,2,True,,
+Turquía,2024,3,False,-0.29197295,
+Turquía,2024,4,False,-0.17871864,0.11325431
+Turquía,2025,1,True,,
+Turquía,2025,2,False,1.09579402,
+Turquía,2025,3,False,1.15180868,0.056014659999999994
+Turquía,2025,4,False,1.33549526,0.18368658000000004
+Turquía,2026,1,True,,
+Túnez,2018,1,False,0.0,0.0
+Túnez,2018,2,False,0.0,0.0
+Túnez,2018,3,False,0.0,0.0
+Túnez,2018,4,False,0.0,0.0
+Túnez,2019,1,False,0.0,0.0
+Túnez,2019,2,False,0.0,0.0
+Túnez,2019,3,False,0.0,0.0
+Túnez,2019,4,False,0.0,0.0
+Túnez,2020,1,False,0.0,0.0
+Túnez,2020,2,False,0.0,0.0
+Túnez,2020,3,False,0.0,0.0
+Túnez,2020,4,False,0.0,0.0
+Túnez,2021,1,False,0.0,0.0
+Túnez,2021,2,False,0.0,0.0
+Túnez,2021,3,True,,
+Túnez,2021,4,True,,
+Túnez,2022,1,False,0.0,0.0
+Túnez,2022,2,False,0.0,0.0
+Túnez,2022,3,False,0.0,0.0
+Túnez,2022,4,False,0.0,0.0
+Túnez,2023,1,True,,
+Túnez,2023,2,True,,
+Túnez,2023,3,False,0.0,
+Túnez,2023,4,True,,
+Túnez,2024,1,False,0.0,0.0
+Túnez,2024,2,False,0.0,0.0
+Túnez,2024,3,False,0.0,0.0
+Túnez,2024,4,False,0.0,0.0
+Túnez,2025,1,False,0.0,0.0
+Túnez,2025,2,False,0.0,0.0
+Túnez,2025,3,False,0.0,0.0
+Túnez,2025,4,False,0.0,0.0
+Túnez,2026,1,False,0.0,0.0
+Ucrania,2018,1,False,0.0,0.0
+Ucrania,2018,2,True,,
+Ucrania,2018,3,True,,
+Ucrania,2018,4,False,0.13852994,
+Ucrania,2019,1,False,0.0,0.0
+Ucrania,2019,2,True,,
+Ucrania,2019,3,False,0.73866294,
+Ucrania,2019,4,False,0.73866294,0.0
+Ucrania,2020,1,True,,
+Ucrania,2020,2,True,,
+Ucrania,2020,3,True,,
+Ucrania,2020,4,True,,
+Ucrania,2021,1,False,0.0,0.0
+Ucrania,2021,2,True,,
+Ucrania,2021,3,False,0.32945324,
+Ucrania,2021,4,False,0.39115856,0.06170532000000001
+Ucrania,2022,1,False,0.73447365,0.73447365
+Ucrania,2022,2,False,0.64191632,-0.09255733
+Ucrania,2022,3,False,1.41486796,0.77295164
+Ucrania,2022,4,False,1.9570404,0.5421724399999999
+Ucrania,2023,1,True,,
+Ucrania,2023,2,False,1.08931314,
+Ucrania,2023,3,False,0.91210434,-0.17720880000000006
+Ucrania,2023,4,False,1.50879618,0.5966918400000001
+Ucrania,2024,1,True,,
+Ucrania,2024,2,False,0.70779502,
+Ucrania,2024,3,False,1.00020738,0.2924123599999999
+Ucrania,2024,4,False,2.54834857,1.54814119
+Ucrania,2025,1,True,,
+Ucrania,2025,2,False,0.47526357,
+Ucrania,2025,3,False,0.56892753,0.09366395999999994
+Ucrania,2025,4,False,0.84901779,0.28009026000000004
+Ucrania,2026,1,True,,
+Uruguay,2018,1,False,21.42665733,21.42665733
+Uruguay,2018,2,False,23.38331987,1.95666254
+Uruguay,2018,3,False,28.07966861,4.696348739999998
+Uruguay,2018,4,False,28.20638756,0.12671895000000077
+Uruguay,2019,1,True,,
+Uruguay,2019,2,False,26.06588777,
+Uruguay,2019,3,False,25.15301519,-0.9128725799999984
+Uruguay,2019,4,False,26.00620956,0.8531943699999971
+Uruguay,2020,1,False,15.19446615,15.19446615
+Uruguay,2020,2,False,24.85685454,9.66238839
+Uruguay,2020,3,False,21.67235283,-3.1845017099999993
+Uruguay,2020,4,False,15.25495404,-6.417398790000002
+Uruguay,2021,1,True,,
+Uruguay,2021,2,False,38.97061579,
+Uruguay,2021,3,False,35.07672547,-3.893890319999997
+Uruguay,2021,4,False,45.25901613,10.18229066
+Uruguay,2022,1,True,,
+Uruguay,2022,2,False,38.27369886,
+Uruguay,2022,3,False,28.62600985,-9.647689010000004
+Uruguay,2022,4,False,28.90939491,0.2833850600000005
+Uruguay,2023,1,False,64.76602733,64.76602733
+Uruguay,2023,2,False,55.61864588,-9.147381449999997
+Uruguay,2023,3,False,56.19221758,0.5735716999999951
+Uruguay,2023,4,False,58.68112041,2.4889028300000007
+Uruguay,2024,1,True,,
+Uruguay,2024,2,False,50.39966055,
+Uruguay,2024,3,False,43.38473596,-7.01492459
+Uruguay,2024,4,False,45.15939603,1.774660070000003
+Uruguay,2025,1,True,,
+Uruguay,2025,2,False,31.58074893,
+Uruguay,2025,3,False,31.65319728,0.07244835000000194
+Uruguay,2025,4,False,35.87226542,4.219068139999997
+Uruguay,2026,1,False,0.52110829,0.52110829
+Vanuatu,2018,1,False,0.0,0.0
+Vanuatu,2018,2,False,0.0,0.0
+Vanuatu,2018,3,True,,
+Vanuatu,2018,4,True,,
+Vanuatu,2019,1,False,0.0,0.0
+Vanuatu,2019,2,False,0.0,0.0
+Vanuatu,2019,3,False,0.0,0.0
+Vanuatu,2019,4,True,,
+Vanuatu,2020,1,False,0.0,0.0
+Vanuatu,2020,2,False,0.0,0.0
+Vanuatu,2020,3,False,0.0,0.0
+Vanuatu,2020,4,False,0.0,0.0
+Vanuatu,2021,1,False,0.0,0.0
+Vanuatu,2021,2,False,0.0,0.0
+Vanuatu,2021,3,False,0.0,0.0
+Vanuatu,2021,4,False,0.0,0.0
+Vanuatu,2022,1,False,0.0,0.0
+Vanuatu,2022,2,False,0.0,0.0
+Vanuatu,2022,3,False,0.0,0.0
+Vanuatu,2022,4,False,0.0,0.0
+Vanuatu,2023,1,False,0.0,0.0
+Vanuatu,2023,2,False,0.0,0.0
+Vanuatu,2023,3,False,0.0,0.0
+Vanuatu,2023,4,False,0.0,0.0
+Vanuatu,2024,1,False,0.0,0.0
+Vanuatu,2024,2,False,0.0,0.0
+Vanuatu,2024,3,False,0.0,0.0
+Vanuatu,2024,4,False,0.0,0.0
+Vanuatu,2025,1,False,0.0,0.0
+Vanuatu,2025,2,False,0.0,0.0
+Vanuatu,2025,3,False,0.0,0.0
+Vanuatu,2025,4,False,0.0,0.0
+Vanuatu,2026,1,False,0.0,0.0
+"Venezuela, República Bolivariana de",2018,1,False,1.77573227,1.77573227
+"Venezuela, República Bolivariana de",2018,2,False,2.45839243,0.68266016
+"Venezuela, República Bolivariana de",2018,3,False,-55.98673953,-58.44513196
+"Venezuela, República Bolivariana de",2018,4,False,-20.28702838,35.69971115
+"Venezuela, República Bolivariana de",2019,1,False,1.03462181,1.03462181
+"Venezuela, República Bolivariana de",2019,2,False,-4.93000193,-5.96462374
+"Venezuela, República Bolivariana de",2019,3,False,-20.54438298,-15.614381050000002
+"Venezuela, República Bolivariana de",2019,4,False,-36.31010086,-15.765717879999997
+"Venezuela, República Bolivariana de",2020,1,False,2.12521909,2.12521909
+"Venezuela, República Bolivariana de",2020,2,False,13.37568562,11.25046653
+"Venezuela, República Bolivariana de",2020,3,False,17.2517399,3.87605428
+"Venezuela, República Bolivariana de",2020,4,False,16.26377851,-0.9879613899999988
+"Venezuela, República Bolivariana de",2021,1,False,1.14626135,1.14626135
+"Venezuela, República Bolivariana de",2021,2,False,4.29259483,3.1463334799999996
+"Venezuela, República Bolivariana de",2021,3,False,6.20461688,1.91202205
+"Venezuela, República Bolivariana de",2021,4,False,2.27598176,-3.9286351199999996
+"Venezuela, República Bolivariana de",2022,1,False,2.04317932,2.04317932
+"Venezuela, República Bolivariana de",2022,2,False,3.78223003,1.7390507099999999
+"Venezuela, República Bolivariana de",2022,3,False,5.91809724,2.13586721
+"Venezuela, República Bolivariana de",2022,4,False,7.58395651,1.6658592700000003
+"Venezuela, República Bolivariana de",2023,1,False,3.91815988,3.91815988
+"Venezuela, República Bolivariana de",2023,2,False,12.03588718,8.117727299999999
+"Venezuela, República Bolivariana de",2023,3,False,14.16644436,2.1305571800000003
+"Venezuela, República Bolivariana de",2023,4,False,8.74563439,-5.4208099700000005
+"Venezuela, República Bolivariana de",2024,1,False,0.9473458,0.9473458
+"Venezuela, República Bolivariana de",2024,2,False,8.41948864,7.472142840000001
+"Venezuela, República Bolivariana de",2024,3,False,19.61086346,11.19137482
+"Venezuela, República Bolivariana de",2024,4,False,45.25163267,25.64076921
+"Venezuela, República Bolivariana de",2025,1,False,3.50346041,3.50346041
+"Venezuela, República Bolivariana de",2025,2,False,7.78984616,4.286385749999999
+"Venezuela, República Bolivariana de",2025,3,False,12.34066937,4.550823210000001
+"Venezuela, República Bolivariana de",2025,4,False,28.74036792,16.39969855
+"Venezuela, República Bolivariana de",2026,1,False,1.73662424,1.73662424
+Vietnam,2018,1,False,0.0,0.0
+Vietnam,2018,2,False,0.0,0.0
+Vietnam,2018,3,False,0.7669635,0.7669635
+Vietnam,2018,4,False,0.7669635,0.0
+Vietnam,2019,1,False,0.0,0.0
+Vietnam,2019,2,False,0.0,0.0
+Vietnam,2019,3,False,0.0,0.0
+Vietnam,2019,4,False,0.0,0.0
+Vietnam,2020,1,False,0.0,0.0
+Vietnam,2020,2,False,0.0,0.0
+Vietnam,2020,3,True,,
+Vietnam,2020,4,True,,
+Vietnam,2021,1,False,0.0,0.0
+Vietnam,2021,2,False,0.0,0.0
+Vietnam,2021,3,False,0.0,0.0
+Vietnam,2021,4,False,0.0,0.0
+Vietnam,2022,1,False,0.0,0.0
+Vietnam,2022,2,False,0.0,0.0
+Vietnam,2022,3,False,0.0,0.0
+Vietnam,2022,4,True,,
+Vietnam,2023,1,False,0.0,0.0
+Vietnam,2023,2,False,0.0,0.0
+Vietnam,2023,3,False,0.0,0.0
+Vietnam,2023,4,True,,
+Vietnam,2024,1,False,0.0,0.0
+Vietnam,2024,2,False,0.0,0.0
+Vietnam,2024,3,False,0.0,0.0
+Vietnam,2024,4,False,0.0,0.0
+Vietnam,2025,1,False,0.0,0.0
+Vietnam,2025,2,True,,
+Vietnam,2025,3,True,,
+Vietnam,2025,4,True,,
+Vietnam,2026,1,False,0.0,0.0
+"Yemen, República de",2018,1,False,0.0,0.0
+"Yemen, República de",2018,2,False,0.0,0.0
+"Yemen, República de",2018,3,False,0.0,0.0
+"Yemen, República de",2018,4,False,0.0,0.0
+"Yemen, República de",2019,1,False,0.0,0.0
+"Yemen, República de",2019,2,False,0.0,0.0
+"Yemen, República de",2019,3,False,0.0,0.0
+"Yemen, República de",2019,4,False,0.0,0.0
+"Yemen, República de",2020,1,False,0.0,0.0
+"Yemen, República de",2020,2,False,0.0,0.0
+"Yemen, República de",2020,3,False,0.0,0.0
+"Yemen, República de",2020,4,False,0.0,0.0
+"Yemen, República de",2021,1,False,0.0,0.0
+"Yemen, República de",2021,2,False,0.0,0.0
+"Yemen, República de",2021,3,False,0.0,0.0
+"Yemen, República de",2021,4,False,0.0,0.0
+"Yemen, República de",2022,1,False,0.0,0.0
+"Yemen, República de",2022,2,False,0.0,0.0
+"Yemen, República de",2022,3,False,0.0,0.0
+"Yemen, República de",2022,4,False,0.0,0.0
+"Yemen, República de",2023,1,False,0.0,0.0
+"Yemen, República de",2023,2,False,0.0,0.0
+"Yemen, República de",2023,3,False,0.0,0.0
+"Yemen, República de",2023,4,False,0.0,0.0
+"Yemen, República de",2024,1,False,0.0,0.0
+"Yemen, República de",2024,2,False,0.0,0.0
+"Yemen, República de",2024,3,False,0.0,0.0
+"Yemen, República de",2024,4,False,0.0,0.0
+"Yemen, República de",2025,1,False,0.0,0.0
+"Yemen, República de",2025,2,False,0.0,0.0
+"Yemen, República de",2025,3,False,0.0,0.0
+"Yemen, República de",2025,4,False,0.0,0.0
+"Yemen, República de",2026,1,False,0.0,0.0
+Zambia,2018,1,False,0.0,0.0
+Zambia,2018,2,False,0.0,0.0
+Zambia,2018,3,False,0.0,0.0
+Zambia,2018,4,False,0.0,0.0
+Zambia,2019,1,False,0.0,0.0
+Zambia,2019,2,False,0.0,0.0
+Zambia,2019,3,False,0.0,0.0
+Zambia,2019,4,False,0.0,0.0
+Zambia,2020,1,False,0.0,0.0
+Zambia,2020,2,False,0.0,0.0
+Zambia,2020,3,False,0.0,0.0
+Zambia,2020,4,False,0.0,0.0
+Zambia,2021,1,False,0.0,0.0
+Zambia,2021,2,False,0.0,0.0
+Zambia,2021,3,False,0.0,0.0
+Zambia,2021,4,False,0.0,0.0
+Zambia,2022,1,False,0.0,0.0
+Zambia,2022,2,False,0.0,0.0
+Zambia,2022,3,False,0.0,0.0
+Zambia,2022,4,False,0.0,0.0
+Zambia,2023,1,False,0.0,0.0
+Zambia,2023,2,False,0.0,0.0
+Zambia,2023,3,False,0.0,0.0
+Zambia,2023,4,False,0.0,0.0
+Zambia,2024,1,False,0.0,0.0
+Zambia,2024,2,True,,
+Zambia,2024,3,True,,
+Zambia,2024,4,True,,
+Zambia,2025,1,False,0.0,0.0
+Zambia,2025,2,False,0.0,0.0
+Zambia,2025,3,False,0.0,0.0
+Zambia,2025,4,False,0.0,0.0
+Zambia,2026,1,False,0.0,0.0
+Zimbabue,2018,1,False,0.0,0.0
+Zimbabue,2018,2,False,0.0,0.0
+Zimbabue,2018,3,False,0.0,0.0
+Zimbabue,2018,4,False,0.0,0.0
+Zimbabue,2019,1,False,0.0,0.0
+Zimbabue,2019,2,False,0.0,0.0
+Zimbabue,2019,3,False,0.0,0.0
+Zimbabue,2019,4,False,0.0,0.0
+Zimbabue,2020,1,False,0.0,0.0
+Zimbabue,2020,2,False,0.0,0.0
+Zimbabue,2020,3,False,0.0,0.0
+Zimbabue,2020,4,False,0.0,0.0
+Zimbabue,2021,1,False,0.0,0.0
+Zimbabue,2021,2,False,0.0,0.0
+Zimbabue,2021,3,False,0.0,0.0
+Zimbabue,2021,4,False,0.0,0.0
+Zimbabue,2022,1,False,0.0,0.0
+Zimbabue,2022,2,False,0.0,0.0
+Zimbabue,2022,3,False,0.0,0.0
+Zimbabue,2022,4,False,0.0,0.0
+Zimbabue,2023,1,False,0.0,0.0
+Zimbabue,2023,2,False,0.0,0.0
+Zimbabue,2023,3,False,0.0,0.0
+Zimbabue,2023,4,False,0.0,0.0
+Zimbabue,2024,1,False,0.0,0.0
+Zimbabue,2024,2,False,0.0,0.0
+Zimbabue,2024,3,False,0.0,0.0
+Zimbabue,2024,4,False,0.0,0.0
+Zimbabue,2025,1,False,0.0,0.0
+Zimbabue,2025,2,False,0.0,0.0
+Zimbabue,2025,3,False,0.0,0.0
+Zimbabue,2025,4,False,0.0,0.0
+Zimbabue,2026,1,False,0.0,0.0
