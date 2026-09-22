@@ -77,6 +77,59 @@
         "no_trabajadores"
       ]
     },
+    "rango_uma": {
+      "filas": 128,
+      "columnas": [
+        "anio",
+        "rango_uma",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores"
+      ]
+    },
+    "entidad_rango": {
+      "filas": 2591,
+      "columnas": [
+        "anio",
+        "cve_entidad",
+        "rango_salarial",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores",
+        "entidad"
+      ]
+    },
+    "entidad_uma": {
+      "filas": 4094,
+      "columnas": [
+        "anio",
+        "cve_entidad",
+        "rango_uma",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores",
+        "entidad"
+      ]
+    },
+    "sexo_rango": {
+      "filas": 171,
+      "columnas": [
+        "anio",
+        "sexo",
+        "rango_salarial",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores"
+      ]
+    },
     "tamano_patron": {
       "filas": 40,
       "columnas": [
