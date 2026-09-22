@@ -1,0 +1,118 @@
+{
+  "fecha_consulta": "2026-09-21",
+  "fuente": "Datos Abiertos IMSS · conjuntos asg-<año> · corte del 31 de agosto",
+  "licencia": "Libre Uso MX",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
+  "crudos": {
+    "2018": {
+      "archivo": "asg-2018-08-31.csv",
+      "bytes": 388302056
+    },
+    "2020": {
+      "archivo": "asg-2020-08-31.csv",
+      "bytes": 368393845
+    },
+    "2022": {
+      "archivo": "asg-2022-08-31.csv",
+      "bytes": 405158070
+    },
+    "2024": {
+      "archivo": "asg-2024-08-31.csv",
+      "bytes": 385971269
+    },
+    "2026": {
+      "archivo": "asg-2026-08-31.csv",
+      "bytes": 402648687
+    }
+  },
+  "agregados": {
+    "nacional": {
+      "filas": 5,
+      "columnas": [
+        "anio",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores"
+      ]
+    },
+    "entidad_sexo": {
+      "filas": 339,
+      "columnas": [
+        "anio",
+        "cve_entidad",
+        "sexo",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores",
+        "entidad"
+      ]
+    },
+    "sector_sexo": {
+      "filas": 107,
+      "columnas": [
+        "anio",
+        "sector_economico_1",
+        "sexo",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores",
+        "sector"
+      ]
+    },
+    "rango_salarial": {
+      "filas": 81,
+      "columnas": [
+        "anio",
+        "rango_salarial",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores"
+      ]
+    },
+    "tamano_patron": {
+      "filas": 40,
+      "columnas": [
+        "anio",
+        "tamano_patron",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores"
+      ]
+    },
+    "edad_sexo": {
+      "filas": 148,
+      "columnas": [
+        "anio",
+        "rango_edad",
+        "sexo",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores"
+      ]
+    },
+    "plataforma": {
+      "filas": 6,
+      "columnas": [
+        "anio",
+        "ptpd",
+        "ta",
+        "ta_sal",
+        "masa_sal_ta",
+        "permanentes",
+        "no_trabajadores"
+      ]
+    }
+  }
+}
